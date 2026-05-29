@@ -35,7 +35,7 @@
           "United States"
         ],
         "seniority": "Mid",
-        "source_url": "https://jobs.ashbyhq.com/cohere/b0bcef37-1d20-414f-aade-c54942d63df9"
+        "source_url": "https://jobs.ashbyhq.com/cohere/75c0032c-7200-48bf-9d6d-355880dd93d9"
       }
     ]
   },
@@ -188,7 +188,18 @@
           "Lausanne"
         ],
         "seniority": "Mid",
-        "source_url": "https://jobs.lever.co/mistral"
+        "source_url": "https://jobs.lever.co/mistral/77f6fd1b-65cf-45d8-9b68-594c62732f62"
+      },
+      {
+        "title": "Applied AI, Technical Lead, Forward Deployed AI Engineer - EMEA",
+        "locations": [
+          "Paris",
+          "Munich",
+          "London",
+          "Amsterdam"
+        ],
+        "seniority": "Senior",
+        "source_url": "https://jobs.lever.co/mistral/e2cf255f-49c8-4630-afe0-7f665f51f01f"
       },
       {
         "title": "Applied AI, Technical Lead - Forward Deployed AI Engineer",
@@ -264,17 +275,63 @@
   {
     "company_slug": "scale-ai",
     "company_name": "Scale AI",
-    "category": "startup",
+    "category": "ai_lab",
     "industries": [
       "data infra",
       "genai / applied ai"
     ],
     "source_type": "careers_search",
     "source_url": "https://www.scale.com/careers",
-    "observed_at": "2026-05-27T08:00:00.000Z",
+    "observed_at": "2026-05-29T12:00:00.000Z",
     "refresh_cadence": "weekly",
-    "notes": "Tracked as a priority AI infrastructure company with customer-facing deployment and applied AI roles.",
-    "observed_roles": []
+    "notes": "Priority AI-lab / AI-deployment sweep source because Scale AI has multiple live exact forward-deployed engineering and applied AI deployment roles.",
+    "observed_roles": [
+      {
+        "title": "Director, Forward Deployed Engineering",
+        "locations": [
+          "London",
+          "United Kingdom"
+        ],
+        "seniority": "Leadership",
+        "source_url": "https://scale.com/careers/4690504005"
+      },
+      {
+        "title": "Forward Deployed AI Engineer, Enterprise",
+        "locations": [
+          "San Francisco",
+          "New York",
+          "United States"
+        ],
+        "seniority": "Mid",
+        "source_url": "https://scale.com/careers/4694861005"
+      },
+      {
+        "title": "Senior Forward Deployed Data Scientist/Engineer",
+        "locations": [
+          "San Francisco",
+          "New York",
+          "United States"
+        ],
+        "seniority": "Senior",
+        "source_url": "https://scale.com/careers/4636227005"
+      },
+      {
+        "title": "Staff Full-Stack Software Engineer, (Forward Deployed), GPS",
+        "locations": [
+          "United States"
+        ],
+        "seniority": "Staff",
+        "source_url": "https://scale.com/careers/4676610005"
+      },
+      {
+        "title": "Full-Stack Software Engineer, (Forward Deployed), GPS",
+        "locations": [
+          "United States"
+        ],
+        "seniority": "Mid",
+        "source_url": "https://scale.com/careers/4676600005"
+      }
+    ]
   },
   {
     "company_slug": "together-ai",

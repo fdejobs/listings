@@ -1040,6 +1040,22 @@
     "notes": null
   },
   {
+    "slug": "scale-ai",
+    "name": "Scale AI",
+    "logo_url": null,
+    "stage": "series_d_plus",
+    "headcount_band": "1000+",
+    "industry_tags": [
+      "ai infra",
+      "genai / applied ai"
+    ],
+    "ats_provider": null,
+    "ats_slug": null,
+    "custom_scraper_id": null,
+    "is_active": true,
+    "notes": "Priority AI deployment company for the FDE source sweep."
+  },
+  {
     "slug": "saronic",
     "name": "Saronic",
     "logo_url": null,

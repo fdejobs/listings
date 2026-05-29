@@ -27,22 +27,23 @@ Every live listing should have:
 - Company, title, locations, country/remote status, industry, funding stage, seniority, and role family tags.
 - A dedupe key based on source URL first, then company + title + primary location.
 
-## Priority AI Lab Sweep
+## Priority AI Lab / AI Deployment Sweep
 
 Review these first before broader startup/company sweeps:
 
 1. OpenAI
 2. Anthropic
 3. Google DeepMind / Google Cloud Applied AI
-4. Mistral AI
-5. Cohere
-6. xAI
-7. Perplexity
-8. AI21 Labs
-9. Reka
-10. Together AI
+4. Scale AI
+5. Mistral AI
+6. Cohere
+7. xAI
+8. Perplexity
+9. AI21 Labs
+10. Reka
+11. Together AI
 
-Cohere and Mistral should be treated as priority sources because both have active forward-deployed / applied AI customer deployment hiring signals.
+Cohere, Mistral, and Scale AI should be treated as priority sources because they have active forward-deployed / applied AI customer deployment hiring signals.
 
 ## Broader Company Universe
 

@@ -22,12 +22,22 @@
       "frontier ai",
       "enterprise ai"
     ],
-    "source_type": "careers_search",
-    "source_url": "https://cohere.com/careers",
-    "observed_at": "2026-05-27T08:00:00.000Z",
-    "refresh_cadence": "weekly",
-    "notes": "Tracked as a priority frontier AI company. Career-page roles are reviewed for field engineering, applied AI, and deployment-engineering language.",
-    "observed_roles": []
+    "source_type": "ats_api",
+    "source_url": "https://api.ashbyhq.com/posting-api/job-board/cohere?includeCompensation=true",
+    "observed_at": "2026-05-29T12:00:00.000Z",
+    "refresh_cadence": "daily",
+    "notes": "Priority frontier AI lab. Ashby roles are reviewed for exact forward-deployed, applied AI, and production deployment language before publication.",
+    "observed_roles": [
+      {
+        "title": "Forward Deployed Engineer, Agentic Platform",
+        "locations": [
+          "Toronto",
+          "United States"
+        ],
+        "seniority": "Mid",
+        "source_url": "https://jobs.ashbyhq.com/cohere/b0bcef37-1d20-414f-aade-c54942d63df9"
+      }
+    ]
   },
   {
     "company_slug": "bonsai-labs",
@@ -42,6 +52,36 @@
     "observed_at": "2026-05-27T08:00:00.000Z",
     "refresh_cadence": "weekly",
     "notes": "Tracked as a priority AI deployment consultancy. Current careers copy emphasizes embedded production AI delivery; roles are reviewed manually for FDE-equivalent scope before inclusion.",
+    "observed_roles": []
+  },
+  {
+    "company_slug": "ai21-labs",
+    "company_name": "AI21 Labs",
+    "category": "ai_lab",
+    "industries": [
+      "frontier ai",
+      "genai / applied ai"
+    ],
+    "source_type": "careers_search",
+    "source_url": "https://www.ai21.com/careers",
+    "observed_at": "2026-05-29T12:00:00.000Z",
+    "refresh_cadence": "weekly",
+    "notes": "Priority AI-lab sweep source. Include only roles with forward-deployed ownership or hands-on customer deployment scope.",
+    "observed_roles": []
+  },
+  {
+    "company_slug": "google-deepmind",
+    "company_name": "Google DeepMind",
+    "category": "ai_lab",
+    "industries": [
+      "frontier ai",
+      "research"
+    ],
+    "source_type": "careers_search",
+    "source_url": "https://www.google.com/about/careers/applications/jobs/results/?q=DeepMind",
+    "observed_at": "2026-05-29T12:00:00.000Z",
+    "refresh_cadence": "weekly",
+    "notes": "Priority AI-lab sweep source. Google Cloud FDE roles are tracked separately under google-cloud when the role is explicitly cloud/applied-AI deployment.",
     "observed_roles": []
   },
   {
@@ -123,6 +163,45 @@
     "observed_roles": []
   },
   {
+    "company_slug": "mistral-ai",
+    "company_name": "Mistral AI",
+    "category": "ai_lab",
+    "industries": [
+      "frontier ai",
+      "genai / applied ai"
+    ],
+    "source_type": "ats_api",
+    "source_url": "https://api.lever.co/v0/postings/mistral?mode=json",
+    "observed_at": "2026-05-29T12:00:00.000Z",
+    "refresh_cadence": "daily",
+    "notes": "Priority frontier AI lab. Lever roles are reviewed for exact forward-deployed machine learning, forward-deployed AI, and applied AI customer deployment scope.",
+    "observed_roles": [
+      {
+        "title": "Applied AI, Forward Deployed Machine Learning Engineer - EMEA",
+        "locations": [
+          "Paris",
+          "London",
+          "Luxembourg",
+          "Marseille",
+          "Amsterdam",
+          "Munich",
+          "Lausanne"
+        ],
+        "seniority": "Mid",
+        "source_url": "https://jobs.lever.co/mistral"
+      },
+      {
+        "title": "Applied AI, Technical Lead - Forward Deployed AI Engineer",
+        "locations": [
+          "New York",
+          "United States"
+        ],
+        "seniority": "Senior",
+        "source_url": "https://jobs.lever.co/mistral/ebfdc0da-13fd-4ae9-9861-bedb5ff493ea"
+      }
+    ]
+  },
+  {
     "company_slug": "openai",
     "company_name": "OpenAI",
     "category": "ai_lab",
@@ -153,6 +232,36 @@
     "observed_roles": []
   },
   {
+    "company_slug": "perplexity",
+    "company_name": "Perplexity",
+    "category": "ai_lab",
+    "industries": [
+      "genai / applied ai",
+      "ai applications"
+    ],
+    "source_type": "careers_search",
+    "source_url": "https://www.perplexity.ai/hub/careers",
+    "observed_at": "2026-05-29T12:00:00.000Z",
+    "refresh_cadence": "weekly",
+    "notes": "Priority AI-lab / AI-application sweep source. Include only customer-embedded engineering roles that satisfy the FDE inclusion standard.",
+    "observed_roles": []
+  },
+  {
+    "company_slug": "reka",
+    "company_name": "Reka",
+    "category": "ai_lab",
+    "industries": [
+      "frontier ai",
+      "research"
+    ],
+    "source_type": "careers_search",
+    "source_url": "https://www.reka.ai/careers",
+    "observed_at": "2026-05-29T12:00:00.000Z",
+    "refresh_cadence": "weekly",
+    "notes": "Priority AI-lab sweep source. Include only direct FDE or customer deployment engineering roles.",
+    "observed_roles": []
+  },
+  {
     "company_slug": "scale-ai",
     "company_name": "Scale AI",
     "category": "startup",
@@ -168,6 +277,21 @@
     "observed_roles": []
   },
   {
+    "company_slug": "together-ai",
+    "company_name": "Together AI",
+    "category": "ai_lab",
+    "industries": [
+      "ai infra",
+      "genai / applied ai"
+    ],
+    "source_type": "careers_search",
+    "source_url": "https://jobs.ashbyhq.com/togetherai",
+    "observed_at": "2026-05-29T12:00:00.000Z",
+    "refresh_cadence": "weekly",
+    "notes": "Priority AI-lab / AI-infrastructure sweep source. Existing live roles include exact Forward Deployed Engineer language and should stay source-URL audited.",
+    "observed_roles": []
+  },
+  {
     "company_slug": "towards-ai",
     "company_name": "Towards AI",
     "category": "consulting",
@@ -180,6 +304,21 @@
     "observed_at": "2026-05-27T08:00:00.000Z",
     "refresh_cadence": "weekly",
     "notes": "Tracked through a custom/manual careers source because public role pages can move outside a standard ATS.",
+    "observed_roles": []
+  },
+  {
+    "company_slug": "xai",
+    "company_name": "xAI",
+    "category": "ai_lab",
+    "industries": [
+      "frontier ai",
+      "research"
+    ],
+    "source_type": "careers_search",
+    "source_url": "https://x.ai/careers",
+    "observed_at": "2026-05-29T12:00:00.000Z",
+    "refresh_cadence": "weekly",
+    "notes": "Priority AI-lab sweep source. Include only direct FDE or customer deployment engineering roles.",
     "observed_roles": []
   }
 ]

@@ -297,8 +297,8 @@
       "frontier ai",
       "research"
     ],
-    "ats_provider": null,
-    "ats_slug": null,
+    "ats_provider": "ashby",
+    "ats_slug": "cohere",
     "custom_scraper_id": null,
     "is_active": true,
     "notes": null
@@ -713,8 +713,8 @@
       "frontier ai",
       "research"
     ],
-    "ats_provider": null,
-    "ats_slug": null,
+    "ats_provider": "lever",
+    "ats_slug": "mistral",
     "custom_scraper_id": null,
     "is_active": true,
     "notes": null

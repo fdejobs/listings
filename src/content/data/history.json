@@ -1,20 +1,20 @@
 [
   {
     "date": "2026-04-29T00:00:00.000Z",
-    "live_role_count": 43,
+    "live_role_count": 88,
     "source": "site_live_jobs",
-    "notes": "Backfilled from the audited 2026-05-29 live listings using posted_at dates for the initial MoM baseline."
+    "notes": "Backfilled from the audited live listings using posted_at dates, updated after adding Palantir Lever FDE engineering roles."
   },
   {
     "date": "2026-05-22T00:00:00.000Z",
-    "live_role_count": 57,
+    "live_role_count": 106,
     "source": "site_live_jobs",
-    "notes": "Backfilled from the audited 2026-05-29 live listings using posted_at dates for the initial WoW baseline."
+    "notes": "Backfilled from the audited live listings using posted_at dates, updated after adding Palantir Lever FDE engineering roles."
   },
   {
     "date": "2026-05-29T00:00:00.000Z",
-    "live_role_count": 68,
+    "live_role_count": 118,
     "source": "site_live_jobs",
-    "notes": "Post-audit snapshot after restricting live listings to visible Forward Deployed Engineer / Engineering titles with verified or source-backed application links, including newly added Cohere and Mistral roles."
+    "notes": "Current source-backed live role snapshot after adding Palantir Lever Forward Deployed engineering listings."
   }
 ]

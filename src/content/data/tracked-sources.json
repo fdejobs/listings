@@ -235,12 +235,413 @@
       "defense",
       "enterprise software"
     ],
-    "source_type": "careers_search",
-    "source_url": "https://www.palantir.com/careers/",
-    "observed_at": "2026-05-27T08:00:00.000Z",
-    "refresh_cadence": "weekly",
-    "notes": "Tracked manually because Palantir is the original FDE benchmark and its careers surface is not part of the current Tier 1 adapter set.",
-    "observed_roles": []
+    "source_type": "ats_api",
+    "source_url": "https://api.lever.co/v0/postings/palantir?mode=json",
+    "observed_at": "2026-05-29T21:45:00.000Z",
+    "refresh_cadence": "daily",
+    "notes": "Tier 1 Lever source. Published roles are included only when the title contains both Forward Deployed and Engineer; non-engineering Deployment Strategist matches are excluded.",
+    "observed_roles": [
+      {
+        "title": "Forward Deployed AI Engineer",
+        "locations": [
+          "London, United Kingdom"
+        ],
+        "seniority": "Mid",
+        "source_url": "https://jobs.lever.co/palantir/ff1029bd-bb6d-4d78-a03e-5f9744d0b798"
+      },
+      {
+        "title": "Forward Deployed AI Engineer",
+        "locations": [
+          "New York, NY"
+        ],
+        "seniority": "Mid",
+        "source_url": "https://jobs.lever.co/palantir/636fc05c-d348-4a06-be51-597cb9e07488"
+      },
+      {
+        "title": "Forward Deployed Enablement Engineer - Customer Success",
+        "locations": [
+          "London, United Kingdom"
+        ],
+        "seniority": "Mid",
+        "source_url": "https://jobs.lever.co/palantir/00c2c97b-8514-4617-9883-e53e486b6dcd"
+      },
+      {
+        "title": "Forward Deployed Enablement Engineer - Customer Success",
+        "locations": [
+          "New York, NY"
+        ],
+        "seniority": "Mid",
+        "source_url": "https://jobs.lever.co/palantir/4cba9c95-d16f-440d-83e7-2352480f689f"
+      },
+      {
+        "title": "Forward Deployed Enablement Engineer - Customer Success",
+        "locations": [
+          "Washington, D.C."
+        ],
+        "seniority": "Mid",
+        "source_url": "https://jobs.lever.co/palantir/a90eb029-19cc-413c-bd51-b8411053d7d4"
+      },
+      {
+        "title": "Forward Deployed Engineer - Mixed Reality",
+        "locations": [
+          "Washington, D.C."
+        ],
+        "seniority": "Mid",
+        "source_url": "https://jobs.lever.co/palantir/96a0ce26-cf84-4fa8-934b-acc4363620b2"
+      },
+      {
+        "title": "Forward Deployed Infrastructure Engineer - UK Government",
+        "locations": [
+          "London, United Kingdom"
+        ],
+        "seniority": "Mid",
+        "source_url": "https://jobs.lever.co/palantir/72e51928-07f0-4be0-aae5-0ae6956a4846"
+      },
+      {
+        "title": "Forward Deployed Infrastructure Engineer - US Government",
+        "locations": [
+          "Honolulu, HI"
+        ],
+        "seniority": "Mid",
+        "source_url": "https://jobs.lever.co/palantir/0fccbe95-2520-4df3-8600-7897656c06a2"
+      },
+      {
+        "title": "Forward Deployed Infrastructure Engineer - US Government",
+        "locations": [
+          "New York, NY"
+        ],
+        "seniority": "Mid",
+        "source_url": "https://jobs.lever.co/palantir/b57f08e9-546c-4b9b-8d21-db0ebbc11363"
+      },
+      {
+        "title": "Forward Deployed Infrastructure Engineer - US Government",
+        "locations": [
+          "Washington, D.C."
+        ],
+        "seniority": "Mid",
+        "source_url": "https://jobs.lever.co/palantir/74748e0e-a0bc-4c53-a636-ef14e36d9b5e"
+      },
+      {
+        "title": "Forward Deployed Reliability Engineer",
+        "locations": [
+          "London, United Kingdom"
+        ],
+        "seniority": "Mid",
+        "source_url": "https://jobs.lever.co/palantir/5a99fe16-1bda-4313-ace2-a11ea6e58f0c"
+      },
+      {
+        "title": "Forward Deployed Reliability Engineer",
+        "locations": [
+          "New York, NY"
+        ],
+        "seniority": "Mid",
+        "source_url": "https://jobs.lever.co/palantir/689e6869-01bc-40f1-b580-adb33a020065"
+      },
+      {
+        "title": "Forward Deployed Security Engineer - US Government",
+        "locations": [
+          "Washington, D.C."
+        ],
+        "seniority": "Mid",
+        "source_url": "https://jobs.lever.co/palantir/22053072-4c22-49c4-8299-28e107ceeb98"
+      },
+      {
+        "title": "Forward Deployed Software Engineer",
+        "locations": [
+          "Abu Dhabi, United Arab Emirates"
+        ],
+        "seniority": "Mid",
+        "source_url": "https://jobs.lever.co/palantir/90aa8748-3fef-4e2b-9ea9-c4dc5f37f0d2"
+      },
+      {
+        "title": "Forward Deployed Software Engineer",
+        "locations": [
+          "Amsterdam, Netherlands"
+        ],
+        "seniority": "Mid",
+        "source_url": "https://jobs.lever.co/palantir/492a16bb-6b9f-457e-82c3-294e1a2c565d"
+      },
+      {
+        "title": "Forward Deployed Software Engineer",
+        "locations": [
+          "Dubai, United Arab Emirates"
+        ],
+        "seniority": "Mid",
+        "source_url": "https://jobs.lever.co/palantir/8148182c-6127-4689-b615-7815a94173bb"
+      },
+      {
+        "title": "Forward Deployed Software Engineer",
+        "locations": [
+          "London, United Kingdom"
+        ],
+        "seniority": "Mid",
+        "source_url": "https://jobs.lever.co/palantir/5168e8fd-fec1-4fea-b7a1-81bdaea65850"
+      },
+      {
+        "title": "Forward Deployed Software Engineer",
+        "locations": [
+          "New York, NY"
+        ],
+        "seniority": "Mid",
+        "source_url": "https://jobs.lever.co/palantir/dab396d4-2f14-4796-aac0-0d82883dccf0"
+      },
+      {
+        "title": "Forward Deployed Software Engineer",
+        "locations": [
+          "Seoul, South Korea"
+        ],
+        "seniority": "Mid",
+        "source_url": "https://jobs.lever.co/palantir/1bb19522-3936-4adc-9ced-c3df8b5900b9"
+      },
+      {
+        "title": "Forward Deployed Software Engineer",
+        "locations": [
+          "Stockholm, Sweden"
+        ],
+        "seniority": "Mid",
+        "source_url": "https://jobs.lever.co/palantir/d084b769-6f53-4409-afa8-c183b059b384"
+      },
+      {
+        "title": "Forward Deployed Software Engineer",
+        "locations": [
+          "Tel Aviv, Israel"
+        ],
+        "seniority": "Mid",
+        "source_url": "https://jobs.lever.co/palantir/c4442730-2926-41ad-8c0e-5e5a6b4d14ae"
+      },
+      {
+        "title": "Forward Deployed Software Engineer",
+        "locations": [
+          "Vilnius, Lithuania"
+        ],
+        "seniority": "Mid",
+        "source_url": "https://jobs.lever.co/palantir/98b81271-9e15-40b7-8dce-0c62f24702f9"
+      },
+      {
+        "title": "Forward Deployed Software Engineer",
+        "locations": [
+          "Warsaw, Poland"
+        ],
+        "seniority": "Mid",
+        "source_url": "https://jobs.lever.co/palantir/bf718bd3-b2ef-451e-8033-cb4d2d9c094b"
+      },
+      {
+        "title": "Forward Deployed Software Engineer - Edge Autonomous Systems",
+        "locations": [
+          "Washington, D.C."
+        ],
+        "seniority": "Mid",
+        "source_url": "https://jobs.lever.co/palantir/27bf5707-96fa-460e-8a5b-53bc192ca87b"
+      },
+      {
+        "title": "Forward Deployed Software Engineer - AUS Government",
+        "locations": [
+          "Canberra, Australia"
+        ],
+        "seniority": "Mid",
+        "source_url": "https://jobs.lever.co/palantir/8f15d728-99cc-4003-9add-928bd72a7f30"
+      },
+      {
+        "title": "Forward Deployed Software Engineer - AUS Government",
+        "locations": [
+          "Sydney, Australia"
+        ],
+        "seniority": "Mid",
+        "source_url": "https://jobs.lever.co/palantir/909875b4-1940-41bd-b08d-a269c7235100"
+      },
+      {
+        "title": "Forward Deployed Software Engineer - Autonomous Systems C2",
+        "locations": [
+          "Palo Alto, CA"
+        ],
+        "seniority": "Mid",
+        "source_url": "https://jobs.lever.co/palantir/c62264f5-5da8-40fe-9b44-f7f0f0012e11"
+      },
+      {
+        "title": "Forward Deployed Software Engineer - Autonomous Systems C2",
+        "locations": [
+          "Seattle, WA"
+        ],
+        "seniority": "Mid",
+        "source_url": "https://jobs.lever.co/palantir/0edf7365-49f0-4263-818a-19409ec4f430"
+      },
+      {
+        "title": "Forward Deployed Software Engineer - Intel",
+        "locations": [
+          "Washington, D.C."
+        ],
+        "seniority": "Mid",
+        "source_url": "https://jobs.lever.co/palantir/34b3a697-6e22-4751-befd-0b7921abbd5f"
+      },
+      {
+        "title": "Forward Deployed Software Engineer - Japan Forward Deployed",
+        "locations": [
+          "Washington, D.C."
+        ],
+        "seniority": "Mid",
+        "source_url": "https://jobs.lever.co/palantir/8aba5995-653d-4805-96e8-24488e6abf37"
+      },
+      {
+        "title": "Forward Deployed Software Engineer - Japan Government",
+        "locations": [
+          "Tokyo, Japan"
+        ],
+        "seniority": "Mid",
+        "source_url": "https://jobs.lever.co/palantir/12e94938-55cb-4ad9-9c05-405ebc9ef430"
+      },
+      {
+        "title": "Forward Deployed Software Engineer - Korea Forward Deployed",
+        "locations": [
+          "Washington, D.C."
+        ],
+        "seniority": "Mid",
+        "source_url": "https://jobs.lever.co/palantir/a39bf84c-6648-4871-bd07-9b882d401c4c"
+      },
+      {
+        "title": "Forward Deployed Software Engineer - Tactical Edge",
+        "locations": [
+          "Washington, D.C."
+        ],
+        "seniority": "Mid",
+        "source_url": "https://jobs.lever.co/palantir/3d0d9d92-0321-4459-a17d-fa1a76636a43"
+      },
+      {
+        "title": "Forward Deployed Software Engineer - UK Government",
+        "locations": [
+          "London, United Kingdom"
+        ],
+        "seniority": "Mid",
+        "source_url": "https://jobs.lever.co/palantir/57a3f928-e7d3-4037-8196-b38e2f867152"
+      },
+      {
+        "title": "Forward Deployed Software Engineer - US Government",
+        "locations": [
+          "Fayetteville, NC"
+        ],
+        "seniority": "Mid",
+        "source_url": "https://jobs.lever.co/palantir/d83fac1c-353e-4b77-a586-3276b1090b6e"
+      },
+      {
+        "title": "Forward Deployed Software Engineer - US Government",
+        "locations": [
+          "Honolulu, HI"
+        ],
+        "seniority": "Mid",
+        "source_url": "https://jobs.lever.co/palantir/ce8ca664-60dc-4f9a-8986-3c96673bcfdf"
+      },
+      {
+        "title": "Forward Deployed Software Engineer - US Government",
+        "locations": [
+          "New York, NY"
+        ],
+        "seniority": "Mid",
+        "source_url": "https://jobs.lever.co/palantir/e82b696e-a085-4bbf-8bcb-6d2c4f8cf2f7"
+      },
+      {
+        "title": "Forward Deployed Software Engineer - US Government",
+        "locations": [
+          "San Diego, CA"
+        ],
+        "seniority": "Mid",
+        "source_url": "https://jobs.lever.co/palantir/84131e3f-455e-47fc-9c11-898d95f09048"
+      },
+      {
+        "title": "Forward Deployed Software Engineer - US Government",
+        "locations": [
+          "Washington, D.C."
+        ],
+        "seniority": "Mid",
+        "source_url": "https://jobs.lever.co/palantir/289ad049-7b4e-41e3-8a39-146fbeb6fb64"
+      },
+      {
+        "title": "Forward Deployed Software Engineer - US Government - Federal Health and Civilian",
+        "locations": [
+          "New York, NY"
+        ],
+        "seniority": "Mid",
+        "source_url": "https://jobs.lever.co/palantir/be4ab5cb-9caa-4c2a-97b9-c73805fca4fc"
+      },
+      {
+        "title": "Forward Deployed Software Engineer - US Government - Federal Health and Civilian",
+        "locations": [
+          "Washington, D.C."
+        ],
+        "seniority": "Mid",
+        "source_url": "https://jobs.lever.co/palantir/e7100322-be11-40c8-9dba-7a21b7302c08"
+      },
+      {
+        "title": "Forward Deployed Software Engineer - Warp Speed",
+        "locations": [
+          "New York, NY"
+        ],
+        "seniority": "Mid",
+        "source_url": "https://jobs.lever.co/palantir/13f99633-43b5-4459-8e84-25073f257c18"
+      },
+      {
+        "title": "Forward Deployed Software Engineer, Internship",
+        "locations": [
+          "Paris, France"
+        ],
+        "seniority": "Early career",
+        "source_url": "https://jobs.lever.co/palantir/1b6f1d82-d459-4dea-8bc2-8d2ffe6f881a"
+      },
+      {
+        "title": "Forward Deployed Software Engineer, Internship - AUS Government",
+        "locations": [
+          "Sydney, Australia"
+        ],
+        "seniority": "Early career",
+        "source_url": "https://jobs.lever.co/palantir/395a4483-fc3d-4b77-a500-501923fd0976"
+      },
+      {
+        "title": "Forward Deployed Software Engineer, Internship - France",
+        "locations": [
+          "New York, NY"
+        ],
+        "seniority": "Early career",
+        "source_url": "https://jobs.lever.co/palantir/ac0dc094-2480-43c2-8495-26ade227ff4f"
+      },
+      {
+        "title": "Forward Deployed Software Engineer, Internship - Poland",
+        "locations": [
+          "New York, NY"
+        ],
+        "seniority": "Early career",
+        "source_url": "https://jobs.lever.co/palantir/d582cd84-14fd-4aa3-b413-15982d286bd9"
+      },
+      {
+        "title": "Forward Deployed Software Engineer, Internship - US Government",
+        "locations": [
+          "Honolulu, HI"
+        ],
+        "seniority": "Early career",
+        "source_url": "https://jobs.lever.co/palantir/315f695d-04d1-4a9a-848e-cb2bec7a997e"
+      },
+      {
+        "title": "Year at Palantir - Forward Deployed Software Engineer, Internship - Commercial",
+        "locations": [
+          "New York, NY"
+        ],
+        "seniority": "Early career",
+        "source_url": "https://jobs.lever.co/palantir/e6789b17-62fb-4226-a079-f8c17ff19e2d"
+      },
+      {
+        "title": "Year at Palantir - Forward Deployed Software Engineer, Internship - USG",
+        "locations": [
+          "New York, NY"
+        ],
+        "seniority": "Early career",
+        "source_url": "https://jobs.lever.co/palantir/5c7bb70c-83ea-43e7-8055-0c8f319f4333"
+      },
+      {
+        "title": "Year at Palantir - Forward Deployed Software Engineer, Internship - USG",
+        "locations": [
+          "Washington, D.C."
+        ],
+        "seniority": "Early career",
+        "source_url": "https://jobs.lever.co/palantir/5c4c65c5-77da-4d36-856c-4ade87631019"
+      }
+    ]
   },
   {
     "company_slug": "perplexity",

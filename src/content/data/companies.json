@@ -820,16 +820,16 @@
     "name": "Palantir",
     "logo_url": null,
     "stage": "public",
-    "headcount_band": "11-50",
+    "headcount_band": "1000+",
     "industry_tags": [
       "defense",
       "dual-use"
     ],
-    "ats_provider": null,
-    "ats_slug": null,
+    "ats_provider": "lever",
+    "ats_slug": "palantir",
     "custom_scraper_id": null,
     "is_active": true,
-    "notes": null
+    "notes": "Palantir is the original FDE benchmark; live roles are sourced from the public Lever postings API."
   },
   {
     "slug": "perplexity",

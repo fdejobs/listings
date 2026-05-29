@@ -41,4 +41,11 @@ if (badTicker.length > 0) {
   throw new Error(`Ticker items expire before publication: ${badTicker.map((item) => item.id).join(", ")}`);
 }
 
+const liveRoleCount = jobs.filter((job) => job.status === "live").length;
+const latestHistory = [...history].sort((a, b) => a.date.localeCompare(b.date)).at(-1);
+
+if (latestHistory && latestHistory.live_role_count !== liveRoleCount) {
+  throw new Error(`Latest history snapshot (${latestHistory.live_role_count}) must match current live role count (${liveRoleCount}).`);
+}
+
 console.log(`Validated ${companies.length} companies, ${jobs.length} jobs, ${ticker.length} ticker items, market stats, ${history.length} history snapshots, and ${trackerSources.length} tracked sources.`);

@@ -2,11 +2,12 @@
 import BaseLayout from "../layouts/BaseLayout.astro";
 import FilterRail from "../components/FilterRail";
 import { getCompanies, getJobs, getMarketStats, getTickerItems } from "../lib/data";
-import { countAddedThisWeek, enrichJobs, postingStats } from "../lib/filters";
+import { countAddedThisWeek, postingStats } from "../lib/filters";
+import { getLiveRoleMetric } from "../lib/metrics";
 
 const companies = getCompanies();
 const jobs = getJobs();
-const liveJobs = enrichJobs(jobs, companies);
+const { currentLiveRoles, liveJobs } = getLiveRoleMetric(jobs, companies);
 const tickerItems = getTickerItems();
 const marketStats = getMarketStats();
 const addedThisWeek = countAddedThisWeek(jobs);
@@ -16,7 +17,7 @@ const stats = postingStats(jobs);
 <BaseLayout
   title="FDE Jobs · Forward Deployed Engineer Roles"
   tickerItems={tickerItems}
-  openRoleCount={liveJobs.length}
+  openRoleCount={currentLiveRoles}
   addedThisWeek={addedThisWeek}
   marketStats={marketStats}
   postingStats={stats}

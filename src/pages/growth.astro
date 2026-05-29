@@ -1,8 +1,9 @@
 ---
 import BaseLayout from "../layouts/BaseLayout.astro";
 import { getCompanies, getHistoricalSnapshots, getJobs, getMarketStats, getTickerItems, getTrackerSources } from "../lib/data";
-import { countAddedThisWeek, enrichJobs } from "../lib/filters";
+import { countAddedThisWeek } from "../lib/filters";
 import { stageLabel } from "../lib/format";
+import { getLiveRoleMetric } from "../lib/metrics";
 
 type WeekPoint = {
   key: string;
@@ -18,7 +19,7 @@ type Comparison = {
 
 const companies = getCompanies();
 const jobs = getJobs();
-const liveJobs = enrichJobs(jobs, companies);
+const { currentLiveRoles, liveJobs } = getLiveRoleMetric(jobs, companies);
 const tickerItems = getTickerItems();
 const marketStats = getMarketStats();
 const history = getHistoricalSnapshots();
@@ -75,8 +76,6 @@ const weeks: WeekPoint[] = Array.from({ length: 26 }, (_, index) => {
     value: weeklyCounts.get(key) ?? 0
   };
 });
-
-const currentLiveRoles = liveJobs.length;
 
 function comparisonTarget(daysAgo: number) {
   const target = new Date();

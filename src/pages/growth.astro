@@ -94,7 +94,7 @@ const maxMarketWeekly = Math.max(...marketWeeks.map((point) => point.value), 1);
 const latestMarketPoint = marketHistory.at(-1);
 const latestMarketValue = latestMarketPoint?.postings_count ?? null;
 const marketSourceText = latestMarketPoint
-  ? `Source: public reporting of Indeed FDE job-posting data, including A16Z/Bloomberry and Business Insider syndication. Index, Jan 2025 = 100; plotted in the week of each reported month. Latest: ${latestMarketPoint.period_label}.`
+  ? `Source: A16Z/Bloomberry proxy through Sep 2025, extended with public Indeed index anchors through Apr 2026. Monthly proxy counts; latest: ${latestMarketPoint.period_label}.`
   : "Source: Indeed FDE postings benchmark.";
 
 function marketComparisonForBaseline(baseline: number | null): MarketComparison {
@@ -241,11 +241,11 @@ const lastSourceRefresh = trackerSources
       <p class="page-subhead">FDE job volume by country, company and industry</p>
     </section>
 
-    <section class="timeseries-panel timeseries-panel-top" aria-label="FDE job postings by week">
+    <section class="timeseries-panel timeseries-panel-top" aria-label="FDE job postings by month">
       <div class="chart-heading">
         <div>
-          <span class="eyebrow">Weekly role volume</span>
-          <h2>FDE job postings by week</h2>
+          <span class="eyebrow">Monthly role volume</span>
+          <h2>FDE job postings by month</h2>
         </div>
         <div class="growth-change-stack">
           <span class={`metric-change ${changeClass(marketMomComparison.change)}`}>{marketComparisonText(marketMomComparison, "MoM")}</span>

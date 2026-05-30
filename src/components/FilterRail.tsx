@@ -480,7 +480,9 @@ export default function FilterRail({ jobs, companies, addedThisWeek }: Props) {
         <div class="eyebrow">Forward deployed engineering roles</div>
         <h1 class="page-title">the fastest growing job in tech</h1>
         <p class="page-subhead">
-          <span class="mono">{filteredJobs.length} of {jobs.length} roles · {addedThisWeek} added this week</span>
+          <span class="mono" title="Newly tracked uses the board's first_seen_at timestamp, not necessarily the employer's original posting date.">
+            {filteredJobs.length} of {jobs.length} roles · {addedThisWeek} newly tracked this week
+          </span>
         </p>
       </div>
       <div class="list-toolbar">

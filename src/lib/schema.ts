@@ -128,9 +128,23 @@ export const marketStatsSchema = z.object({
   source_label: z.string().min(1),
   source_url: z.string().url(),
   current_period: z.string().min(1),
+  metric_kind: z.enum(["posting_count", "posting_index"]).default("posting_count"),
   postings_count: z.number().int().nonnegative(),
   mom_change_pct: z.number().int().nullable(),
   updated_at: isoDateString,
+  notes: z.string().nullable()
+});
+
+export const marketHistoryPointSchema = z.object({
+  source: z.literal("indeed_jd_tracker"),
+  period_start: isoDateString,
+  period_end: isoDateString,
+  period_label: z.string().min(1),
+  metric_kind: z.enum(["posting_count", "posting_index"]).default("posting_count"),
+  postings_count: z.number().int().nonnegative(),
+  source_url: z.string().url(),
+  collected_at: isoDateString,
+  collection_method: z.enum(["reference_seed", "manual_snapshot", "licensed_data"]),
   notes: z.string().nullable()
 });
 
@@ -171,12 +185,14 @@ export const companiesSchema = z.array(companySchema);
 export const jobsSchema = z.array(jobSchema);
 export const tickerSchema = z.array(tickerItemSchema);
 export const historySchema = z.array(historicalSnapshotSchema);
+export const marketHistorySchema = z.array(marketHistoryPointSchema);
 export const trackerSourcesSchema = z.array(trackerSourceSchema);
 
 export type Company = z.infer<typeof companySchema>;
 export type Job = z.infer<typeof jobSchema>;
 export type TickerItem = z.infer<typeof tickerItemSchema>;
 export type MarketStats = z.infer<typeof marketStatsSchema>;
+export type MarketHistoryPoint = z.infer<typeof marketHistoryPointSchema>;
 export type HistoricalSnapshot = z.infer<typeof historicalSnapshotSchema>;
 export type TrackerSource = z.infer<typeof trackerSourceSchema>;
 export type Stage = z.infer<typeof stageSchema>;

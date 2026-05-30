@@ -1,0 +1,50 @@
+[
+  {
+    "source": "indeed_jd_tracker",
+    "period_start": "2025-01-06T00:00:00.000Z",
+    "period_end": "2025-01-12T23:59:59.000Z",
+    "period_label": "Jan 2025",
+    "metric_kind": "posting_index",
+    "postings_count": 100,
+    "source_url": "https://d1lamhf6l6yk6d.cloudfront.net/uploads/2026/01/wr26-Forward-Deployed-Engineer-scaled-1.png",
+    "collected_at": "2026-05-30T00:00:00.000Z",
+    "collection_method": "reference_seed",
+    "notes": "Indexed baseline for Forward Deployed Engineer job postings on Indeed, set to 100 for January 2025."
+  },
+  {
+    "source": "indeed_jd_tracker",
+    "period_start": "2025-04-07T00:00:00.000Z",
+    "period_end": "2025-04-13T23:59:59.000Z",
+    "period_label": "Apr 2025",
+    "metric_kind": "posting_index",
+    "postings_count": 643,
+    "source_url": "https://www.tryexponent.com/blog/what-is-a-forward-deployed-engineer-complete-2026-guide",
+    "collected_at": "2026-05-30T00:00:00.000Z",
+    "collection_method": "reference_seed",
+    "notes": "Reference anchor from public reporting of Indeed Forward Deployed Engineer posting data, treated as an index point relative to January 2025."
+  },
+  {
+    "source": "indeed_jd_tracker",
+    "period_start": "2026-01-05T00:00:00.000Z",
+    "period_end": "2026-01-11T23:59:59.000Z",
+    "period_label": "Jan 2026",
+    "metric_kind": "posting_index",
+    "postings_count": 1900,
+    "source_url": "https://www.aol.com/job-no-one-hired-booming-100051801.html",
+    "collected_at": "2026-05-30T00:00:00.000Z",
+    "collection_method": "reference_seed",
+    "notes": "Reference anchor from reporting that January 2026 Forward Deployed Engineer posting volume was roughly 19 times January 2025."
+  },
+  {
+    "source": "indeed_jd_tracker",
+    "period_start": "2026-04-06T00:00:00.000Z",
+    "period_end": "2026-04-12T23:59:59.000Z",
+    "period_label": "Apr 2026",
+    "metric_kind": "posting_index",
+    "postings_count": 5330,
+    "source_url": "https://www.aol.com/job-no-one-hired-booming-100051801.html",
+    "collected_at": "2026-05-30T00:00:00.000Z",
+    "collection_method": "reference_seed",
+    "notes": "Reference anchor from reporting that April 2026 Forward Deployed Engineer posting volume was 5,230% above the January 2025 baseline."
+  }
+]

@@ -1,6 +1,6 @@
 ---
 import BaseLayout from "../layouts/BaseLayout.astro";
-import { getCompanies, getHistoricalSnapshots, getJobs, getMarketStats, getTickerItems, getTrackerSources } from "../lib/data";
+import { getCompanies, getHistoricalSnapshots, getJobs, getMarketHistory, getMarketStats, getTickerItems, getTrackerSources } from "../lib/data";
 import { countAddedThisWeek } from "../lib/filters";
 import { stageLabel } from "../lib/format";
 import { getLiveRoleMetric } from "../lib/metrics";
@@ -12,9 +12,15 @@ type WeekPoint = {
 };
 
 type Comparison = {
-  baseline: number;
-  change: number;
+  baseline: number | null;
+  change: number | null;
   source: "snapshot" | "listing_date";
+};
+
+type MarketComparison = {
+  baseline: number | null;
+  change: number | null;
+  percent: number | null;
 };
 
 const companies = getCompanies();
@@ -22,26 +28,13 @@ const jobs = getJobs();
 const { currentLiveRoles, liveJobs } = getLiveRoleMetric(jobs, companies);
 const tickerItems = getTickerItems();
 const marketStats = getMarketStats();
+const marketHistory = getMarketHistory();
 const history = getHistoricalSnapshots();
 const trackerSources = getTrackerSources();
 const addedThisWeek = countAddedThisWeek(jobs);
+const coreBaselineDate = new Date("2026-05-30T00:00:00.000Z");
 
-function weekStart(date: Date) {
-  const start = new Date(Date.UTC(date.getUTCFullYear(), date.getUTCMonth(), date.getUTCDate()));
-  const day = start.getUTCDay() || 7;
-  start.setUTCDate(start.getUTCDate() - day + 1);
-  return start;
-}
-
-function weekKey(date: Date) {
-  return weekStart(date).toISOString().slice(0, 10);
-}
-
-function formatWeek(key: string) {
-  return new Intl.DateTimeFormat("en", { day: "2-digit", month: "short" }).format(new Date(`${key}T00:00:00.000Z`));
-}
-
-function differenceLabel(change: number, window: "WoW" | "MoM") {
+function differenceLabel(change: number, window: "WoW" | "MoM" | "YTD") {
   return `${change > 0 ? "+" : ""}${change} ${window}`;
 }
 
@@ -55,27 +48,11 @@ function changeClass(change: number | null) {
   return change > 0 ? "positive" : "negative";
 }
 
-const weeklyCounts = new Map<string, number>();
-
-for (const job of liveJobs) {
-  const key = weekKey(new Date(job.posted_at));
-  weeklyCounts.set(key, (weeklyCounts.get(key) ?? 0) + 1);
-}
-
-const latestObservedKey = [...weeklyCounts.entries()]
-  .filter(([, value]) => value > 0)
-  .sort(([a], [b]) => b.localeCompare(a))[0]?.[0] ?? weekKey(new Date());
-const latestWeekStart = new Date(`${latestObservedKey}T00:00:00.000Z`);
-const weeks: WeekPoint[] = Array.from({ length: 26 }, (_, index) => {
-  const date = new Date(latestWeekStart);
-  date.setUTCDate(date.getUTCDate() - (25 - index) * 7);
-  const key = date.toISOString().slice(0, 10);
-  return {
-    key,
-    label: formatWeek(key),
-    value: weeklyCounts.get(key) ?? 0
-  };
-});
+const marketWeeks: WeekPoint[] = marketHistory.map((point) => ({
+  key: point.period_start.slice(0, 10),
+  label: point.period_label,
+  value: point.postings_count
+}));
 
 function comparisonTarget(daysAgo: number) {
   const target = new Date();
@@ -87,13 +64,9 @@ function snapshotAtOrBefore(daysAgo: number) {
   const target = comparisonTarget(daysAgo);
 
   return history
+    .filter((snapshot) => new Date(snapshot.date).getTime() >= coreBaselineDate.getTime())
     .filter((snapshot) => new Date(snapshot.date).getTime() <= target.getTime())
     .at(-1) ?? null;
-}
-
-function listingDateBaseline(daysAgo: number) {
-  const target = comparisonTarget(daysAgo).getTime();
-  return liveJobs.filter((job) => new Date(job.posted_at).getTime() <= target).length;
 }
 
 function comparisonFor(daysAgo: number): Comparison {
@@ -107,10 +80,9 @@ function comparisonFor(daysAgo: number): Comparison {
     };
   }
 
-  const baseline = listingDateBaseline(daysAgo);
   return {
-    baseline,
-    change: currentLiveRoles - baseline,
+    baseline: null,
+    change: null,
     source: "listing_date"
   };
 }
@@ -118,11 +90,58 @@ function comparisonFor(daysAgo: number): Comparison {
 const wowComparison = comparisonFor(7);
 const momComparison = comparisonFor(30);
 const coreMetric = currentLiveRoles;
-const maxWeekly = Math.max(...weeks.map((point) => point.value), 1);
-const peakWeek = weeks.reduce((peak, point) => point.value > peak.value ? point : peak, weeks[0]);
+const maxMarketWeekly = Math.max(...marketWeeks.map((point) => point.value), 1);
+const latestMarketPoint = marketHistory.at(-1);
+const latestMarketValue = latestMarketPoint?.postings_count ?? null;
+const marketSourceText = latestMarketPoint
+  ? `Source: public reporting of Indeed FDE job-posting data, including A16Z/Bloomberry and Business Insider syndication. Index, Jan 2025 = 100; plotted in the week of each reported month. Latest: ${latestMarketPoint.period_label}.`
+  : "Source: Indeed FDE postings benchmark.";
+
+function marketComparisonForBaseline(baseline: number | null): MarketComparison {
+  if (latestMarketValue === null || baseline === null) {
+    return { baseline: null, change: null, percent: null };
+  }
+
+  const change = latestMarketValue - baseline;
+  return {
+    baseline,
+    change,
+    percent: baseline === 0 ? null : Math.round((change / baseline) * 100)
+  };
+}
+
+function findMarketPointMonthsBefore(months: number) {
+  if (!latestMarketPoint) {
+    return null;
+  }
+
+  const latest = new Date(latestMarketPoint.period_start);
+  const target = new Date(Date.UTC(latest.getUTCFullYear(), latest.getUTCMonth() - months, 1));
+  const targetMonth = target.toISOString().slice(0, 7);
+
+  return marketHistory.find((point) => point.period_start.slice(0, 7) === targetMonth) ?? null;
+}
+
+const previousMarketPoint = findMarketPointMonthsBefore(1);
+const ytdMarketPoint = marketHistory.find((point) => point.period_start.startsWith(`${latestMarketPoint?.period_start.slice(0, 4) ?? new Date().getUTCFullYear()}-`)) ?? null;
+const marketMomComparison = marketComparisonForBaseline(previousMarketPoint?.postings_count ?? null);
+const marketYtdComparison = marketComparisonForBaseline(ytdMarketPoint?.postings_count ?? null);
 
 function comparisonText(comparison: Comparison, window: "WoW" | "MoM") {
+  if (comparison.change === null || comparison.baseline === null) {
+    return `${window} baseline set`;
+  }
+
   return `${differenceLabel(comparison.change, window)} · from ${comparison.baseline}`;
+}
+
+function marketComparisonText(comparison: MarketComparison, window: "MoM" | "YTD") {
+  if (comparison.change === null || comparison.baseline === null) {
+    return `${window} pending`;
+  }
+
+  const pct = comparison.percent === null ? "" : ` · ${comparison.percent > 0 ? "+" : ""}${comparison.percent}%`;
+  return `${differenceLabel(comparison.change, window)}${pct}`;
 }
 
 function comparisonTitle(comparison: Comparison, window: "WoW" | "MoM") {
@@ -130,7 +149,7 @@ function comparisonTitle(comparison: Comparison, window: "WoW" | "MoM") {
     return `${window} comparison uses a stored historical snapshot.`;
   }
 
-  return `${window} comparison uses listing dates because the tracker does not yet have an older stored snapshot for this window.`;
+  return `${window} comparison starts from the 30 May 2026 expanded-source baseline.`;
 }
 
 function countBy(values: string[]) {
@@ -222,6 +241,29 @@ const lastSourceRefresh = trackerSources
       <p class="page-subhead">FDE job volume by country, company and industry</p>
     </section>
 
+    <section class="timeseries-panel timeseries-panel-top" aria-label="FDE job postings by week">
+      <div class="chart-heading">
+        <div>
+          <span class="eyebrow">Weekly role volume</span>
+          <h2>FDE job postings by week</h2>
+        </div>
+        <div class="growth-change-stack">
+          <span class={`metric-change ${changeClass(marketMomComparison.change)}`}>{marketComparisonText(marketMomComparison, "MoM")}</span>
+          <span class={`metric-change ${changeClass(marketYtdComparison.change)}`}>{marketComparisonText(marketYtdComparison, "YTD")}</span>
+        </div>
+      </div>
+      <div class="week-chart market-chart" style={`--point-count:${Math.max(marketWeeks.length, 1)}`}>
+        {marketWeeks.map((point) => (
+          <div class="week-bar" style={`--bar:${Math.max(4, Math.round((point.value / maxMarketWeekly) * 100))}%`}>
+            <span>{point.value}</span>
+            <div aria-hidden="true"><span></span></div>
+            <strong>{point.label}</strong>
+          </div>
+        ))}
+      </div>
+      <p class="chart-source">{marketSourceText}</p>
+    </section>
+
     <section class="growth-core" aria-label="Core FDE growth metric">
       <div>
         <span class="eyebrow">Core metric</span>
@@ -233,25 +275,6 @@ const lastSourceRefresh = trackerSources
       <div class="growth-change-stack">
         <span class={`metric-change ${changeClass(wowComparison.change)}`} title={comparisonTitle(wowComparison, "WoW")}>{comparisonText(wowComparison, "WoW")}</span>
         <span class={`metric-change ${changeClass(momComparison.change)}`} title={comparisonTitle(momComparison, "MoM")}>{comparisonText(momComparison, "MoM")}</span>
-      </div>
-    </section>
-
-    <section class="timeseries-panel" aria-label="Weekly FDE role volume">
-      <div class="chart-heading">
-        <div>
-          <span class="eyebrow">Weekly role volume</span>
-          <h2>Number of FDE roles by week</h2>
-        </div>
-        <span class="mono micro">Peak {peakWeek.value} · Week of {peakWeek.label}</span>
-      </div>
-      <div class="week-chart">
-        {weeks.map((point) => (
-          <div class="week-bar" style={`--bar:${Math.max(4, Math.round((point.value / maxWeekly) * 100))}%`}>
-            <span>{point.value}</span>
-            <div aria-hidden="true"><span></span></div>
-            <strong>{point.label}</strong>
-          </div>
-        ))}
       </div>
     </section>
 
@@ -277,7 +300,7 @@ const lastSourceRefresh = trackerSources
 
     <section class="source-note">
       <h2>Source</h2>
-      <p>Source: audited live Forward Deployed Engineer listings across company careers pages and job boards, counted by posting date.</p>
+      <p>Source: audited live Forward Deployed Engineer listings across company careers pages and job boards, with weekly snapshots used for tracker WoW and MoM movement.</p>
       {lastSourceRefresh && <p class="mono micro">Source registry last observed {new Date(lastSourceRefresh).toLocaleDateString("en-GB", { day: "2-digit", month: "short", year: "numeric" })}</p>}
     </section>
   </main>

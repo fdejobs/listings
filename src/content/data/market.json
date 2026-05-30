@@ -1,10 +1,11 @@
 {
   "source": "indeed_jd_tracker",
-  "source_label": "Indeed JD tracker",
-  "source_url": "https://www.indeed.com/jobs?q=%22forward+deployed%22+engineer",
-  "current_period": "Sep 2025",
-  "postings_count": 48,
-  "mom_change_pct": 23,
-  "updated_at": "2026-05-17T00:00:00.000Z",
-  "notes": "Hand-maintained benchmark based on tracking forward-deployed engineer job descriptions on Indeed-style monthly analysis; do not scrape Indeed from the static site."
+  "source_label": "Indeed FDE posting index",
+  "source_url": "https://www.aol.com/job-no-one-hired-booming-100051801.html",
+  "current_period": "Apr 2026",
+  "metric_kind": "posting_index",
+  "postings_count": 5330,
+  "mom_change_pct": null,
+  "updated_at": "2026-05-30T00:00:00.000Z",
+  "notes": "Indexed benchmark for Forward Deployed Engineer job postings on Indeed, with January 2025 set to 100. Later public reporting gives April 2026 at 5,230% above the January 2025 baseline; this is not a raw count of job adverts."
 }

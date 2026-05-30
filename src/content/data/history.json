@@ -1,20 +1,20 @@
 [
   {
     "date": "2026-04-29T00:00:00.000Z",
-    "live_role_count": 88,
+    "live_role_count": 93,
     "source": "site_live_jobs",
-    "notes": "Backfilled from the audited live listings using posted_at dates, updated after adding Palantir Lever FDE engineering roles."
+    "notes": "Backfilled from audited live listings using posted_at dates, updated after adding Palantir and consulting AI Deployment Sweep listings."
   },
   {
     "date": "2026-05-22T00:00:00.000Z",
-    "live_role_count": 106,
+    "live_role_count": 117,
     "source": "site_live_jobs",
-    "notes": "Backfilled from the audited live listings using posted_at dates, updated after adding Palantir Lever FDE engineering roles."
+    "notes": "Backfilled from audited live listings using posted_at dates, updated after adding Palantir and consulting AI Deployment Sweep listings."
   },
   {
-    "date": "2026-05-29T00:00:00.000Z",
-    "live_role_count": 118,
+    "date": "2026-05-30T00:00:00.000Z",
+    "live_role_count": 131,
     "source": "site_live_jobs",
-    "notes": "Current source-backed live role snapshot after adding Palantir Lever Forward Deployed engineering listings."
+    "notes": "Current source-backed live role snapshot after adding Palantir and consulting AI Deployment Sweep listings."
   }
 ]

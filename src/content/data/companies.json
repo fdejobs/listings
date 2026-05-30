@@ -3255,13 +3255,14 @@
     "headcount_band": "1000+",
     "industry_tags": [
       "consulting",
-      "enterprise ai"
+      "enterprise ai",
+      "professional services"
     ],
     "ats_provider": null,
     "ats_slug": null,
     "custom_scraper_id": null,
     "is_active": true,
-    "notes": "Aggregator-sourced listing."
+    "notes": "AI deployment sweep source; Deloitte has live Forward Deployed Engineer roles across Frontier GenAI, Databricks, and Palantir delivery."
   },
   {
     "slug": "distyl-ai",
@@ -3408,5 +3409,73 @@
     "custom_scraper_id": null,
     "is_active": true,
     "notes": "Fast-growing fintech scale-up launched in 2023. Company page says it has raised over $70M in equity financing; exact round label is not publicly disclosed."
+  },
+  {
+    "slug": "accenture",
+    "name": "Accenture",
+    "logo_url": null,
+    "stage": "public",
+    "headcount_band": "1000+",
+    "industry_tags": [
+      "consulting",
+      "enterprise ai",
+      "professional services"
+    ],
+    "ats_provider": "custom",
+    "ats_slug": null,
+    "custom_scraper_id": "accenture-careers",
+    "is_active": true,
+    "notes": "AI deployment sweep source; Accenture has multiple public Forward Deployed Engineer and Palantir FDE postings."
+  },
+  {
+    "slug": "ey",
+    "name": "EY",
+    "logo_url": null,
+    "stage": "bootstrapped",
+    "headcount_band": "1000+",
+    "industry_tags": [
+      "consulting",
+      "enterprise ai",
+      "professional services"
+    ],
+    "ats_provider": "custom",
+    "ats_slug": null,
+    "custom_scraper_id": "ey-careers",
+    "is_active": true,
+    "notes": "AI deployment sweep source; EY has live Forward Deployed Engineer roles in applied AI and financial services consulting."
+  },
+  {
+    "slug": "kpmg",
+    "name": "KPMG",
+    "logo_url": null,
+    "stage": "bootstrapped",
+    "headcount_band": "1000+",
+    "industry_tags": [
+      "consulting",
+      "enterprise ai",
+      "professional services"
+    ],
+    "ats_provider": "custom",
+    "ats_slug": null,
+    "custom_scraper_id": "kpmg-careers",
+    "is_active": true,
+    "notes": "AI deployment sweep source; KPMG AI & Data Labs has a live technical lead Forward Deployed Engineering role."
+  },
+  {
+    "slug": "pwc",
+    "name": "PwC",
+    "logo_url": null,
+    "stage": "bootstrapped",
+    "headcount_band": "1000+",
+    "industry_tags": [
+      "consulting",
+      "enterprise ai",
+      "professional services"
+    ],
+    "ats_provider": "custom",
+    "ats_slug": null,
+    "custom_scraper_id": "pwc-careers",
+    "is_active": true,
+    "notes": "AI deployment sweep source; PwC has a Forward Deployed Engineering / Palantir Foundry careers category, but no resolving live exact-role detail page was published in the 2026-05-29 sweep."
   }
 ]

@@ -42,8 +42,14 @@ Review these first before broader startup/company sweeps:
 9. AI21 Labs
 10. Reka
 11. Together AI
+12. Palantir
+13. Accenture
+14. Deloitte
+15. EY
+16. KPMG
+17. PwC
 
-Cohere, Mistral, and Scale AI should be treated as priority sources because they have active forward-deployed / applied AI customer deployment hiring signals.
+Cohere, Mistral, Scale AI, Palantir, Accenture, Deloitte, EY, KPMG, and PwC should be treated as priority sources because they have active forward-deployed / applied AI customer deployment hiring signals or dedicated AI deployment practices. Consulting sources should only publish exact or strongly equivalent FDE roles; if a firm has a live FDE category but stale or non-resolving job details, keep it in tracked-sources with zero observed roles rather than publishing stale listings.
 
 ## Broader Company Universe
 

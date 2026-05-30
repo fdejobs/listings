@@ -1,5 +1,82 @@
 [
   {
+    "company_slug": "accenture",
+    "company_name": "Accenture",
+    "category": "consulting",
+    "industries": [
+      "consulting",
+      "enterprise ai",
+      "professional services"
+    ],
+    "source_type": "careers_search",
+    "source_url": "https://www.accenture.com/us-en/careers/jobsearch",
+    "observed_at": "2026-05-29T22:15:00.000Z",
+    "refresh_cadence": "weekly",
+    "notes": "AI Deployment Sweep source. Publish only roles whose title explicitly includes Forward Deployed Engineer, FDE, or Palantir Forward Deployed Engineer language and whose direct job-detail page resolves.",
+    "observed_roles": [
+      {
+        "title": "Palantir Forward Deployed Engineer",
+        "locations": [
+          "Multiple Locations",
+          "United States"
+        ],
+        "seniority": "Mid",
+        "source_url": "https://www.accenture.com/us-en/careers/jobdetails?id=R00324743_en&title=Palantir+Forward+Deployed+Engineer"
+      },
+      {
+        "title": "Palantir Forward Deployed Senior Engineer",
+        "locations": [
+          "Multiple Locations",
+          "United States"
+        ],
+        "seniority": "Senior",
+        "source_url": "https://www.accenture.com/us-en/careers/jobdetails?id=R00324737_en&title=Palantir+Forward+Deployed+Senior+Engineer"
+      },
+      {
+        "title": "AI / Forward Deployed Engineer",
+        "locations": [
+          "Coimbra",
+          "Portugal"
+        ],
+        "seniority": "Mid",
+        "source_url": "https://www.accenture.com/us-en/careers/jobdetails?id=R00331828_pt&title=AI+%2F+Forward+Deployed+Engineer"
+      },
+      {
+        "title": "AI/ML Architect - Forward Deployed Engineer - Reinvention Centers",
+        "locations": [
+          "Multiple Locations",
+          "United States"
+        ],
+        "seniority": "Leadership",
+        "source_url": "https://www.accenture.com/us-en/careers/jobdetails?id=R00330942_en&title=AI%2FML+Architect+-+Forward+Deployed+Engineer+%C2%B7+Reinvention+Centers"
+      },
+      {
+        "title": "Sr. AI Engineer - Forward Deployed Engineer - Snowflake - Reinvention Centers",
+        "locations": [
+          "Multiple Locations",
+          "United States"
+        ],
+        "seniority": "Senior",
+        "source_url": "https://www.accenture.com/us-en/careers/jobdetails?id=R00330938_en&title=Sr.+AI+Engineer+-+Forward+Deployed+Engineer+%C2%B7+Snowflake+%C2%B7+Reinvention+Centers"
+      }
+    ]
+  },
+  {
+    "company_slug": "ai21-labs",
+    "company_name": "AI21 Labs",
+    "category": "ai_lab",
+    "industries": [
+      "frontier ai",
+      "genai / applied ai"
+    ],
+    "source_type": "careers_search",
+    "source_url": "https://www.ai21.com/careers",
+    "observed_at": "2026-05-29T12:00:00.000Z",
+    "refresh_cadence": "weekly",
+    "notes": "Priority AI-lab sweep source. Include only roles with forward-deployed ownership or hands-on customer deployment scope.",
+    "observed_roles": []
+  },
+  {
     "company_slug": "anthropic",
     "company_name": "Anthropic",
     "category": "ai_lab",
@@ -12,6 +89,21 @@
     "observed_at": "2026-05-27T08:00:00.000Z",
     "refresh_cadence": "daily",
     "notes": "Tier 1 Greenhouse source. Exact FDE relevance is gated by the classifier before jobs become live.",
+    "observed_roles": []
+  },
+  {
+    "company_slug": "bonsai-labs",
+    "company_name": "Bonsai Labs",
+    "category": "consulting",
+    "industries": [
+      "ai consulting",
+      "genai / applied ai"
+    ],
+    "source_type": "careers_search",
+    "source_url": "https://bonsai-labs.com/careers",
+    "observed_at": "2026-05-27T08:00:00.000Z",
+    "refresh_cadence": "weekly",
+    "notes": "Tracked as a priority AI deployment consultancy. Current careers copy emphasizes embedded production AI delivery; roles are reviewed manually for FDE-equivalent scope before inclusion.",
     "observed_roles": []
   },
   {
@@ -40,49 +132,103 @@
     ]
   },
   {
-    "company_slug": "bonsai-labs",
-    "company_name": "Bonsai Labs",
+    "company_slug": "deloitte",
+    "company_name": "Deloitte",
     "category": "consulting",
     "industries": [
-      "ai consulting",
-      "genai / applied ai"
+      "consulting",
+      "enterprise ai",
+      "professional services"
     ],
     "source_type": "careers_search",
-    "source_url": "https://bonsai-labs.com/careers",
-    "observed_at": "2026-05-27T08:00:00.000Z",
+    "source_url": "https://apply.deloitte.com/en_US/careers",
+    "observed_at": "2026-05-29T22:15:00.000Z",
     "refresh_cadence": "weekly",
-    "notes": "Tracked as a priority AI deployment consultancy. Current careers copy emphasizes embedded production AI delivery; roles are reviewed manually for FDE-equivalent scope before inclusion.",
-    "observed_roles": []
+    "notes": "AI Deployment Sweep source. Use official Deloitte pages where resolving, otherwise reputable job board mirrors only when the direct Deloitte listing redirects to an error page.",
+    "observed_roles": [
+      {
+        "title": "Lead Forward Deployed Engineer - Palantir",
+        "locations": [
+          "Atlanta",
+          "New York",
+          "San Francisco",
+          "United States"
+        ],
+        "seniority": "Leadership",
+        "source_url": "https://apply.deloitte.com/en_US/careers/JobDetail/Lead-Forward-Deployed-Engineer-Palantir/329269"
+      },
+      {
+        "title": "Forward Deployed Engineer, Frontier GenAI",
+        "locations": [
+          "Multiple Locations",
+          "United States"
+        ],
+        "seniority": "Mid",
+        "source_url": "https://www.themuse.com/jobs/deloitte/forward-deployed-engineer-frontier-genai"
+      }
+    ]
   },
   {
-    "company_slug": "ai21-labs",
-    "company_name": "AI21 Labs",
-    "category": "ai_lab",
+    "company_slug": "ey",
+    "company_name": "EY",
+    "category": "consulting",
     "industries": [
-      "frontier ai",
-      "genai / applied ai"
+      "consulting",
+      "enterprise ai",
+      "professional services"
     ],
     "source_type": "careers_search",
-    "source_url": "https://www.ai21.com/careers",
-    "observed_at": "2026-05-29T12:00:00.000Z",
+    "source_url": "https://careers.ey.com/ey/search",
+    "observed_at": "2026-05-29T22:15:00.000Z",
     "refresh_cadence": "weekly",
-    "notes": "Priority AI-lab sweep source. Include only roles with forward-deployed ownership or hands-on customer deployment scope.",
-    "observed_roles": []
-  },
-  {
-    "company_slug": "google-deepmind",
-    "company_name": "Google DeepMind",
-    "category": "ai_lab",
-    "industries": [
-      "frontier ai",
-      "research"
-    ],
-    "source_type": "careers_search",
-    "source_url": "https://www.google.com/about/careers/applications/jobs/results/?q=DeepMind",
-    "observed_at": "2026-05-29T12:00:00.000Z",
-    "refresh_cadence": "weekly",
-    "notes": "Priority AI-lab sweep source. Google Cloud FDE roles are tracked separately under google-cloud when the role is explicitly cloud/applied-AI deployment.",
-    "observed_roles": []
+    "notes": "AI Deployment Sweep source. Include exact Forward Deployed Engineer roles across Applied AI, AI and Data, and technology consulting pages.",
+    "observed_roles": [
+      {
+        "title": "Forward Deployed Engineer - Applied AI - Senior - Financial Services Consulting",
+        "locations": [
+          "New York",
+          "United States"
+        ],
+        "seniority": "Senior",
+        "source_url": "https://careers.ey.com/ey/job/New-York-Forward-Deployed-Engineer-Applied-AI-Senior-Financial-Services-Consulting-NY-10001-8604/1393540633/"
+      },
+      {
+        "title": "Forward Deployed Engineer - Applied AI - Manager - Financial Services Consulting",
+        "locations": [
+          "New York",
+          "United States"
+        ],
+        "seniority": "Leadership",
+        "source_url": "https://careers.ey.com/ey/job/New-York-Forward-Deployed-Engineer-Applied-AI-Manager-Financial-Services-Consulting-NY-10001-8604/1393514533/"
+      },
+      {
+        "title": "Senior Consultant, Forward Deployed Engineer, TC, FS",
+        "locations": [
+          "London",
+          "United Kingdom"
+        ],
+        "seniority": "Senior",
+        "source_url": "https://careers.ey.com/ey/job/London-Senior-Consultant%2C-Forward-Deployed-Engineer%2C-TC%2C-FS-E14-5EY/1382046133/"
+      },
+      {
+        "title": "Senior Manager, Forward Deployed Engineer Squad Lead, TC, FS",
+        "locations": [
+          "London",
+          "United Kingdom"
+        ],
+        "seniority": "Leadership",
+        "source_url": "https://careers.ey.com/ey/job/London-Senior-Manager%2C-Forward-Deployed-Engineer-Squad-Lead%2C-TC%2C-FS-E14-5EY/1382058233/"
+      },
+      {
+        "title": "EY GDS Consulting AI and DATA - Forward Deployed Engineer - Senior",
+        "locations": [
+          "Bengaluru",
+          "India"
+        ],
+        "seniority": "Senior",
+        "source_url": "https://careers.ey.com/ey/job/Bengaluru-EY-GDS-Consulting-AI-And-DATA-Forward-Deployed-Engineer-Senior-KA-560048/1392166633/"
+      }
+    ]
   },
   {
     "company_slug": "google-cloud",
@@ -148,6 +294,21 @@
     ]
   },
   {
+    "company_slug": "google-deepmind",
+    "company_name": "Google DeepMind",
+    "category": "ai_lab",
+    "industries": [
+      "frontier ai",
+      "research"
+    ],
+    "source_type": "careers_search",
+    "source_url": "https://www.google.com/about/careers/applications/jobs/results/?q=DeepMind",
+    "observed_at": "2026-05-29T12:00:00.000Z",
+    "refresh_cadence": "weekly",
+    "notes": "Priority AI-lab sweep source. Google Cloud FDE roles are tracked separately under google-cloud when the role is explicitly cloud/applied-AI deployment.",
+    "observed_roles": []
+  },
+  {
     "company_slug": "infinit",
     "company_name": "INFINIT",
     "category": "fintech",
@@ -161,6 +322,34 @@
     "refresh_cadence": "daily",
     "notes": "Tier 1 Lever source. Roles are normalized into the repo and deduped by source URL.",
     "observed_roles": []
+  },
+  {
+    "company_slug": "kpmg",
+    "company_name": "KPMG",
+    "category": "consulting",
+    "industries": [
+      "consulting",
+      "enterprise ai",
+      "professional services"
+    ],
+    "source_type": "careers_search",
+    "source_url": "https://www.kpmguscareers.com/search-jobs",
+    "observed_at": "2026-05-29T22:15:00.000Z",
+    "refresh_cadence": "weekly",
+    "notes": "AI Deployment Sweep source. Current source-backed role is the AI & Data Labs technical lead Forward Deployed Engineer opening.",
+    "observed_roles": [
+      {
+        "title": "Director/Senior Director, Technical Lead Forward Deployed Engineer",
+        "locations": [
+          "San Francisco",
+          "Seattle",
+          "Washington DC",
+          "United States"
+        ],
+        "seniority": "Leadership",
+        "source_url": "https://www.kpmguscareers.com/jobdetail/?jobId=133322-B"
+      }
+    ]
   },
   {
     "company_slug": "mistral-ai",
@@ -656,6 +845,22 @@
     "observed_at": "2026-05-29T12:00:00.000Z",
     "refresh_cadence": "weekly",
     "notes": "Priority AI-lab / AI-application sweep source. Include only customer-embedded engineering roles that satisfy the FDE inclusion standard.",
+    "observed_roles": []
+  },
+  {
+    "company_slug": "pwc",
+    "company_name": "PwC",
+    "category": "consulting",
+    "industries": [
+      "consulting",
+      "enterprise ai",
+      "professional services"
+    ],
+    "source_type": "careers_search",
+    "source_url": "https://jobs.us.pwc.com/advisory-forward-deployed-engineering-palantir-foundry",
+    "observed_at": "2026-05-29T22:15:00.000Z",
+    "refresh_cadence": "weekly",
+    "notes": "AI Deployment Sweep source. PwC category page is live, but the individual exact FDE job details checked in the 2026-05-29 sweep returned stale or 404 pages, so no live PwC role is published yet.",
     "observed_roles": []
   },
   {

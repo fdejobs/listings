@@ -77,6 +77,36 @@
     "observed_roles": []
   },
   {
+    "company_slug": "alibaba-cloud",
+    "company_name": "Alibaba Cloud",
+    "category": "big_tech_cloud",
+    "industries": [
+      "big tech / cloud",
+      "genai / applied ai"
+    ],
+    "source_type": "careers_search",
+    "source_url": "https://www.alibabacloud.com/careers",
+    "observed_at": "2026-05-30T14:30:00.000Z",
+    "refresh_cadence": "weekly",
+    "notes": "Hyperscaler sweep source. No official exact Forward Deployed title match was published in the 2026-05-30 sweep.",
+    "observed_roles": []
+  },
+  {
+    "company_slug": "amazon",
+    "company_name": "Amazon",
+    "category": "big_tech_cloud",
+    "industries": [
+      "big tech / cloud",
+      "genai / applied ai"
+    ],
+    "source_type": "careers_search",
+    "source_url": "https://www.amazon.jobs/en/search?base_query=Forward%20Deployed&loc_query=",
+    "observed_at": "2026-05-30T14:30:00.000Z",
+    "refresh_cadence": "weekly",
+    "notes": "Amazon parent sweep source. Exact AWS/Amazon Jobs Forward Deployed roles are captured under the AWS company row to avoid duplicate counting.",
+    "observed_roles": []
+  },
+  {
     "company_slug": "anthropic",
     "company_name": "Anthropic",
     "category": "ai_lab",
@@ -86,9 +116,9 @@
     ],
     "source_type": "ats_api",
     "source_url": "https://boards-api.greenhouse.io/v1/boards/anthropic/jobs?content=true",
-    "observed_at": "2026-05-27T08:00:00.000Z",
+    "observed_at": "2026-05-30T14:30:00.000Z",
     "refresh_cadence": "daily",
-    "notes": "Tier 1 Greenhouse source. Exact FDE relevance is gated by the classifier before jobs become live.",
+    "notes": "Tier 1 Greenhouse source. Exact FDE relevance is gated by the classifier before jobs become live. Setter30 proxy source for fast-growing company sweeps.",
     "observed_roles": [
       {
         "title": "Forward Deployed Engineer, Applied AI",
@@ -106,6 +136,95 @@
     ]
   },
   {
+    "company_slug": "apple",
+    "company_name": "Apple",
+    "category": "big_tech_cloud",
+    "industries": [
+      "big tech / cloud",
+      "consumer ai",
+      "genai / applied ai"
+    ],
+    "source_type": "careers_search",
+    "source_url": "https://jobs.apple.com/en-us/search?search=Forward%20Deployed",
+    "observed_at": "2026-05-30T14:30:00.000Z",
+    "refresh_cadence": "weekly",
+    "notes": "Hyperscaler sweep source. Apple Careers currently has an exact Lead Forward Deployed Engineer role in Apple Services Engineering.",
+    "observed_roles": [
+      {
+        "title": "Lead Forward Deployed Engineer, AI Evaluation Platform",
+        "locations": [
+          "Seattle",
+          "Washington",
+          "United States"
+        ],
+        "seniority": "Leadership",
+        "source_url": "https://jobs.apple.com/en-us/details/200664455-3337/lead-forward-deployed-engineer-ai-evaluation-platform?team=SFTWR"
+      }
+    ]
+  },
+  {
+    "company_slug": "apptronik",
+    "company_name": "Apptronik",
+    "category": "startup",
+    "industries": [
+      "robotics",
+      "embodied ai"
+    ],
+    "source_type": "careers_search",
+    "source_url": "https://apptronik.com/careers/",
+    "observed_at": "2026-05-30T14:30:00.000Z",
+    "refresh_cadence": "weekly",
+    "notes": "Setter30 proxy source for fast-growing company sweeps. Publish only exact or strongly equivalent Forward Deployed Engineering roles after direct URL verification.",
+    "observed_roles": []
+  },
+  {
+    "company_slug": "aws",
+    "company_name": "AWS",
+    "category": "big_tech_cloud",
+    "industries": [
+      "cloud",
+      "big tech / cloud",
+      "genai / applied ai"
+    ],
+    "source_type": "careers_search",
+    "source_url": "https://www.amazon.jobs/en/search?base_query=Forward%20Deployed&loc_query=",
+    "observed_at": "2026-05-30T14:30:00.000Z",
+    "refresh_cadence": "weekly",
+    "notes": "Hyperscaler sweep source. Publish only Amazon Jobs rows whose title contains Forward Deployed and whose direct job-detail URL resolves.",
+    "observed_roles": [
+      {
+        "title": "Forward Deployed AI Integrator, Data Center Engineering",
+        "locations": [
+          "Hermiston, Oregon, USA",
+          "{\"normalizedStateName\":\"Oregon\",\"normalizedCountryCode\":\"USA\",\"city\":\"Hermiston\",\"countryIso3a\":\"USA\",\"countryIso2a\":\"US\",\"locationNonStemming\":\"United States, OR, Hermiston\",\"coordinates\":\"45.84051,-119.28947\",\"normalizedCountyName\":\"Umatilla\",\"type\":\"ONSITE\",\"normalizedCountryName\":\"United States\",\"normalizedLocation\":\"Hermiston, Oregon, USA\",\"location\":\"US, OR, Hermiston\",\"region\":\"OR\",\"buildingCodeList\":[\"PDX63\"],\"normalizedCityName\":\"Hermiston\"}",
+          "United States"
+        ],
+        "seniority": "Mid",
+        "source_url": "https://www.amazon.jobs/en/jobs/10430718/forward-deployed-ai-integrator-data-center-engineering"
+      },
+      {
+        "title": "Senior Forward Deployed Deep Learning Architect, Generative AI Innovation Center",
+        "locations": [
+          "Seoul, KOR",
+          "{\"normalizedCountryCode\":\"KOR\",\"city\":\"Seoul\",\"countryIso3a\":\"KOR\",\"countryIso2a\":\"KR\",\"locationNonStemming\":\"South Korea, Seoul\",\"coordinates\":\"37.55886,126.99989\",\"normalizedCountyName\":\"South Korea\",\"type\":\"ONSITE\",\"normalizedCountryName\":\"South Korea\",\"normalizedLocation\":\"Seoul, KOR\",\"location\":\"KR, Seoul\",\"region\":\"\",\"buildingCodeList\":[\"ICN16\"],\"normalizedCityName\":\"Seoul\"}",
+          "South Korea"
+        ],
+        "seniority": "Senior",
+        "source_url": "https://www.amazon.jobs/en/jobs/10376735/senior-forward-deployed-deep-learning-architect-generative-ai-innovation-center"
+      },
+      {
+        "title": "Forward Deployed AI Integrator (UAE National Only), Field Engineering",
+        "locations": [
+          "Dubai, ARE",
+          "{\"normalizedCountryCode\":\"ARE\",\"city\":\"Dubai\",\"countryIso3a\":\"ARE\",\"countryIso2a\":\"AE\",\"locationNonStemming\":\"United Arab Emirates, Dubai\",\"coordinates\":\"25.26951,55.30884\",\"normalizedCountyName\":\"Dubai\",\"type\":\"ONSITE\",\"normalizedCountryName\":\"United Arab Emirates\",\"normalizedLocation\":\"Dubai, ARE\",\"location\":\"AE, Dubai\",\"region\":\"\",\"buildingCodeList\":[\"DXB24\"],\"normalizedCityName\":\"Dubai\"}",
+          "United Arab Emirates"
+        ],
+        "seniority": "Mid",
+        "source_url": "https://www.amazon.jobs/en/jobs/10426536/forward-deployed-ai-integrator-uae-national-only-field-engineering"
+      }
+    ]
+  },
+  {
     "company_slug": "bonsai-labs",
     "company_name": "Bonsai Labs",
     "category": "consulting",
@@ -118,6 +237,51 @@
     "observed_at": "2026-05-27T08:00:00.000Z",
     "refresh_cadence": "weekly",
     "notes": "Tracked as a priority AI deployment consultancy. Current careers copy emphasizes embedded production AI delivery; roles are reviewed manually for FDE-equivalent scope before inclusion.",
+    "observed_roles": []
+  },
+  {
+    "company_slug": "bytedance",
+    "company_name": "ByteDance",
+    "category": "big_tech_cloud",
+    "industries": [
+      "consumer ai",
+      "platform"
+    ],
+    "source_type": "careers_search",
+    "source_url": "https://jobs.bytedance.com/en/",
+    "observed_at": "2026-05-30T14:30:00.000Z",
+    "refresh_cadence": "weekly",
+    "notes": "Setter30 proxy source for fast-growing company sweeps. Publish only exact or strongly equivalent Forward Deployed Engineering roles after direct URL verification.",
+    "observed_roles": []
+  },
+  {
+    "company_slug": "canva",
+    "company_name": "Canva",
+    "category": "startup",
+    "industries": [
+      "design tools",
+      "ai applications"
+    ],
+    "source_type": "careers_search",
+    "source_url": "https://www.lifeatcanva.com/en/jobs/",
+    "observed_at": "2026-05-30T14:30:00.000Z",
+    "refresh_cadence": "weekly",
+    "notes": "Setter30 proxy source for fast-growing company sweeps. Publish only exact or strongly equivalent Forward Deployed Engineering roles after direct URL verification.",
+    "observed_roles": []
+  },
+  {
+    "company_slug": "cerebras",
+    "company_name": "Cerebras",
+    "category": "data_infra",
+    "industries": [
+      "ai chips",
+      "ai infra"
+    ],
+    "source_type": "careers_search",
+    "source_url": "https://www.cerebras.ai/careers",
+    "observed_at": "2026-05-30T14:30:00.000Z",
+    "refresh_cadence": "weekly",
+    "notes": "Setter30 proxy source for fast-growing company sweeps. Publish only exact or strongly equivalent Forward Deployed Engineering roles after direct URL verification.",
     "observed_roles": []
   },
   {
@@ -250,6 +414,66 @@
     ]
   },
   {
+    "company_slug": "crusoe",
+    "company_name": "Crusoe",
+    "category": "data_infra",
+    "industries": [
+      "ai infra",
+      "compute"
+    ],
+    "source_type": "careers_search",
+    "source_url": "https://www.crusoe.ai/careers",
+    "observed_at": "2026-05-30T14:30:00.000Z",
+    "refresh_cadence": "weekly",
+    "notes": "Setter30 proxy source for fast-growing company sweeps. Publish only exact or strongly equivalent Forward Deployed Engineering roles after direct URL verification.",
+    "observed_roles": []
+  },
+  {
+    "company_slug": "cursor",
+    "company_name": "Cursor",
+    "category": "startup",
+    "industries": [
+      "developer tools",
+      "ai applications"
+    ],
+    "source_type": "careers_search",
+    "source_url": "https://jobs.ashbyhq.com/cursor",
+    "observed_at": "2026-05-30T14:30:00.000Z",
+    "refresh_cadence": "weekly",
+    "notes": "Setter30 proxy source for fast-growing company sweeps. Publish only exact or strongly equivalent Forward Deployed Engineering roles after direct URL verification.",
+    "observed_roles": []
+  },
+  {
+    "company_slug": "databricks",
+    "company_name": "Databricks",
+    "category": "data_infra",
+    "industries": [
+      "data infra",
+      "ai infra"
+    ],
+    "source_type": "careers_search",
+    "source_url": "https://www.databricks.com/company/careers/open-positions",
+    "observed_at": "2026-05-30T14:30:00.000Z",
+    "refresh_cadence": "weekly",
+    "notes": "Setter30 proxy source for fast-growing company sweeps. Publish only exact or strongly equivalent Forward Deployed Engineering roles after direct URL verification.",
+    "observed_roles": []
+  },
+  {
+    "company_slug": "deel",
+    "company_name": "Deel",
+    "category": "startup",
+    "industries": [
+      "hr tech",
+      "operations"
+    ],
+    "source_type": "careers_search",
+    "source_url": "https://www.deel.com/careers/",
+    "observed_at": "2026-05-30T14:30:00.000Z",
+    "refresh_cadence": "weekly",
+    "notes": "Setter30 proxy source for fast-growing company sweeps. Publish only exact or strongly equivalent Forward Deployed Engineering roles after direct URL verification.",
+    "observed_roles": []
+  },
+  {
     "company_slug": "deloitte",
     "company_name": "Deloitte",
     "category": "consulting",
@@ -294,6 +518,55 @@
         ],
         "seniority": "Mid",
         "source_url": "https://www.themuse.com/jobs/deloitte/forward-deployed-engineer-frontier-genai"
+      }
+    ]
+  },
+  {
+    "company_slug": "elevenlabs",
+    "company_name": "ElevenLabs",
+    "category": "ai_lab",
+    "industries": [
+      "frontier ai",
+      "voice ai",
+      "genai / applied ai"
+    ],
+    "source_type": "ats_api",
+    "source_url": "https://jobs.ashbyhq.com/elevenlabs",
+    "observed_at": "2026-05-30T14:30:00.000Z",
+    "refresh_cadence": "daily",
+    "notes": "Setter30 / priority sweep source. Publish exact Forward Deployed title matches from the Ashby board; body-only deployment strategist roles remain in review and are not published. Setter30 proxy source for fast-growing company sweeps.",
+    "observed_roles": [
+      {
+        "title": "Forward Deployed Engineer - Software Engineer",
+        "locations": [
+          "San Francisco",
+          "New York",
+          "India",
+          "Brazil",
+          "France",
+          "United States"
+        ],
+        "seniority": "Mid",
+        "source_url": "https://jobs.ashbyhq.com/elevenlabs/6c4c57c1-ec72-42ba-af3a-eb7aebbde2e6"
+      },
+      {
+        "title": "Forward Deployed Engineer - Software Engineer - Spain",
+        "locations": [
+          "Spain"
+        ],
+        "seniority": "Mid",
+        "source_url": "https://jobs.ashbyhq.com/elevenlabs/7664e3c4-2336-4d1a-90cf-91d1268de10d"
+      },
+      {
+        "title": "Forward Deployed Engineer - Software Engineer - Singapore",
+        "locations": [
+          "Singapore",
+          "Japan",
+          "Australia",
+          "Taiwan"
+        ],
+        "seniority": "Mid",
+        "source_url": "https://jobs.ashbyhq.com/elevenlabs/36bdb528-004b-482c-8924-33b27b76121f"
       }
     ]
   },
@@ -360,65 +633,604 @@
     ]
   },
   {
+    "company_slug": "figure-ai",
+    "company_name": "Figure AI",
+    "category": "startup",
+    "industries": [
+      "robotics",
+      "embodied ai"
+    ],
+    "source_type": "careers_search",
+    "source_url": "https://www.figure.ai/careers",
+    "observed_at": "2026-05-30T14:30:00.000Z",
+    "refresh_cadence": "weekly",
+    "notes": "Setter30 proxy source for fast-growing company sweeps. Publish only exact or strongly equivalent Forward Deployed Engineering roles after direct URL verification.",
+    "observed_roles": []
+  },
+  {
     "company_slug": "google-cloud",
     "company_name": "Google Cloud",
     "category": "big_tech_cloud",
     "industries": [
       "cloud",
-      "genai / applied ai"
+      "genai / applied ai",
+      "big tech / cloud"
     ],
-    "source_type": "manual_override",
-    "source_url": "https://www.google.com/about/careers/applications/jobs/results?q=google+field+solution+architect+generative+ai",
-    "observed_at": "2026-05-29T09:00:00.000Z",
+    "source_type": "careers_search",
+    "source_url": "https://www.google.com/about/careers/applications/jobs/results?q=%22Forward%20Deployed%22",
+    "observed_at": "2026-05-30T14:30:00.000Z",
     "refresh_cadence": "weekly",
-    "notes": "Manual source-backed override because Google Careers search results are dynamic. Direct Google Careers result URLs are stored on each live Google Cloud FDE job.",
+    "notes": "Hyperscaler sweep source. Enumerate all Google Careers result pages for exact Forward Deployed title matches and publish only direct job-detail URLs that resolve.",
     "observed_roles": [
       {
-        "title": "Forward Deployed Engineer, Generative AI, Google Cloud",
+        "title": "Forward Deployed Engineer II, GenAI, Google Cloud",
         "locations": [
-          "Mumbai",
-          "India"
+          "Dublin, Ireland",
+          "Ireland"
         ],
         "seniority": "Mid",
-        "source_url": "https://www.google.com/about/careers/applications/jobs/results/96334278157050566-forward-deployed-engineer-generative-ai-google-cloud?q=google+field+solution+architect+generative+ai"
+        "source_url": "https://www.google.com/about/careers/applications/jobs/results/97138089876431558-forward-deployed-engineer-ii-genai-google-cloud"
       },
       {
-        "title": "Forward Deployed Engineer, Generative AI, Google Cloud",
+        "title": "Forward Deployed Engineer II, GenAI, Google Cloud (Vietnamese)",
         "locations": [
-          "Mumbai",
-          "Gurgaon",
-          "India"
+          "Singapore"
         ],
         "seniority": "Mid",
-        "source_url": "https://www.google.com/about/careers/applications/jobs/results/133516617492374214-forward-deployed-engineer-generative-ai-google-cloud?q=google+field+solution+architect+generative+ai"
+        "source_url": "https://www.google.com/about/careers/applications/jobs/results/81510524952421062-forward-deployed-engineer-ii-genai-google-cloud-vietnamese"
       },
       {
-        "title": "Forward Deployed Engineer, Generative AI, Google Cloud (English, Portuguese)",
+        "title": "Forward Deployed Engineering Manager, Generative AI, Google Cloud",
         "locations": [
-          "São Paulo",
-          "Brazil"
+          "Tokyo, Japan",
+          "Japan"
+        ],
+        "seniority": "Leadership",
+        "source_url": "https://www.google.com/about/careers/applications/jobs/results/85723273689473734-forward-deployed-engineering-manager-generative-ai-google-cloud"
+      },
+      {
+        "title": "Forward Deployed Engineer, Core, DevAI",
+        "locations": [
+          "San Jose, CA, USA",
+          "United States"
         ],
         "seniority": "Mid",
-        "source_url": "https://www.google.com/about/careers/applications/jobs/results/94931967039939270-forward-deployed-engineer-generative-ai-google-cloud-english-portuguese?q=google+field+solution+architect+generative+ai"
+        "source_url": "https://www.google.com/about/careers/applications/jobs/results/80134681571271366-forward-deployed-engineer-core-devai"
+      },
+      {
+        "title": "Forward Deployed Engineering Manager, Gen AI",
+        "locations": [
+          "Sydney NSW, Australia",
+          "Australia"
+        ],
+        "seniority": "Leadership",
+        "source_url": "https://www.google.com/about/careers/applications/jobs/results/124843115721695942-forward-deployed-engineering-manager-gen-ai"
+      },
+      {
+        "title": "Forward Deployed Engineering Manager, GenAI, Google Cloud",
+        "locations": [
+          "Taipei, Taiwan",
+          "Taiwan"
+        ],
+        "seniority": "Leadership",
+        "source_url": "https://www.google.com/about/careers/applications/jobs/results/83435902956643014-forward-deployed-engineering-manager-genai-google-cloud"
+      },
+      {
+        "title": "Forward Deployed Engineering Manager III, GenAI, Google Cloud",
+        "locations": [
+          "Singapore"
+        ],
+        "seniority": "Leadership",
+        "source_url": "https://www.google.com/about/careers/applications/jobs/results/139046512440025798-forward-deployed-engineering-manager-iii-genai-google-cloud"
+      },
+      {
+        "title": "Forward Deployed Engineer IV, Applied AI, Google Cloud",
+        "locations": [
+          "San Francisco, CA, USA",
+          "United States"
+        ],
+        "seniority": "Senior",
+        "source_url": "https://www.google.com/about/careers/applications/jobs/results/124516453394064070-forward-deployed-engineer-iv-applied-ai-google-cloud"
+      },
+      {
+        "title": "Forward Deployed Engineering Manager II, GenAI, Google Cloud",
+        "locations": [
+          "Singapore"
+        ],
+        "seniority": "Leadership",
+        "source_url": "https://www.google.com/about/careers/applications/jobs/results/111919361559536326-forward-deployed-engineering-manager-ii-genai-google-cloud"
+      },
+      {
+        "title": "Forward Deployed Development Manager, Generative AI, Google Cloud",
+        "locations": [
+          "Toronto, ON, Canada",
+          "Canada"
+        ],
+        "seniority": "Leadership",
+        "source_url": "https://www.google.com/about/careers/applications/jobs/results/94900961671029446-forward-deployed-development-manager-generative-ai-google-cloud"
+      },
+      {
+        "title": "Forward Deployed Engineering Manager, GenAI, Google Cloud",
+        "locations": [
+          "London, UK",
+          "United Kingdom"
+        ],
+        "seniority": "Leadership",
+        "source_url": "https://www.google.com/about/careers/applications/jobs/results/126037488144655046-forward-deployed-engineering-manager-genai-google-cloud"
+      },
+      {
+        "title": "Partner Forward Deployed Engineering Manager III, GenAI, Google Cloud",
+        "locations": [
+          "Singapore"
+        ],
+        "seniority": "Leadership",
+        "source_url": "https://www.google.com/about/careers/applications/jobs/results/116983278325375686-partner-forward-deployed-engineering-manager-iii-genai-google-cloud"
       },
       {
         "title": "Forward Deployed Engineer, Generative AI, Google Cloud (Korean, English)",
         "locations": [
-          "Seoul",
+          "Seoul, South Korea",
           "South Korea"
         ],
+        "seniority": "Senior",
+        "source_url": "https://www.google.com/about/careers/applications/jobs/results/126581997655990982-forward-deployed-engineer-generative-ai-google-cloud-korean-english"
+      },
+      {
+        "title": "Forward Deployed Engineer, Google Cloud, Generative AI (English, Portuguese)",
+        "locations": [
+          "São Paulo, State of São Paulo, Brazil",
+          "Brazil"
+        ],
+        "seniority": "Senior",
+        "source_url": "https://www.google.com/about/careers/applications/jobs/results/139025475690209990-forward-deployed-engineer-google-cloud-generative-ai-english-portuguese"
+      },
+      {
+        "title": "Forward Deployed Engineer, Generative AI, Google Cloud (English, Portuguese)",
+        "locations": [
+          "São Paulo, State of São Paulo, Brazil",
+          "Brazil"
+        ],
+        "seniority": "Senior",
+        "source_url": "https://www.google.com/about/careers/applications/jobs/results/94931967039939270-forward-deployed-engineer-generative-ai-google-cloud-english-portuguese"
+      },
+      {
+        "title": "Forward Deployed Engineer, GenAI, Google Cloud",
+        "locations": [
+          "Warsaw, Poland",
+          "Poland"
+        ],
         "seniority": "Mid",
-        "source_url": "https://www.google.com/about/careers/applications/jobs/results/126581997655990982-forward-deployed-engineer-generative-ai-google-cloud-korean-english?q=google+field+solution+architect+generative+ai"
+        "source_url": "https://www.google.com/about/careers/applications/jobs/results/137480391270245062-forward-deployed-engineer-genai-google-cloud"
+      },
+      {
+        "title": "Forward Deployed Engineer, Generative AI, Google Cloud (Japanese, English)",
+        "locations": [
+          "Tokyo, Japan",
+          "Japan"
+        ],
+        "seniority": "Senior",
+        "source_url": "https://www.google.com/about/careers/applications/jobs/results/84249893748515526-forward-deployed-engineer-generative-ai-google-cloud-japanese-english"
+      },
+      {
+        "title": "Forward Deployed Engineering Manager II, Generative AI, Google Cloud",
+        "locations": [
+          "Paris, France",
+          "France"
+        ],
+        "seniority": "Leadership",
+        "source_url": "https://www.google.com/about/careers/applications/jobs/results/99813841616937670-forward-deployed-engineering-manager-ii-generative-ai-google-cloud"
+      },
+      {
+        "title": "Forward Deployed Engineer, Generative AI, Google Cloud",
+        "locations": [
+          "Mumbai, Maharashtra, India",
+          "India"
+        ],
+        "seniority": "Senior",
+        "source_url": "https://www.google.com/about/careers/applications/jobs/results/96334278157050566-forward-deployed-engineer-generative-ai-google-cloud"
+      },
+      {
+        "title": "Forward Deployed Engineer, Applied AI, Google Cloud",
+        "locations": [
+          "Madrid, Spain",
+          "Spain"
+        ],
+        "seniority": "Mid",
+        "source_url": "https://www.google.com/about/careers/applications/jobs/results/143992510878753478-forward-deployed-engineer-applied-ai-google-cloud"
+      },
+      {
+        "title": "Forward Deployed Engineer, Generative AI, Google Cloud",
+        "locations": [
+          "Mumbai, Maharashtra, India",
+          "India"
+        ],
+        "seniority": "Senior",
+        "source_url": "https://www.google.com/about/careers/applications/jobs/results/133516617492374214-forward-deployed-engineer-generative-ai-google-cloud"
+      },
+      {
+        "title": "Forward Deployed Engineer, Generative AI, Google Cloud",
+        "locations": [
+          "Mumbai, Maharashtra, India",
+          "India"
+        ],
+        "seniority": "Senior",
+        "source_url": "https://www.google.com/about/careers/applications/jobs/results/109130549099930310-forward-deployed-engineer-generative-ai-google-cloud"
+      },
+      {
+        "title": "Forward Deployed Engineer, Applied AI, Google Cloud",
+        "locations": [
+          "Milan, Metropolitan City of Milan, Italy",
+          "Italy"
+        ],
+        "seniority": "Mid",
+        "source_url": "https://www.google.com/about/careers/applications/jobs/results/81652014060053190-forward-deployed-engineer-applied-ai-google-cloud"
+      },
+      {
+        "title": "Forward Deployed Engineer, Applied AI, Google Cloud",
+        "locations": [
+          "Munich, Germany",
+          "Germany"
+        ],
+        "seniority": "Mid",
+        "source_url": "https://www.google.com/about/careers/applications/jobs/results/142882407861625542-forward-deployed-engineer-applied-ai-google-cloud"
+      },
+      {
+        "title": "Forward Deployed Engineer, GenAI, Google Cloud",
+        "locations": [
+          "Sydney NSW, Australia",
+          "Australia"
+        ],
+        "seniority": "Mid",
+        "source_url": "https://www.google.com/about/careers/applications/jobs/results/127342643880305350-forward-deployed-engineer-genai-google-cloud"
+      },
+      {
+        "title": "Forward Deployed Engineer III, Google Cloud, Applied AI",
+        "locations": [
+          "San Francisco, CA, USA",
+          "United States"
+        ],
+        "seniority": "Senior",
+        "source_url": "https://www.google.com/about/careers/applications/jobs/results/85846668099887814-forward-deployed-engineer-iii-google-cloud-applied-ai"
+      },
+      {
+        "title": "Forward Deployed Engineer, GenAI, Google Cloud",
+        "locations": [
+          "Bengaluru, Karnataka, India",
+          "India"
+        ],
+        "seniority": "Mid",
+        "source_url": "https://www.google.com/about/careers/applications/jobs/results/83644100422574790-forward-deployed-engineer-genai-google-cloud"
       },
       {
         "title": "Forward Deployed Engineer IV, GenAI, Google Cloud",
         "locations": [
-          "San Francisco",
-          "Atlanta",
+          "San Francisco, CA, USA",
           "United States"
         ],
+        "seniority": "Senior",
+        "source_url": "https://www.google.com/about/careers/applications/jobs/results/143122286080074438-forward-deployed-engineer-iv-genai-google-cloud"
+      },
+      {
+        "title": "Forward Deployed Engineer, GenAI, Google Cloud",
+        "locations": [
+          "Zürich, Switzerland",
+          "Switzerland"
+        ],
         "seniority": "Mid",
-        "source_url": "https://www.google.com/about/careers/applications/jobs/results/143122286080074438-forward-deployed-engineer-iv-genai-google-cloud?company=Google&company=Google+Fiber&company=YouTube&employment_type=FULL_TIME&hl=en_US&jlo=en_US&location=Seattle,+WA,+USA&location=Washington,+USA&q&sort_by=relevance&src=Online/House+Ads/BKWS"
+        "source_url": "https://www.google.com/about/careers/applications/jobs/results/81855332443136710-forward-deployed-engineer-genai-google-cloud"
+      },
+      {
+        "title": "Forward Deployed Engineer, GenAI, Google Cloud",
+        "locations": [
+          "Bengaluru, Karnataka, India",
+          "India"
+        ],
+        "seniority": "Mid",
+        "source_url": "https://www.google.com/about/careers/applications/jobs/results/134488747906343622-forward-deployed-engineer-genai-google-cloud"
+      },
+      {
+        "title": "Forward Deployed Engineer III, Generative AI, Google Cloud",
+        "locations": [
+          "San Francisco, CA, USA",
+          "United States"
+        ],
+        "seniority": "Senior",
+        "source_url": "https://www.google.com/about/careers/applications/jobs/results/127965694384841414-forward-deployed-engineer-iii-generative-ai-google-cloud"
+      },
+      {
+        "title": "Partner Forward Deployed Engineer IV, GenAI, Google Cloud",
+        "locations": [
+          "Singapore"
+        ],
+        "seniority": "Senior",
+        "source_url": "https://www.google.com/about/careers/applications/jobs/results/110943386076095174-partner-forward-deployed-engineer-iv-genai-google-cloud"
+      },
+      {
+        "title": "Forward Deployed Engineer IV, Generative AI, Google Cloud (English, Portuguese)",
+        "locations": [
+          "São Paulo, State of São Paulo, Brazil",
+          "Brazil"
+        ],
+        "seniority": "Senior",
+        "source_url": "https://www.google.com/about/careers/applications/jobs/results/78221370277667526-forward-deployed-engineer-iv-generative-ai-google-cloud-english-portuguese"
+      },
+      {
+        "title": "Forward Deployed Developer III, Generative AI, Google Cloud",
+        "locations": [
+          "Toronto, ON, Canada",
+          "Canada"
+        ],
+        "seniority": "Senior",
+        "source_url": "https://www.google.com/about/careers/applications/jobs/results/84306290964079302-forward-deployed-developer-iii-generative-ai-google-cloud"
+      },
+      {
+        "title": "Forward Deployed Engineer II, Generative AI, Google Cloud (English, Spanish)",
+        "locations": [
+          "Mexico City, CDMX, Mexico",
+          "Mexico"
+        ],
+        "seniority": "Senior",
+        "source_url": "https://www.google.com/about/careers/applications/jobs/results/138355323353080518-forward-deployed-engineer-ii-generative-ai-google-cloud-english-spanish"
+      },
+      {
+        "title": "Forward Deployed Architect Manager, Generative AI, Google Cloud",
+        "locations": [
+          "Shanghai, China",
+          "China"
+        ],
+        "seniority": "Leadership",
+        "source_url": "https://www.google.com/about/careers/applications/jobs/results/73666913942545094-forward-deployed-architect-manager-generative-ai-google-cloud"
+      },
+      {
+        "title": "Forward Deployed Engineer II, GenAI, Google Cloud (Thai)",
+        "locations": [
+          "Singapore"
+        ],
+        "seniority": "Mid",
+        "source_url": "https://www.google.com/about/careers/applications/jobs/results/123443226966139590-forward-deployed-engineer-ii-genai-google-cloud-thai"
+      },
+      {
+        "title": "Senior Forward Deployed Developer, Generative AI, Google Cloud",
+        "locations": [
+          "Toronto, ON, Canada",
+          "Canada"
+        ],
+        "seniority": "Senior",
+        "source_url": "https://www.google.com/about/careers/applications/jobs/results/110415792293454534-senior-forward-deployed-developer-generative-ai-google-cloud"
+      },
+      {
+        "title": "Forward Deployed Engineer III, Generative AI, Google Cloud (English, Spanish)",
+        "locations": [
+          "Mexico City, CDMX, Mexico",
+          "Mexico"
+        ],
+        "seniority": "Senior",
+        "source_url": "https://www.google.com/about/careers/applications/jobs/results/126772724268704454-forward-deployed-engineer-iii-generative-ai-google-cloud-english-spanish"
+      },
+      {
+        "title": "Forward Deployed Engineer III, Generative AI, Google Cloud (Spanish, English)",
+        "locations": [
+          "Bogotá, Bogota, Colombia",
+          "Colombia"
+        ],
+        "seniority": "Senior",
+        "source_url": "https://www.google.com/about/careers/applications/jobs/results/131304692155065030-forward-deployed-engineer-iii-generative-ai-google-cloud-spanish-english"
+      },
+      {
+        "title": "Forward Deployed Engineer III, Gen AI, Google Cloud",
+        "locations": [
+          "Sydney NSW, Australia",
+          "Australia"
+        ],
+        "seniority": "Senior",
+        "source_url": "https://www.google.com/about/careers/applications/jobs/results/84247621710815942-forward-deployed-engineer-iii-gen-ai-google-cloud"
+      },
+      {
+        "title": "Senior Forward Deployed Engineer, GenAI, Google Cloud",
+        "locations": [
+          "Warsaw, Poland",
+          "Poland"
+        ],
+        "seniority": "Senior",
+        "source_url": "https://www.google.com/about/careers/applications/jobs/results/127376154288890566-senior-forward-deployed-engineer-genai-google-cloud"
+      },
+      {
+        "title": "Staff Forward Deployed Engineer, GenAI, Google Cloud",
+        "locations": [
+          "Wrocław, Poland",
+          "Poland"
+        ],
+        "seniority": "Senior",
+        "source_url": "https://www.google.com/about/careers/applications/jobs/results/80625469631668934-staff-forward-deployed-engineer-genai-google-cloud"
+      },
+      {
+        "title": "Forward Deployed Engineering Manager III, GenAI, Google Cloud",
+        "locations": [
+          "San Francisco, CA, USA",
+          "United States"
+        ],
+        "seniority": "Leadership",
+        "source_url": "https://www.google.com/about/careers/applications/jobs/results/77305885113623238-forward-deployed-engineering-manager-iii-genai-google-cloud"
+      },
+      {
+        "title": "Geo Auto Forward Deployed Engineering Manager",
+        "locations": [
+          "Munich, Germany",
+          "Germany"
+        ],
+        "seniority": "Leadership",
+        "source_url": "https://www.google.com/about/careers/applications/jobs/results/102782514421998278-geo-auto-forward-deployed-engineering-manager"
+      },
+      {
+        "title": "Forward Deployed Engineer I, GenAI, Google Cloud",
+        "locations": [
+          "Tel Aviv, Israel",
+          "Israel"
+        ],
+        "seniority": "Early",
+        "source_url": "https://www.google.com/about/careers/applications/jobs/results/125961621842338502-forward-deployed-engineer-i-genai-google-cloud"
+      },
+      {
+        "title": "Forward Deployed Engineer IV, GenAI, Google Cloud",
+        "locations": [
+          "Tel Aviv, Israel",
+          "Israel"
+        ],
+        "seniority": "Senior",
+        "source_url": "https://www.google.com/about/careers/applications/jobs/results/116594109191201478-forward-deployed-engineer-iv-genai-google-cloud"
+      },
+      {
+        "title": "Forward Deployed Engineer II, GenAI, Google Cloud",
+        "locations": [
+          "Tel Aviv, Israel",
+          "Israel"
+        ],
+        "seniority": "Mid",
+        "source_url": "https://www.google.com/about/careers/applications/jobs/results/78882028589589190-forward-deployed-engineer-ii-genai-google-cloud"
+      },
+      {
+        "title": "Forward Deployed Engineer III, GenAI, Google Cloud",
+        "locations": [
+          "Paris, France",
+          "France"
+        ],
+        "seniority": "Senior",
+        "source_url": "https://www.google.com/about/careers/applications/jobs/results/87580366008656582-forward-deployed-engineer-iii-genai-google-cloud"
+      },
+      {
+        "title": "Forward Deployed Engineer III, GenAI, Google Cloud",
+        "locations": [
+          "Tel Aviv, Israel",
+          "Israel"
+        ],
+        "seniority": "Senior",
+        "source_url": "https://www.google.com/about/careers/applications/jobs/results/86217901450633926-forward-deployed-engineer-iii-genai-google-cloud"
+      },
+      {
+        "title": "Forward Deployed Architect, Generative AI, Google Cloud",
+        "locations": [
+          "Shenzhen, Guangdong Province, China",
+          "China"
+        ],
+        "seniority": "Senior",
+        "source_url": "https://www.google.com/about/careers/applications/jobs/results/124896377611133638-forward-deployed-architect-generative-ai-google-cloud"
+      },
+      {
+        "title": "Staff Forward Deployed Engineer, GenAI, Google Cloud",
+        "locations": [
+          "London, UK",
+          "United Kingdom"
+        ],
+        "seniority": "Senior",
+        "source_url": "https://www.google.com/about/careers/applications/jobs/results/74360142065214150-staff-forward-deployed-engineer-genai-google-cloud"
+      },
+      {
+        "title": "Staff Forward Deployed Engineer, GenAI, Google Cloud",
+        "locations": [
+          "Munich, Germany",
+          "Germany"
+        ],
+        "seniority": "Senior",
+        "source_url": "https://www.google.com/about/careers/applications/jobs/results/127722332947915462-staff-forward-deployed-engineer-genai-google-cloud"
+      },
+      {
+        "title": "Senior Forward Deployed Engineer, GenAI, Google Cloud",
+        "locations": [
+          "Vienna, Austria",
+          "Austria"
+        ],
+        "seniority": "Senior",
+        "source_url": "https://www.google.com/about/careers/applications/jobs/results/98998917743420102-senior-forward-deployed-engineer-genai-google-cloud"
+      },
+      {
+        "title": "Forward Deployed Full Stack Group Product Manager",
+        "locations": [
+          "Sunnyvale, CA, USA",
+          "United States"
+        ],
+        "seniority": "Leadership",
+        "source_url": "https://www.google.com/about/careers/applications/jobs/results/115185816258388678-forward-deployed-full-stack-group-product-manager"
+      },
+      {
+        "title": "Forward Deployed Engineer I, GenAI, Google Cloud",
+        "locations": [
+          "Dubai - United Arab Emirates",
+          "United Arab Emirates"
+        ],
+        "seniority": "Early",
+        "source_url": "https://www.google.com/about/careers/applications/jobs/results/141009626026910406-forward-deployed-engineer-i-genai-google-cloud"
+      },
+      {
+        "title": "Staff Forward Deployed Engineer, GenAI, Google Cloud",
+        "locations": [
+          "Zürich, Switzerland",
+          "Switzerland"
+        ],
+        "seniority": "Senior",
+        "source_url": "https://www.google.com/about/careers/applications/jobs/results/116958340671513286-staff-forward-deployed-engineer-genai-google-cloud"
+      },
+      {
+        "title": "Senior Staff Forward Deployed Engineer, GenAI, Google Cloud",
+        "locations": [
+          "London, UK",
+          "United Kingdom"
+        ],
+        "seniority": "Senior",
+        "source_url": "https://www.google.com/about/careers/applications/jobs/results/82640564133995206-senior-staff-forward-deployed-engineer-genai-google-cloud"
+      },
+      {
+        "title": "Forward Deployed Engineer, GenAI, Google Cloud (Japanese, English)",
+        "locations": [
+          "Tokyo, Japan",
+          "Japan"
+        ],
+        "seniority": "Mid",
+        "source_url": "https://www.google.com/about/careers/applications/jobs/results/111145133574890182-forward-deployed-engineer-genai-google-cloud-japanese-english"
+      },
+      {
+        "title": "Senior Staff Forward Deployed Engineer, GenAI, Google Cloud",
+        "locations": [
+          "Zürich, Switzerland",
+          "Switzerland"
+        ],
+        "seniority": "Senior",
+        "source_url": "https://www.google.com/about/careers/applications/jobs/results/133328969297470150-senior-staff-forward-deployed-engineer-genai-google-cloud"
+      },
+      {
+        "title": "Forward Deployed Engineer, Generative AI, Google Cloud",
+        "locations": [
+          "Taipei, Taiwan",
+          "Taiwan"
+        ],
+        "seniority": "Senior",
+        "source_url": "https://www.google.com/about/careers/applications/jobs/results/114207475321709254-forward-deployed-engineer-generative-ai-google-cloud"
+      },
+      {
+        "title": "Principal Forward Deployed Cloud Security Architect",
+        "locations": [
+          "Ottawa, ON, Canada",
+          "Canada"
+        ],
+        "seniority": "Senior",
+        "source_url": "https://www.google.com/about/careers/applications/jobs/results/74013597260227270-principal-forward-deployed-cloud-security-architect"
+      },
+      {
+        "title": "Staff Forward Deployed Developer, Generative AI, Google Cloud",
+        "locations": [
+          "Toronto, ON, Canada",
+          "Canada"
+        ],
+        "seniority": "Senior",
+        "source_url": "https://www.google.com/about/careers/applications/jobs/results/103622494060978886-staff-forward-deployed-developer-generative-ai-google-cloud"
+      },
+      {
+        "title": "Senior Forward Deployed Engineer, Cloud Applied AI",
+        "locations": [
+          "Bengaluru, Karnataka, India",
+          "India"
+        ],
+        "seniority": "Senior",
+        "source_url": "https://www.google.com/about/careers/applications/jobs/results/123340188553224902-senior-forward-deployed-engineer-cloud-applied-ai"
       }
     ]
   },
@@ -438,6 +1250,36 @@
     "observed_roles": []
   },
   {
+    "company_slug": "harvey",
+    "company_name": "Harvey",
+    "category": "startup",
+    "industries": [
+      "legal ai",
+      "genai / applied ai"
+    ],
+    "source_type": "careers_search",
+    "source_url": "https://jobs.ashbyhq.com/harvey",
+    "observed_at": "2026-05-30T14:30:00.000Z",
+    "refresh_cadence": "weekly",
+    "notes": "Setter30 proxy source for fast-growing company sweeps. Publish only exact or strongly equivalent Forward Deployed Engineering roles after direct URL verification.",
+    "observed_roles": []
+  },
+  {
+    "company_slug": "ibm-cloud",
+    "company_name": "IBM Cloud",
+    "category": "big_tech_cloud",
+    "industries": [
+      "big tech / cloud",
+      "genai / applied ai"
+    ],
+    "source_type": "careers_search",
+    "source_url": "https://www.ibm.com/careers/search?q=Forward%20Deployed",
+    "observed_at": "2026-05-30T14:30:00.000Z",
+    "refresh_cadence": "weekly",
+    "notes": "Hyperscaler sweep source. Third-party IBM job-board mirrors surfaced an AI Forward Deployed Engineer page, but the official IBM Careers direct listing was not resolved in this sweep, so it remains unpublished pending manual verification.",
+    "observed_roles": []
+  },
+  {
     "company_slug": "infinit",
     "company_name": "INFINIT",
     "category": "fintech",
@@ -450,6 +1292,21 @@
     "observed_at": "2026-05-27T08:00:00.000Z",
     "refresh_cadence": "daily",
     "notes": "Tier 1 Lever source. Roles are normalized into the repo and deduped by source URL.",
+    "observed_roles": []
+  },
+  {
+    "company_slug": "kalshi",
+    "company_name": "Kalshi",
+    "category": "fintech",
+    "industries": [
+      "fintech",
+      "prediction markets"
+    ],
+    "source_type": "careers_search",
+    "source_url": "https://kalshi.com/careers",
+    "observed_at": "2026-05-30T14:30:00.000Z",
+    "refresh_cadence": "weekly",
+    "notes": "Setter30 proxy source for fast-growing company sweeps. Publish only exact or strongly equivalent Forward Deployed Engineering roles after direct URL verification.",
     "observed_roles": []
   },
   {
@@ -479,6 +1336,81 @@
         "source_url": "https://www.kpmguscareers.com/jobdetail/?jobId=133322-B"
       }
     ]
+  },
+  {
+    "company_slug": "kraken",
+    "company_name": "Kraken",
+    "category": "fintech",
+    "industries": [
+      "fintech",
+      "crypto"
+    ],
+    "source_type": "careers_search",
+    "source_url": "https://www.kraken.com/careers",
+    "observed_at": "2026-05-30T14:30:00.000Z",
+    "refresh_cadence": "weekly",
+    "notes": "Setter30 proxy source for fast-growing company sweeps. Publish only exact or strongly equivalent Forward Deployed Engineering roles after direct URL verification.",
+    "observed_roles": []
+  },
+  {
+    "company_slug": "lambda",
+    "company_name": "Lambda",
+    "category": "data_infra",
+    "industries": [
+      "ai infra",
+      "compute"
+    ],
+    "source_type": "careers_search",
+    "source_url": "https://api.ashbyhq.com/posting-api/job-board/lambda?includeCompensation=true",
+    "observed_at": "2026-05-30T14:30:00.000Z",
+    "refresh_cadence": "weekly",
+    "notes": "Setter30 proxy source for fast-growing company sweeps. Publish only exact or strongly equivalent Forward Deployed Engineering roles after direct URL verification.",
+    "observed_roles": []
+  },
+  {
+    "company_slug": "lovable",
+    "company_name": "Lovable",
+    "category": "startup",
+    "industries": [
+      "developer tools",
+      "ai applications"
+    ],
+    "source_type": "careers_search",
+    "source_url": "https://jobs.ashbyhq.com/lovable",
+    "observed_at": "2026-05-30T14:30:00.000Z",
+    "refresh_cadence": "weekly",
+    "notes": "Setter30 proxy source for fast-growing company sweeps. Publish only exact or strongly equivalent Forward Deployed Engineering roles after direct URL verification.",
+    "observed_roles": []
+  },
+  {
+    "company_slug": "meta",
+    "company_name": "Meta",
+    "category": "big_tech_cloud",
+    "industries": [
+      "big tech / cloud",
+      "genai / applied ai"
+    ],
+    "source_type": "careers_search",
+    "source_url": "https://www.metacareers.com/jobs/?q=Forward%20Deployed",
+    "observed_at": "2026-05-30T14:30:00.000Z",
+    "refresh_cadence": "weekly",
+    "notes": "Hyperscaler sweep source. No official exact Forward Deployed title match was published in the 2026-05-30 sweep.",
+    "observed_roles": []
+  },
+  {
+    "company_slug": "microsoft",
+    "company_name": "Microsoft",
+    "category": "big_tech_cloud",
+    "industries": [
+      "big tech / cloud",
+      "genai / applied ai"
+    ],
+    "source_type": "careers_search",
+    "source_url": "https://jobs.careers.microsoft.com/global/en/search?q=Forward%20Deployed",
+    "observed_at": "2026-05-30T14:30:00.000Z",
+    "refresh_cadence": "weekly",
+    "notes": "Microsoft Careers sweep source. Generic Industry Solutions Engineering roles mention Microsoft Forward Deployed Engineering, but no current exact Forward Deployed title has been published to the board without a direct exact-title match.",
+    "observed_roles": []
   },
   {
     "company_slug": "mistral-ai",
@@ -614,6 +1546,21 @@
     ]
   },
   {
+    "company_slug": "neuralink",
+    "company_name": "Neuralink",
+    "category": "startup",
+    "industries": [
+      "neurotech",
+      "hardware"
+    ],
+    "source_type": "careers_search",
+    "source_url": "https://neuralink.com/careers/",
+    "observed_at": "2026-05-30T14:30:00.000Z",
+    "refresh_cadence": "weekly",
+    "notes": "Setter30 proxy source for fast-growing company sweeps. Publish only exact or strongly equivalent Forward Deployed Engineering roles after direct URL verification.",
+    "observed_roles": []
+  },
+  {
     "company_slug": "openai",
     "company_name": "OpenAI",
     "category": "ai_lab",
@@ -623,9 +1570,9 @@
     ],
     "source_type": "ats_api",
     "source_url": "https://api.ashbyhq.com/posting-api/job-board/openai?includeCompensation=true",
-    "observed_at": "2026-05-27T08:00:00.000Z",
+    "observed_at": "2026-05-30T14:30:00.000Z",
     "refresh_cadence": "daily",
-    "notes": "Tier 1 Ashby source. Forward-deployed, solutions, deployment, and applied AI roles are classifier-gated.",
+    "notes": "Tier 1 Ashby source. Forward-deployed, solutions, deployment, and applied AI roles are classifier-gated. Setter30 proxy source for fast-growing company sweeps.",
     "observed_roles": [
       {
         "title": "Design Verification, Forward Deployed Engineering",
@@ -882,6 +1829,36 @@
         "source_url": "https://jobs.ashbyhq.com/openai/c5a99c73-c4c4-4321-a519-e0104dc54747"
       }
     ]
+  },
+  {
+    "company_slug": "openevidence",
+    "company_name": "OpenEvidence",
+    "category": "startup",
+    "industries": [
+      "healthcare ai",
+      "genai / applied ai"
+    ],
+    "source_type": "careers_search",
+    "source_url": "https://jobs.ashbyhq.com/openevidence",
+    "observed_at": "2026-05-30T14:30:00.000Z",
+    "refresh_cadence": "weekly",
+    "notes": "Setter30 proxy source for fast-growing company sweeps. Publish only exact or strongly equivalent Forward Deployed Engineering roles after direct URL verification.",
+    "observed_roles": []
+  },
+  {
+    "company_slug": "oracle-cloud-infrastructure",
+    "company_name": "Oracle Cloud Infrastructure",
+    "category": "big_tech_cloud",
+    "industries": [
+      "big tech / cloud",
+      "genai / applied ai"
+    ],
+    "source_type": "careers_search",
+    "source_url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/jobsearch/jobs?keyword=Forward%20Deployed",
+    "observed_at": "2026-05-30T14:30:00.000Z",
+    "refresh_cadence": "weekly",
+    "notes": "Hyperscaler sweep source. Oracle career pages show FDE-team language in generic software roles, but no exact Forward Deployed title was published without a stable direct exact-title match.",
+    "observed_roles": []
   },
   {
     "company_slug": "palantir",
@@ -1305,13 +2282,44 @@
     "category": "ai_lab",
     "industries": [
       "genai / applied ai",
-      "ai applications"
+      "ai applications",
+      "frontier ai",
+      "search ai"
+    ],
+    "source_type": "ats_api",
+    "source_url": "https://jobs.ashbyhq.com/perplexity",
+    "observed_at": "2026-05-30T14:30:00.000Z",
+    "refresh_cadence": "daily",
+    "notes": "Setter30 / priority sweep source. Publish exact Forward Deployed title matches from the Ashby board; body-only deployment strategist roles remain in review and are not published. Setter30 proxy source for fast-growing company sweeps.",
+    "observed_roles": [
+      {
+        "title": "Member of Technical Staff (Forward Deployed Engineer, Applied AI)",
+        "locations": [
+          "New York City",
+          "San Francisco",
+          "London",
+          "Seattle",
+          "United States",
+          "United Kingdom"
+        ],
+        "seniority": "Senior",
+        "source_url": "https://jobs.ashbyhq.com/perplexity/aa511ea8-96e3-42ba-b28f-5e222170bcee"
+      }
+    ]
+  },
+  {
+    "company_slug": "polymarket",
+    "company_name": "Polymarket",
+    "category": "fintech",
+    "industries": [
+      "fintech",
+      "prediction markets"
     ],
     "source_type": "careers_search",
-    "source_url": "https://www.perplexity.ai/hub/careers",
-    "observed_at": "2026-05-29T12:00:00.000Z",
+    "source_url": "https://polymarket.com/careers",
+    "observed_at": "2026-05-30T14:30:00.000Z",
     "refresh_cadence": "weekly",
-    "notes": "Priority AI-lab / AI-application sweep source. Include only customer-embedded engineering roles that satisfy the FDE inclusion standard.",
+    "notes": "Setter30 proxy source for fast-growing company sweeps. Publish only exact or strongly equivalent Forward Deployed Engineering roles after direct URL verification.",
     "observed_roles": []
   },
   {
@@ -1331,6 +2339,21 @@
     "observed_roles": []
   },
   {
+    "company_slug": "ramp",
+    "company_name": "Ramp",
+    "category": "fintech",
+    "industries": [
+      "fintech",
+      "operations"
+    ],
+    "source_type": "careers_search",
+    "source_url": "https://jobs.ashbyhq.com/ramp",
+    "observed_at": "2026-05-30T14:30:00.000Z",
+    "refresh_cadence": "weekly",
+    "notes": "Setter30 proxy source for fast-growing company sweeps. Publish only exact or strongly equivalent Forward Deployed Engineering roles after direct URL verification.",
+    "observed_roles": []
+  },
+  {
     "company_slug": "reka",
     "company_name": "Reka",
     "category": "ai_lab",
@@ -1346,18 +2369,138 @@
     "observed_roles": []
   },
   {
+    "company_slug": "replit",
+    "company_name": "Replit",
+    "category": "startup",
+    "industries": [
+      "developer tools",
+      "ai applications"
+    ],
+    "source_type": "careers_search",
+    "source_url": "https://jobs.ashbyhq.com/replit",
+    "observed_at": "2026-05-30T14:30:00.000Z",
+    "refresh_cadence": "weekly",
+    "notes": "Setter30 proxy source for fast-growing company sweeps. Publish only exact or strongly equivalent Forward Deployed Engineering roles after direct URL verification.",
+    "observed_roles": []
+  },
+  {
+    "company_slug": "revolut",
+    "company_name": "Revolut",
+    "category": "fintech",
+    "industries": [
+      "fintech"
+    ],
+    "source_type": "careers_search",
+    "source_url": "https://www.revolut.com/careers/",
+    "observed_at": "2026-05-30T14:30:00.000Z",
+    "refresh_cadence": "weekly",
+    "notes": "Setter30 proxy source for fast-growing company sweeps. Publish only exact or strongly equivalent Forward Deployed Engineering roles after direct URL verification.",
+    "observed_roles": []
+  },
+  {
+    "company_slug": "saronic",
+    "company_name": "Saronic",
+    "category": "defense",
+    "industries": [
+      "defense",
+      "dual-use",
+      "autonomous systems"
+    ],
+    "source_type": "ats_api",
+    "source_url": "https://jobs.ashbyhq.com/saronic",
+    "observed_at": "2026-05-30T14:30:00.000Z",
+    "refresh_cadence": "daily",
+    "notes": "Setter30 / priority sweep source. Publish exact Forward Deployed title matches from the Ashby board; body-only deployment strategist roles remain in review and are not published. Setter30 proxy source for fast-growing company sweeps.",
+    "observed_roles": [
+      {
+        "title": "Forward Deployed Hardware Engineer",
+        "locations": [
+          "Austin, TX",
+          "United States"
+        ],
+        "seniority": "Mid",
+        "source_url": "https://jobs.ashbyhq.com/saronic/abb1c82f-73b7-40e3-b822-906d699dbe3e"
+      },
+      {
+        "title": "Senior Forward Deployed Software Engineer",
+        "locations": [
+          "Washington, DC",
+          "United States"
+        ],
+        "seniority": "Senior",
+        "source_url": "https://jobs.ashbyhq.com/saronic/c7d08e82-907e-4cee-8b50-bc2970df82f1"
+      },
+      {
+        "title": "Forward Deployed Software Engineer",
+        "locations": [
+          "Austin, TX",
+          "United States"
+        ],
+        "seniority": "Mid",
+        "source_url": "https://jobs.ashbyhq.com/saronic/f33184f4-52ef-4b75-b644-2a7d6d525118"
+      },
+      {
+        "title": "Senior Forward Deployed Software Engineer",
+        "locations": [
+          "Austin, TX",
+          "United States"
+        ],
+        "seniority": "Senior",
+        "source_url": "https://jobs.ashbyhq.com/saronic/76a91bbc-76a7-4987-a6a3-0f3849f644d9"
+      },
+      {
+        "title": "Senior Forward Deployed Engineer",
+        "locations": [
+          "Sydney, Australia",
+          "Australia"
+        ],
+        "seniority": "Senior",
+        "source_url": "https://jobs.ashbyhq.com/saronic/d412a998-5eaa-44c3-a447-3ec214cf86de"
+      },
+      {
+        "title": "Forward Deployed Software Engineer",
+        "locations": [
+          "San Diego, CA",
+          "United States"
+        ],
+        "seniority": "Mid",
+        "source_url": "https://jobs.ashbyhq.com/saronic/4bd52e96-1903-4d2a-8e04-0e4d8851059e"
+      },
+      {
+        "title": "Operations Specialist, Forward Deployed Engineering",
+        "locations": [
+          "Austin, TX",
+          "United States"
+        ],
+        "seniority": "Mid",
+        "source_url": "https://jobs.ashbyhq.com/saronic/920e7886-7419-4fe1-a12e-590c136c52de"
+      },
+      {
+        "title": "Forward Deployed Hardware Engineer",
+        "locations": [
+          "San Diego, CA",
+          "United States"
+        ],
+        "seniority": "Mid",
+        "source_url": "https://jobs.ashbyhq.com/saronic/11ba12ec-5438-4c90-b493-62f3a4664051"
+      }
+    ]
+  },
+  {
     "company_slug": "scale-ai",
     "company_name": "Scale AI",
     "category": "ai_lab",
     "industries": [
       "data infra",
-      "genai / applied ai"
+      "genai / applied ai",
+      "ai infra",
+      "enterprise ai"
     ],
     "source_type": "careers_search",
-    "source_url": "https://www.scale.com/careers",
-    "observed_at": "2026-05-30T12:20:00.000Z",
+    "source_url": "https://job-boards.greenhouse.io/scaleai?keyword=Forward%20Deployed",
+    "observed_at": "2026-05-30T14:30:00.000Z",
     "refresh_cadence": "weekly",
-    "notes": "Priority AI-lab / AI-deployment sweep source. Full 2026-05-30 check kept only direct-resolving Scale roles with Forward Deployed title language; one older GPS URL redirected to the generic careers page and is excluded.",
+    "notes": "Priority AI lab / AI deployment sweep source. Publish exact Forward Deployed title matches whose direct Greenhouse or Scale careers URLs resolve.",
     "observed_roles": [
       {
         "title": "Director, Forward Deployed Engineering",
@@ -1395,8 +2538,78 @@
         ],
         "seniority": "Leadership",
         "source_url": "https://scale.com/careers/4676610005"
+      },
+      {
+        "title": "Forward Deployed AI Engineering Manager, Enterprise",
+        "locations": [
+          "San Francisco",
+          "New York",
+          "United States"
+        ],
+        "seniority": "Leadership",
+        "source_url": "https://job-boards.greenhouse.io/scaleai/jobs/4602177005"
       }
     ]
+  },
+  {
+    "company_slug": "shield-ai",
+    "company_name": "Shield AI",
+    "category": "defense",
+    "industries": [
+      "defense",
+      "autonomy"
+    ],
+    "source_type": "careers_search",
+    "source_url": "https://shieldai.com/careers/",
+    "observed_at": "2026-05-30T14:30:00.000Z",
+    "refresh_cadence": "weekly",
+    "notes": "Setter30 proxy source for fast-growing company sweeps. Publish only exact or strongly equivalent Forward Deployed Engineering roles after direct URL verification.",
+    "observed_roles": []
+  },
+  {
+    "company_slug": "spacex",
+    "company_name": "SpaceX",
+    "category": "defense",
+    "industries": [
+      "aerospace",
+      "defense"
+    ],
+    "source_type": "careers_search",
+    "source_url": "https://www.spacex.com/careers/",
+    "observed_at": "2026-05-30T14:30:00.000Z",
+    "refresh_cadence": "weekly",
+    "notes": "Setter30 proxy source for fast-growing company sweeps. Publish only exact or strongly equivalent Forward Deployed Engineering roles after direct URL verification.",
+    "observed_roles": []
+  },
+  {
+    "company_slug": "stripe",
+    "company_name": "Stripe",
+    "category": "fintech",
+    "industries": [
+      "fintech",
+      "developer tools"
+    ],
+    "source_type": "careers_search",
+    "source_url": "https://stripe.com/jobs/search",
+    "observed_at": "2026-05-30T14:30:00.000Z",
+    "refresh_cadence": "weekly",
+    "notes": "Setter30 proxy source for fast-growing company sweeps. Publish only exact or strongly equivalent Forward Deployed Engineering roles after direct URL verification.",
+    "observed_roles": []
+  },
+  {
+    "company_slug": "the-boring-company",
+    "company_name": "The Boring Company",
+    "category": "startup",
+    "industries": [
+      "industrial",
+      "infrastructure"
+    ],
+    "source_type": "careers_search",
+    "source_url": "https://www.boringcompany.com/careers",
+    "observed_at": "2026-05-30T14:30:00.000Z",
+    "refresh_cadence": "weekly",
+    "notes": "Setter30 proxy source for fast-growing company sweeps. Publish only exact or strongly equivalent Forward Deployed Engineering roles after direct URL verification.",
+    "observed_roles": []
   },
   {
     "company_slug": "together-ai",
@@ -1451,13 +2664,14 @@
     "category": "ai_lab",
     "industries": [
       "frontier ai",
-      "research"
+      "research",
+      "genai / applied ai"
     ],
     "source_type": "careers_search",
     "source_url": "https://x.ai/careers",
     "observed_at": "2026-05-29T12:00:00.000Z",
     "refresh_cadence": "weekly",
-    "notes": "Priority AI-lab sweep source. Include only direct FDE or customer deployment engineering roles.",
+    "notes": "Priority AI-lab sweep source. Include only direct FDE or customer deployment engineering roles. Setter30 proxy source for fast-growing company sweeps.",
     "observed_roles": []
   }
 ]

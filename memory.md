@@ -48,8 +48,20 @@ Review these first before broader startup/company sweeps:
 15. EY
 16. KPMG
 17. PwC
+18. Microsoft
+19. Amazon / AWS
+20. Google Cloud
+21. Alibaba Cloud
+22. Oracle Cloud Infrastructure
+23. IBM Cloud
+24. Meta
+25. Apple
 
 Cohere, Mistral, Scale AI, Palantir, Accenture, Deloitte, EY, KPMG, and PwC should be treated as priority sources because they have active forward-deployed / applied AI customer deployment hiring signals or dedicated AI deployment practices. Consulting sources should only publish exact or strongly equivalent FDE roles; if a firm has a live FDE category but stale or non-resolving job details, keep it in tracked-sources with zero observed roles rather than publishing stale listings.
+
+Hyperscalers are priority because Google Cloud and AWS now publish exact forward-deployed roles, and Microsoft, Oracle, IBM, Meta, Apple, and Alibaba Cloud can quickly create similar teams. Publish exact-title hyperscaler roles directly. Keep generic FDE-team or body-only matches in tracked-sources until a direct exact-title listing is verified.
+
+Use Setter30 as the fast-growing company proxy. The Q1 2026 sweep should include SpaceX, Anthropic, OpenAI, Stripe, Databricks, Polymarket, Revolut, ElevenLabs, Neuralink, Kalshi, ByteDance, Shield AI, Cursor, Ramp, Canva, Replit, OpenEvidence, Crusoe, The Boring Company, Saronic, Cerebras, Figure AI, Deel, Kraken, Lovable, Apptronik, Perplexity, Lambda, Harvey, and xAI. Refresh this list from https://settervc.com/Setter30 rather than treating it as permanent.
 
 ## Broader Company Universe
 

@@ -16,6 +16,23 @@
     "notes": null
   },
   {
+    "slug": "accenture",
+    "name": "Accenture",
+    "logo_url": null,
+    "stage": "public",
+    "headcount_band": "1000+",
+    "industry_tags": [
+      "consulting",
+      "enterprise ai",
+      "professional services"
+    ],
+    "ats_provider": "custom",
+    "ats_slug": null,
+    "custom_scraper_id": "accenture-careers",
+    "is_active": true,
+    "notes": "AI deployment sweep source; Accenture has multiple public Forward Deployed Engineer and Palantir FDE postings."
+  },
+  {
     "slug": "adept",
     "name": "Adept",
     "logo_url": null,
@@ -176,6 +193,23 @@
     "notes": null
   },
   {
+    "slug": "apple",
+    "name": "Apple",
+    "logo_url": null,
+    "stage": "public",
+    "headcount_band": "1000+",
+    "industry_tags": [
+      "big tech / cloud",
+      "consumer ai",
+      "genai / applied ai"
+    ],
+    "ats_provider": null,
+    "ats_slug": null,
+    "custom_scraper_id": null,
+    "is_active": true,
+    "notes": "Apple Services Engineering source for internal forward-deployed AI evaluation roles."
+  },
+  {
     "slug": "applied-intuition",
     "name": "Applied Intuition",
     "logo_url": null,
@@ -190,6 +224,39 @@
     "custom_scraper_id": null,
     "is_active": true,
     "notes": null
+  },
+  {
+    "slug": "arize-ai",
+    "name": "Arize AI",
+    "logo_url": null,
+    "stage": "series_c",
+    "headcount_band": "201-500",
+    "industry_tags": [
+      "ai infra",
+      "observability"
+    ],
+    "ats_provider": null,
+    "ats_slug": null,
+    "custom_scraper_id": null,
+    "is_active": true,
+    "notes": "Aggregator-sourced listing; company stage checked against 2025 Series C announcement."
+  },
+  {
+    "slug": "aws",
+    "name": "AWS",
+    "logo_url": null,
+    "stage": "public",
+    "headcount_band": "1000+",
+    "industry_tags": [
+      "cloud",
+      "big tech / cloud",
+      "genai / applied ai"
+    ],
+    "ats_provider": null,
+    "ats_slug": null,
+    "custom_scraper_id": null,
+    "is_active": true,
+    "notes": "Amazon Web Services hyperscaler source for forward-deployed AI and GenAI deployment roles."
   },
   {
     "slug": "baseten",
@@ -238,6 +305,22 @@
     "custom_scraper_id": null,
     "is_active": true,
     "notes": null
+  },
+  {
+    "slug": "cbre",
+    "name": "CBRE",
+    "logo_url": null,
+    "stage": "public",
+    "headcount_band": "1000+",
+    "industry_tags": [
+      "real estate",
+      "enterprise operations"
+    ],
+    "ats_provider": null,
+    "ats_slug": null,
+    "custom_scraper_id": null,
+    "is_active": true,
+    "notes": "Aggregator-sourced listing."
   },
   {
     "slug": "chroma",
@@ -384,6 +467,56 @@
     "notes": null
   },
   {
+    "slug": "deloitte",
+    "name": "Deloitte",
+    "logo_url": null,
+    "stage": "bootstrapped",
+    "headcount_band": "1000+",
+    "industry_tags": [
+      "consulting",
+      "enterprise ai",
+      "professional services"
+    ],
+    "ats_provider": null,
+    "ats_slug": null,
+    "custom_scraper_id": null,
+    "is_active": true,
+    "notes": "AI deployment sweep source; Deloitte has live Forward Deployed Engineer roles across Frontier GenAI, Databricks, and Palantir delivery."
+  },
+  {
+    "slug": "distyl-ai",
+    "name": "Distyl AI",
+    "logo_url": null,
+    "stage": "series_a",
+    "headcount_band": "51-200",
+    "industry_tags": [
+      "ai applications",
+      "enterprise"
+    ],
+    "ats_provider": null,
+    "ats_slug": null,
+    "custom_scraper_id": null,
+    "is_active": true,
+    "notes": "Aggregator-sourced listing; stage checked against reported Series A funding."
+  },
+  {
+    "slug": "elevenlabs",
+    "name": "ElevenLabs",
+    "logo_url": null,
+    "stage": "series_c",
+    "headcount_band": "501-1000",
+    "industry_tags": [
+      "frontier ai",
+      "voice ai",
+      "genai / applied ai"
+    ],
+    "ats_provider": "ashby",
+    "ats_slug": "elevenlabs",
+    "custom_scraper_id": null,
+    "is_active": true,
+    "notes": "Setter30 source; Ashby board exposes exact Forward Deployed Engineer roles."
+  },
+  {
     "slug": "epirus",
     "name": "Epirus",
     "logo_url": null,
@@ -414,6 +547,23 @@
     "custom_scraper_id": null,
     "is_active": true,
     "notes": null
+  },
+  {
+    "slug": "ey",
+    "name": "EY",
+    "logo_url": null,
+    "stage": "bootstrapped",
+    "headcount_band": "1000+",
+    "industry_tags": [
+      "consulting",
+      "enterprise ai",
+      "professional services"
+    ],
+    "ats_provider": "custom",
+    "ats_slug": null,
+    "custom_scraper_id": "ey-careers",
+    "is_active": true,
+    "notes": "AI deployment sweep source; EY has live Forward Deployed Engineer roles in applied AI and financial services consulting."
   },
   {
     "slug": "factory",
@@ -496,6 +646,24 @@
     "notes": null
   },
   {
+    "slug": "google-cloud",
+    "name": "Google Cloud",
+    "logo_url": null,
+    "stage": "public",
+    "headcount_band": "1000+",
+    "industry_tags": [
+      "cloud",
+      "enterprise ai",
+      "big tech / cloud",
+      "genai / applied ai"
+    ],
+    "ats_provider": null,
+    "ats_slug": null,
+    "custom_scraper_id": null,
+    "is_active": true,
+    "notes": "Aggregator-sourced listing."
+  },
+  {
     "slug": "google-deepmind",
     "name": "Google DeepMind",
     "logo_url": null,
@@ -510,6 +678,22 @@
     "custom_scraper_id": null,
     "is_active": true,
     "notes": null
+  },
+  {
+    "slug": "gowan-usa",
+    "name": "Gowan USA",
+    "logo_url": null,
+    "stage": "bootstrapped",
+    "headcount_band": "1000+",
+    "industry_tags": [
+      "agriculture",
+      "industrial operations"
+    ],
+    "ats_provider": null,
+    "ats_slug": null,
+    "custom_scraper_id": null,
+    "is_active": true,
+    "notes": "Aggregator-sourced listing."
   },
   {
     "slug": "hadrian",
@@ -606,6 +790,39 @@
     "custom_scraper_id": null,
     "is_active": true,
     "notes": null
+  },
+  {
+    "slug": "infinit",
+    "name": "INFINIT",
+    "logo_url": "https://logo.clearbit.com/infinit.com",
+    "stage": "series_b",
+    "headcount_band": "51-200",
+    "industry_tags": [
+      "fintech",
+      "smb operations"
+    ],
+    "ats_provider": "lever",
+    "ats_slug": "infinit",
+    "custom_scraper_id": null,
+    "is_active": true,
+    "notes": "Fast-growing fintech scale-up launched in 2023. Company page says it has raised over $70M in equity financing; exact round label is not publicly disclosed."
+  },
+  {
+    "slug": "kpmg",
+    "name": "KPMG",
+    "logo_url": null,
+    "stage": "bootstrapped",
+    "headcount_band": "1000+",
+    "industry_tags": [
+      "consulting",
+      "enterprise ai",
+      "professional services"
+    ],
+    "ats_provider": "custom",
+    "ats_slug": null,
+    "custom_scraper_id": "kpmg-careers",
+    "is_active": true,
+    "notes": "AI deployment sweep source; KPMG AI & Data Labs has a live technical lead Forward Deployed Engineering role."
   },
   {
     "slug": "langchain",
@@ -800,6 +1017,22 @@
     "notes": null
   },
   {
+    "slug": "obviant",
+    "name": "Obviant",
+    "logo_url": null,
+    "stage": "seed",
+    "headcount_band": "11-50",
+    "industry_tags": [
+      "defense",
+      "data"
+    ],
+    "ats_provider": null,
+    "ats_slug": null,
+    "custom_scraper_id": null,
+    "is_active": true,
+    "notes": "Aggregator-sourced listing."
+  },
+  {
     "slug": "openai",
     "name": "OpenAI",
     "logo_url": null,
@@ -814,6 +1047,22 @@
     "custom_scraper_id": null,
     "is_active": true,
     "notes": null
+  },
+  {
+    "slug": "p-1-ai",
+    "name": "P-1 AI",
+    "logo_url": null,
+    "stage": "seed",
+    "headcount_band": "11-50",
+    "industry_tags": [
+      "vertical ai",
+      "engineering"
+    ],
+    "ats_provider": null,
+    "ats_slug": null,
+    "custom_scraper_id": null,
+    "is_active": true,
+    "notes": "Aggregator-sourced listing; Wellfound marks the company as early stage."
   },
   {
     "slug": "palantir",
@@ -835,17 +1084,19 @@
     "slug": "perplexity",
     "name": "Perplexity",
     "logo_url": null,
-    "stage": "seed",
+    "stage": "series_d_plus",
     "headcount_band": "501-1000",
     "industry_tags": [
       "frontier ai",
-      "research"
+      "research",
+      "search ai",
+      "genai / applied ai"
     ],
     "ats_provider": null,
     "ats_slug": null,
     "custom_scraper_id": null,
     "is_active": true,
-    "notes": null
+    "notes": "Setter30 source; Ashby board checked for exact FDE roles."
   },
   {
     "slug": "persona",
@@ -928,6 +1179,23 @@
     "notes": null
   },
   {
+    "slug": "pwc",
+    "name": "PwC",
+    "logo_url": null,
+    "stage": "bootstrapped",
+    "headcount_band": "1000+",
+    "industry_tags": [
+      "consulting",
+      "enterprise ai",
+      "professional services"
+    ],
+    "ats_provider": "custom",
+    "ats_slug": null,
+    "custom_scraper_id": "pwc-careers",
+    "is_active": true,
+    "notes": "AI deployment sweep source; PwC has a Forward Deployed Engineering / Palantir Foundry careers category, but no resolving live exact-role detail page was published in the 2026-05-29 sweep."
+  },
+  {
     "slug": "ramp",
     "name": "Ramp",
     "logo_url": null,
@@ -942,6 +1210,22 @@
     "custom_scraper_id": null,
     "is_active": true,
     "notes": null
+  },
+  {
+    "slug": "rational-dynamics",
+    "name": "Rational Dynamics",
+    "logo_url": null,
+    "stage": "seed",
+    "headcount_band": "1-10",
+    "industry_tags": [
+      "financial services",
+      "agentic ai"
+    ],
+    "ats_provider": null,
+    "ats_slug": null,
+    "custom_scraper_id": null,
+    "is_active": true,
+    "notes": "Aggregator-sourced listing; Wellfound describes the company as early stage."
   },
   {
     "slug": "regie-ai",
@@ -1040,6 +1324,23 @@
     "notes": null
   },
   {
+    "slug": "saronic",
+    "name": "Saronic",
+    "logo_url": null,
+    "stage": "series_d_plus",
+    "headcount_band": "501-1000",
+    "industry_tags": [
+      "defense",
+      "dual-use",
+      "autonomous systems"
+    ],
+    "ats_provider": null,
+    "ats_slug": null,
+    "custom_scraper_id": null,
+    "is_active": true,
+    "notes": "Setter30 source; Ashby board exposes exact forward-deployed hardware/software roles."
+  },
+  {
     "slug": "scale-ai",
     "name": "Scale AI",
     "logo_url": null,
@@ -1054,22 +1355,6 @@
     "custom_scraper_id": null,
     "is_active": true,
     "notes": "Priority AI deployment company for the FDE source sweep."
-  },
-  {
-    "slug": "saronic",
-    "name": "Saronic",
-    "logo_url": null,
-    "stage": "gov_defense",
-    "headcount_band": "51-200",
-    "industry_tags": [
-      "defense",
-      "dual-use"
-    ],
-    "ats_provider": null,
-    "ats_slug": null,
-    "custom_scraper_id": null,
-    "is_active": true,
-    "notes": null
   },
   {
     "slug": "shield-ai",
@@ -3120,6 +3405,22 @@
     "notes": null
   },
   {
+    "slug": "towards-ai",
+    "name": "Towards AI",
+    "logo_url": "https://logo.clearbit.com/towardsai.net",
+    "stage": "bootstrapped",
+    "headcount_band": "11-50",
+    "industry_tags": [
+      "ai consulting",
+      "financial services"
+    ],
+    "ats_provider": "custom",
+    "ats_slug": null,
+    "custom_scraper_id": "towards-ai-careers",
+    "is_active": true,
+    "notes": "AI education and development company founded in 2019; public careers page describes a 15-person AI engineering team. Funding stage is not publicly disclosed."
+  },
+  {
     "slug": "vannevar-labs",
     "name": "Vannevar Labs",
     "logo_url": null,
@@ -3150,6 +3451,22 @@
     "custom_scraper_id": null,
     "is_active": true,
     "notes": null
+  },
+  {
+    "slug": "vercel",
+    "name": "Vercel",
+    "logo_url": null,
+    "stage": "series_d_plus",
+    "headcount_band": "1000+",
+    "industry_tags": [
+      "developer tools",
+      "ai infra"
+    ],
+    "ats_provider": null,
+    "ats_slug": null,
+    "custom_scraper_id": null,
+    "is_active": true,
+    "notes": "Aggregator-sourced listing; stage checked against Vercel's Series E/F funding history."
   },
   {
     "slug": "watershed",
@@ -3214,268 +3531,5 @@
     "custom_scraper_id": null,
     "is_active": true,
     "notes": null
-  },
-  {
-    "slug": "arize-ai",
-    "name": "Arize AI",
-    "logo_url": null,
-    "stage": "series_c",
-    "headcount_band": "201-500",
-    "industry_tags": [
-      "ai infra",
-      "observability"
-    ],
-    "ats_provider": null,
-    "ats_slug": null,
-    "custom_scraper_id": null,
-    "is_active": true,
-    "notes": "Aggregator-sourced listing; company stage checked against 2025 Series C announcement."
-  },
-  {
-    "slug": "cbre",
-    "name": "CBRE",
-    "logo_url": null,
-    "stage": "public",
-    "headcount_band": "1000+",
-    "industry_tags": [
-      "real estate",
-      "enterprise operations"
-    ],
-    "ats_provider": null,
-    "ats_slug": null,
-    "custom_scraper_id": null,
-    "is_active": true,
-    "notes": "Aggregator-sourced listing."
-  },
-  {
-    "slug": "deloitte",
-    "name": "Deloitte",
-    "logo_url": null,
-    "stage": "bootstrapped",
-    "headcount_band": "1000+",
-    "industry_tags": [
-      "consulting",
-      "enterprise ai",
-      "professional services"
-    ],
-    "ats_provider": null,
-    "ats_slug": null,
-    "custom_scraper_id": null,
-    "is_active": true,
-    "notes": "AI deployment sweep source; Deloitte has live Forward Deployed Engineer roles across Frontier GenAI, Databricks, and Palantir delivery."
-  },
-  {
-    "slug": "distyl-ai",
-    "name": "Distyl AI",
-    "logo_url": null,
-    "stage": "series_a",
-    "headcount_band": "51-200",
-    "industry_tags": [
-      "ai applications",
-      "enterprise"
-    ],
-    "ats_provider": null,
-    "ats_slug": null,
-    "custom_scraper_id": null,
-    "is_active": true,
-    "notes": "Aggregator-sourced listing; stage checked against reported Series A funding."
-  },
-  {
-    "slug": "google-cloud",
-    "name": "Google Cloud",
-    "logo_url": null,
-    "stage": "public",
-    "headcount_band": "1000+",
-    "industry_tags": [
-      "cloud",
-      "enterprise ai",
-      "big tech / cloud",
-      "genai / applied ai"
-    ],
-    "ats_provider": null,
-    "ats_slug": null,
-    "custom_scraper_id": null,
-    "is_active": true,
-    "notes": "Aggregator-sourced listing."
-  },
-  {
-    "slug": "gowan-usa",
-    "name": "Gowan USA",
-    "logo_url": null,
-    "stage": "bootstrapped",
-    "headcount_band": "1000+",
-    "industry_tags": [
-      "agriculture",
-      "industrial operations"
-    ],
-    "ats_provider": null,
-    "ats_slug": null,
-    "custom_scraper_id": null,
-    "is_active": true,
-    "notes": "Aggregator-sourced listing."
-  },
-  {
-    "slug": "obviant",
-    "name": "Obviant",
-    "logo_url": null,
-    "stage": "seed",
-    "headcount_band": "11-50",
-    "industry_tags": [
-      "defense",
-      "data"
-    ],
-    "ats_provider": null,
-    "ats_slug": null,
-    "custom_scraper_id": null,
-    "is_active": true,
-    "notes": "Aggregator-sourced listing."
-  },
-  {
-    "slug": "p-1-ai",
-    "name": "P-1 AI",
-    "logo_url": null,
-    "stage": "seed",
-    "headcount_band": "11-50",
-    "industry_tags": [
-      "vertical ai",
-      "engineering"
-    ],
-    "ats_provider": null,
-    "ats_slug": null,
-    "custom_scraper_id": null,
-    "is_active": true,
-    "notes": "Aggregator-sourced listing; Wellfound marks the company as early stage."
-  },
-  {
-    "slug": "rational-dynamics",
-    "name": "Rational Dynamics",
-    "logo_url": null,
-    "stage": "seed",
-    "headcount_band": "1-10",
-    "industry_tags": [
-      "financial services",
-      "agentic ai"
-    ],
-    "ats_provider": null,
-    "ats_slug": null,
-    "custom_scraper_id": null,
-    "is_active": true,
-    "notes": "Aggregator-sourced listing; Wellfound describes the company as early stage."
-  },
-  {
-    "slug": "vercel",
-    "name": "Vercel",
-    "logo_url": null,
-    "stage": "series_d_plus",
-    "headcount_band": "1000+",
-    "industry_tags": [
-      "developer tools",
-      "ai infra"
-    ],
-    "ats_provider": null,
-    "ats_slug": null,
-    "custom_scraper_id": null,
-    "is_active": true,
-    "notes": "Aggregator-sourced listing; stage checked against Vercel's Series E/F funding history."
-  },
-  {
-    "slug": "towards-ai",
-    "name": "Towards AI",
-    "logo_url": "https://logo.clearbit.com/towardsai.net",
-    "stage": "bootstrapped",
-    "headcount_band": "11-50",
-    "industry_tags": [
-      "ai consulting",
-      "financial services"
-    ],
-    "ats_provider": "custom",
-    "ats_slug": null,
-    "custom_scraper_id": "towards-ai-careers",
-    "is_active": true,
-    "notes": "AI education and development company founded in 2019; public careers page describes a 15-person AI engineering team. Funding stage is not publicly disclosed."
-  },
-  {
-    "slug": "infinit",
-    "name": "INFINIT",
-    "logo_url": "https://logo.clearbit.com/infinit.com",
-    "stage": "series_b",
-    "headcount_band": "51-200",
-    "industry_tags": [
-      "fintech",
-      "smb operations"
-    ],
-    "ats_provider": "lever",
-    "ats_slug": "infinit",
-    "custom_scraper_id": null,
-    "is_active": true,
-    "notes": "Fast-growing fintech scale-up launched in 2023. Company page says it has raised over $70M in equity financing; exact round label is not publicly disclosed."
-  },
-  {
-    "slug": "accenture",
-    "name": "Accenture",
-    "logo_url": null,
-    "stage": "public",
-    "headcount_band": "1000+",
-    "industry_tags": [
-      "consulting",
-      "enterprise ai",
-      "professional services"
-    ],
-    "ats_provider": "custom",
-    "ats_slug": null,
-    "custom_scraper_id": "accenture-careers",
-    "is_active": true,
-    "notes": "AI deployment sweep source; Accenture has multiple public Forward Deployed Engineer and Palantir FDE postings."
-  },
-  {
-    "slug": "ey",
-    "name": "EY",
-    "logo_url": null,
-    "stage": "bootstrapped",
-    "headcount_band": "1000+",
-    "industry_tags": [
-      "consulting",
-      "enterprise ai",
-      "professional services"
-    ],
-    "ats_provider": "custom",
-    "ats_slug": null,
-    "custom_scraper_id": "ey-careers",
-    "is_active": true,
-    "notes": "AI deployment sweep source; EY has live Forward Deployed Engineer roles in applied AI and financial services consulting."
-  },
-  {
-    "slug": "kpmg",
-    "name": "KPMG",
-    "logo_url": null,
-    "stage": "bootstrapped",
-    "headcount_band": "1000+",
-    "industry_tags": [
-      "consulting",
-      "enterprise ai",
-      "professional services"
-    ],
-    "ats_provider": "custom",
-    "ats_slug": null,
-    "custom_scraper_id": "kpmg-careers",
-    "is_active": true,
-    "notes": "AI deployment sweep source; KPMG AI & Data Labs has a live technical lead Forward Deployed Engineering role."
-  },
-  {
-    "slug": "pwc",
-    "name": "PwC",
-    "logo_url": null,
-    "stage": "bootstrapped",
-    "headcount_band": "1000+",
-    "industry_tags": [
-      "consulting",
-      "enterprise ai",
-      "professional services"
-    ],
-    "ats_provider": "custom",
-    "ats_slug": null,
-    "custom_scraper_id": "pwc-careers",
-    "is_active": true,
-    "notes": "AI deployment sweep source; PwC has a Forward Deployed Engineering / Palantir Foundry careers category, but no resolving live exact-role detail page was published in the 2026-05-29 sweep."
   }
 ]

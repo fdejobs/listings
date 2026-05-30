@@ -72,3 +72,5 @@ This wider universe should be kept in repo-backed JSON/source files, not hard-co
 - Manual overrides: timestamp every update and include source URLs.
 
 Weekly and monthly growth should come from stored snapshots. If historical data is missing, say tracking starts from the first available snapshot rather than inventing growth.
+
+Priority sweeps must enumerate the full employer career page for `forward deployed`, `forward-deployed`, and `FDE` title matches, not just one search-result page or one known posting. Cohere and Mistral both publish multiple regional variants on Ashby/Lever that should be represented as separate live roles when their direct URLs resolve.

@@ -1,7 +1,14 @@
 [
   {
+    "slug": "accenture-ai-forward-deployed-engineer-coimbra-2026-05",
+    "company_slug": "accenture",
+    "title": "AI / Forward Deployed Engineer",
     "role_family": "fde",
     "location_type": "hybrid",
+    "locations": [
+      "Coimbra",
+      "Portugal"
+    ],
     "travel_pct_band": "med_25_50",
     "customer_facing_pct_band": "high_50_plus",
     "comp_base_min": null,
@@ -14,29 +21,29 @@
       "enterprise AI",
       "technical implementation"
     ],
+    "description_md": "Accenture Portugal is hiring an AI / Forward Deployed Engineer to work on applied AI delivery, technical implementation, and client-facing production deployments.",
+    "apply_url": "https://www.accenture.com/us-en/careers/jobdetails?id=R00331828_pt&title=AI+%2F+Forward+Deployed+Engineer",
     "source_provider": "custom",
+    "source_url": "https://www.accenture.com/us-en/careers/jobdetails?id=R00331828_pt&title=AI+%2F+Forward+Deployed+Engineer",
     "first_seen_at": "2026-05-29T22:15:00.000Z",
+    "posted_at": "2026-05-25T00:00:00.000Z",
     "expires_at": null,
     "classifier_confidence": 0.98,
     "classifier_reasoning": "Added during the AI Deployment Sweep because the source title explicitly includes Forward Deployed Engineer language.",
     "classifier_version": "manual-ai-deployment-sweep-2026-05-29",
     "status": "live",
-    "is_featured": false,
-    "slug": "accenture-ai-forward-deployed-engineer-coimbra-2026-05",
-    "company_slug": "accenture",
-    "title": "AI / Forward Deployed Engineer",
-    "locations": [
-      "Coimbra",
-      "Portugal"
-    ],
-    "description_md": "Accenture Portugal is hiring an AI / Forward Deployed Engineer to work on applied AI delivery, technical implementation, and client-facing production deployments.",
-    "apply_url": "https://www.accenture.com/us-en/careers/jobdetails?id=R00331828_pt&title=AI+%2F+Forward+Deployed+Engineer",
-    "source_url": "https://www.accenture.com/us-en/careers/jobdetails?id=R00331828_pt&title=AI+%2F+Forward+Deployed+Engineer",
-    "posted_at": "2026-05-25T00:00:00.000Z"
+    "is_featured": false
   },
   {
+    "slug": "accenture-ai-ml-architect-forward-deployed-engineer-reinvention-centers-2026-05",
+    "company_slug": "accenture",
+    "title": "AI/ML Architect - Forward Deployed Engineer - Reinvention Centers",
     "role_family": "fde",
     "location_type": "hybrid",
+    "locations": [
+      "Multiple Locations",
+      "United States"
+    ],
     "travel_pct_band": "med_25_50",
     "customer_facing_pct_band": "high_50_plus",
     "comp_base_min": 90000,
@@ -49,29 +56,29 @@
       "enterprise AI",
       "technical implementation"
     ],
+    "description_md": "Accenture is hiring an AI/ML Architect - Forward Deployed Engineer for Reinvention Centers to bring applied AI and ML systems into customer production environments.",
+    "apply_url": "https://www.accenture.com/us-en/careers/jobdetails?id=R00330942_en&title=AI%2FML+Architect+-+Forward+Deployed+Engineer+%C2%B7+Reinvention+Centers",
     "source_provider": "custom",
+    "source_url": "https://www.accenture.com/us-en/careers/jobdetails?id=R00330942_en&title=AI%2FML+Architect+-+Forward+Deployed+Engineer+%C2%B7+Reinvention+Centers",
     "first_seen_at": "2026-05-29T22:15:00.000Z",
+    "posted_at": "2026-05-21T00:00:00.000Z",
     "expires_at": null,
     "classifier_confidence": 0.98,
     "classifier_reasoning": "Added during the AI Deployment Sweep because the source title explicitly includes Forward Deployed Engineer language and the direct job-detail page resolves.",
     "classifier_version": "manual-ai-deployment-sweep-2026-05-29",
     "status": "live",
-    "is_featured": false,
-    "slug": "accenture-ai-ml-architect-forward-deployed-engineer-reinvention-centers-2026-05",
+    "is_featured": false
+  },
+  {
+    "slug": "accenture-palantir-forward-deployed-engineer-2026-04",
     "company_slug": "accenture",
-    "title": "AI/ML Architect - Forward Deployed Engineer - Reinvention Centers",
+    "title": "Palantir Forward Deployed Engineer",
+    "role_family": "fde",
+    "location_type": "hybrid",
     "locations": [
       "Multiple Locations",
       "United States"
     ],
-    "description_md": "Accenture is hiring an AI/ML Architect - Forward Deployed Engineer for Reinvention Centers to bring applied AI and ML systems into customer production environments.",
-    "apply_url": "https://www.accenture.com/us-en/careers/jobdetails?id=R00330942_en&title=AI%2FML+Architect+-+Forward+Deployed+Engineer+%C2%B7+Reinvention+Centers",
-    "source_url": "https://www.accenture.com/us-en/careers/jobdetails?id=R00330942_en&title=AI%2FML+Architect+-+Forward+Deployed+Engineer+%C2%B7+Reinvention+Centers",
-    "posted_at": "2026-05-21T00:00:00.000Z"
-  },
-  {
-    "role_family": "fde",
-    "location_type": "hybrid",
     "travel_pct_band": "med_25_50",
     "customer_facing_pct_band": "high_50_plus",
     "comp_base_min": 64000,
@@ -84,29 +91,29 @@
       "enterprise AI",
       "technical implementation"
     ],
+    "description_md": "Accenture is hiring a Palantir Forward Deployed Engineer in the Accenture Palantir Business Group to deploy Palantir software, build tailored customer solutions, and turn production implementation work into measurable enterprise impact.",
+    "apply_url": "https://www.accenture.com/us-en/careers/jobdetails?id=R00324743_en&title=Palantir+Forward+Deployed+Engineer",
     "source_provider": "custom",
+    "source_url": "https://www.accenture.com/us-en/careers/jobdetails?id=R00324743_en&title=Palantir+Forward+Deployed+Engineer",
     "first_seen_at": "2026-05-29T22:15:00.000Z",
+    "posted_at": "2026-04-10T08:24:54.316Z",
     "expires_at": null,
     "classifier_confidence": 0.98,
     "classifier_reasoning": "Added during the AI Deployment Sweep because the source title explicitly includes Forward Deployed Engineer language.",
     "classifier_version": "manual-ai-deployment-sweep-2026-05-29",
     "status": "live",
-    "is_featured": false,
-    "slug": "accenture-palantir-forward-deployed-engineer-2026-04",
+    "is_featured": false
+  },
+  {
+    "slug": "accenture-palantir-forward-deployed-senior-engineer-2026-05",
     "company_slug": "accenture",
-    "title": "Palantir Forward Deployed Engineer",
+    "title": "Palantir Forward Deployed Senior Engineer",
+    "role_family": "fde",
+    "location_type": "hybrid",
     "locations": [
       "Multiple Locations",
       "United States"
     ],
-    "description_md": "Accenture is hiring a Palantir Forward Deployed Engineer in the Accenture Palantir Business Group to deploy Palantir software, build tailored customer solutions, and turn production implementation work into measurable enterprise impact.",
-    "apply_url": "https://www.accenture.com/us-en/careers/jobdetails?id=R00324743_en&title=Palantir+Forward+Deployed+Engineer",
-    "source_url": "https://www.accenture.com/us-en/careers/jobdetails?id=R00324743_en&title=Palantir+Forward+Deployed+Engineer",
-    "posted_at": "2026-04-10T08:24:54.316Z"
-  },
-  {
-    "role_family": "fde",
-    "location_type": "hybrid",
     "travel_pct_band": "med_25_50",
     "customer_facing_pct_band": "high_50_plus",
     "comp_base_min": 90000,
@@ -119,29 +126,29 @@
       "enterprise AI",
       "technical implementation"
     ],
+    "description_md": "Accenture is hiring a senior Palantir Forward Deployed Engineer to lead customer-facing Palantir delivery, production deployment, and technical implementation for enterprise clients.",
+    "apply_url": "https://www.accenture.com/us-en/careers/jobdetails?id=R00324737_en&title=Palantir+Forward+Deployed+Senior+Engineer",
     "source_provider": "custom",
+    "source_url": "https://www.accenture.com/us-en/careers/jobdetails?id=R00324737_en&title=Palantir+Forward+Deployed+Senior+Engineer",
     "first_seen_at": "2026-05-29T22:15:00.000Z",
+    "posted_at": "2026-05-25T00:00:00.000Z",
     "expires_at": null,
     "classifier_confidence": 0.98,
     "classifier_reasoning": "Added during the AI Deployment Sweep because the source title explicitly includes Forward Deployed Engineer language.",
     "classifier_version": "manual-ai-deployment-sweep-2026-05-29",
     "status": "live",
-    "is_featured": false,
-    "slug": "accenture-palantir-forward-deployed-senior-engineer-2026-05",
+    "is_featured": false
+  },
+  {
+    "slug": "accenture-sr-ai-engineer-forward-deployed-engineer-snowflake-reinvention-centers-2026-05",
     "company_slug": "accenture",
-    "title": "Palantir Forward Deployed Senior Engineer",
+    "title": "Sr. AI Engineer - Forward Deployed Engineer - Snowflake - Reinvention Centers",
+    "role_family": "fde",
+    "location_type": "hybrid",
     "locations": [
       "Multiple Locations",
       "United States"
     ],
-    "description_md": "Accenture is hiring a senior Palantir Forward Deployed Engineer to lead customer-facing Palantir delivery, production deployment, and technical implementation for enterprise clients.",
-    "apply_url": "https://www.accenture.com/us-en/careers/jobdetails?id=R00324737_en&title=Palantir+Forward+Deployed+Senior+Engineer",
-    "source_url": "https://www.accenture.com/us-en/careers/jobdetails?id=R00324737_en&title=Palantir+Forward+Deployed+Senior+Engineer",
-    "posted_at": "2026-05-25T00:00:00.000Z"
-  },
-  {
-    "role_family": "fde",
-    "location_type": "hybrid",
     "travel_pct_band": "med_25_50",
     "customer_facing_pct_band": "high_50_plus",
     "comp_base_min": 120000,
@@ -154,25 +161,18 @@
       "enterprise AI",
       "technical implementation"
     ],
+    "description_md": "Accenture is hiring a Sr. AI Engineer - Forward Deployed Engineer focused on Snowflake and Reinvention Centers, combining hands-on AI engineering with embedded customer deployment work.",
+    "apply_url": "https://www.accenture.com/us-en/careers/jobdetails?id=R00330938_en&title=Sr.+AI+Engineer+-+Forward+Deployed+Engineer+%C2%B7+Snowflake+%C2%B7+Reinvention+Centers",
     "source_provider": "custom",
+    "source_url": "https://www.accenture.com/us-en/careers/jobdetails?id=R00330938_en&title=Sr.+AI+Engineer+-+Forward+Deployed+Engineer+%C2%B7+Snowflake+%C2%B7+Reinvention+Centers",
     "first_seen_at": "2026-05-29T22:15:00.000Z",
+    "posted_at": "2026-05-21T00:00:00.000Z",
     "expires_at": null,
     "classifier_confidence": 0.98,
     "classifier_reasoning": "Added during the AI Deployment Sweep because the source title explicitly includes Forward Deployed Engineer language and the direct job-detail page resolves.",
     "classifier_version": "manual-ai-deployment-sweep-2026-05-29",
     "status": "live",
-    "is_featured": false,
-    "slug": "accenture-sr-ai-engineer-forward-deployed-engineer-snowflake-reinvention-centers-2026-05",
-    "company_slug": "accenture",
-    "title": "Sr. AI Engineer - Forward Deployed Engineer - Snowflake - Reinvention Centers",
-    "locations": [
-      "Multiple Locations",
-      "United States"
-    ],
-    "description_md": "Accenture is hiring a Sr. AI Engineer - Forward Deployed Engineer focused on Snowflake and Reinvention Centers, combining hands-on AI engineering with embedded customer deployment work.",
-    "apply_url": "https://www.accenture.com/us-en/careers/jobdetails?id=R00330938_en&title=Sr.+AI+Engineer+-+Forward+Deployed+Engineer+%C2%B7+Snowflake+%C2%B7+Reinvention+Centers",
-    "source_url": "https://www.accenture.com/us-en/careers/jobdetails?id=R00330938_en&title=Sr.+AI+Engineer+-+Forward+Deployed+Engineer+%C2%B7+Snowflake+%C2%B7+Reinvention+Centers",
-    "posted_at": "2026-05-21T00:00:00.000Z"
+    "is_featured": false
   },
   {
     "slug": "anduril-forward-deployed-engineer-air-defense-fde-costa-mesa-2026-05",
@@ -199,11 +199,11 @@
     "source_url": "https://boards.greenhouse.io/andurilindustries/jobs/5057206007?gh_jid=5057206007",
     "first_seen_at": "2026-05-17T12:47:51.282Z",
     "posted_at": "2026-05-13T16:40:56-04:00",
-    "expires_at": null,
+    "expires_at": "2026-06-03T18:13:11.156Z",
     "classifier_confidence": 0.86,
     "classifier_reasoning": "Deterministic fallback used because the default Claude model requires an OpenAI-compatible gateway base URL.",
     "classifier_version": "fde-classifier-v1",
-    "status": "live",
+    "status": "expired",
     "is_featured": false
   },
   {
@@ -231,11 +231,11 @@
     "source_url": "https://boards.greenhouse.io/andurilindustries/jobs/5135626007?gh_jid=5135626007",
     "first_seen_at": "2026-05-17T12:47:51.282Z",
     "posted_at": "2026-05-13T16:40:56-04:00",
-    "expires_at": null,
+    "expires_at": "2026-06-03T18:13:11.156Z",
     "classifier_confidence": 0.86,
     "classifier_reasoning": "Deterministic fallback used because the default Claude model requires an OpenAI-compatible gateway base URL.",
     "classifier_version": "fde-classifier-v1",
-    "status": "live",
+    "status": "expired",
     "is_featured": false
   },
   {
@@ -429,11 +429,11 @@
     "source_url": "https://job-boards.greenhouse.io/anthropic/jobs/4985877008",
     "first_seen_at": "2026-05-17T12:47:51.880Z",
     "posted_at": "2026-05-15T18:07:54-04:00",
-    "expires_at": null,
+    "expires_at": "2026-06-03T18:13:11.156Z",
     "classifier_confidence": 0.86,
     "classifier_reasoning": "Deterministic fallback used because the default Claude model requires an OpenAI-compatible gateway base URL.",
     "classifier_version": "fde-classifier-v1",
-    "status": "live",
+    "status": "expired",
     "is_featured": false
   },
   {
@@ -923,11 +923,11 @@
     "source_url": "https://jobs.ashbyhq.com/baseten/1b6fc00e-f3fa-440b-9e4e-3013f7a5010e",
     "first_seen_at": "2026-05-17T12:47:52.052Z",
     "posted_at": "2026-05-08T23:27:28.526+00:00",
-    "expires_at": null,
+    "expires_at": "2026-06-03T18:13:11.156Z",
     "classifier_confidence": 0.86,
     "classifier_reasoning": "Deterministic fallback used because the default Claude model requires an OpenAI-compatible gateway base URL.",
     "classifier_version": "fde-classifier-v1",
-    "status": "live",
+    "status": "expired",
     "is_featured": false
   },
   {
@@ -955,11 +955,11 @@
     "source_url": "https://jobs.ashbyhq.com/baseten/84c1801c-1a65-49fb-aaaa-beeafd530e7e",
     "first_seen_at": "2026-05-17T12:47:52.051Z",
     "posted_at": "2024-03-28T21:00:55.921+00:00",
-    "expires_at": null,
+    "expires_at": "2026-06-03T18:13:11.156Z",
     "classifier_confidence": 0.86,
     "classifier_reasoning": "Deterministic fallback used because the default Claude model requires an OpenAI-compatible gateway base URL.",
     "classifier_version": "fde-classifier-v1",
-    "status": "live",
+    "status": "expired",
     "is_featured": false
   },
   {
@@ -1095,9 +1095,18 @@
     "is_featured": false
   },
   {
+    "slug": "cohere-engineering-manager-fde-infrastructure-emea-2026-05",
     "company_slug": "cohere",
+    "title": "Engineering Manager, FDE Infrastructure (EMEA)",
     "role_family": "other",
     "location_type": "hybrid",
+    "locations": [
+      "London",
+      "United Kingdom",
+      "Europe",
+      "Middle East",
+      "Africa"
+    ],
     "travel_pct_band": "med_25_50",
     "customer_facing_pct_band": "high_50_plus",
     "comp_base_min": null,
@@ -1110,7 +1119,10 @@
       "customer deployment",
       "frontier models"
     ],
+    "description_md": "Cohere is hiring an Engineering Manager for FDE Infrastructure across EMEA. The role leads forward-deployed infrastructure engineers delivering customer AI deployments, with ownership across technical execution, delivery quality, and production readiness.",
+    "apply_url": "https://jobs.ashbyhq.com/cohere/9bdbba7e-9b91-4809-91ea-6f8a5187c05f",
     "source_provider": "ashby",
+    "source_url": "https://jobs.ashbyhq.com/cohere/9bdbba7e-9b91-4809-91ea-6f8a5187c05f",
     "first_seen_at": "2026-05-30T12:15:00.000Z",
     "posted_at": "2026-05-30T12:15:00.000Z",
     "expires_at": null,
@@ -1118,19 +1130,7 @@
     "classifier_reasoning": "Added during the 2026-05-30 priority AI lab sweep because the Cohere source title directly contains Forward Deployed Engineer, FDE, or Forward Deployed Engineering language. Source pages do not expose public posting dates, so posted_at uses the board first-seen timestamp.",
     "classifier_version": "manual-priority-ai-lab-sweep-2026-05-30",
     "status": "live",
-    "is_featured": false,
-    "slug": "cohere-engineering-manager-fde-infrastructure-emea-2026-05",
-    "title": "Engineering Manager, FDE Infrastructure (EMEA)",
-    "locations": [
-      "London",
-      "United Kingdom",
-      "Europe",
-      "Middle East",
-      "Africa"
-    ],
-    "description_md": "Cohere is hiring an Engineering Manager for FDE Infrastructure across EMEA. The role leads forward-deployed infrastructure engineers delivering customer AI deployments, with ownership across technical execution, delivery quality, and production readiness.",
-    "apply_url": "https://jobs.ashbyhq.com/cohere/9bdbba7e-9b91-4809-91ea-6f8a5187c05f",
-    "source_url": "https://jobs.ashbyhq.com/cohere/9bdbba7e-9b91-4809-91ea-6f8a5187c05f"
+    "is_featured": false
   },
   {
     "slug": "cohere-forward-deployed-engineer-agentic-platform-middle-east-2026-05",
@@ -1171,45 +1171,16 @@
     "is_featured": false
   },
   {
+    "slug": "cohere-forward-deployed-engineer-agentic-platform-north-america-2026-05",
     "company_slug": "cohere",
+    "title": "Forward Deployed Engineer, Agentic Platform",
     "role_family": "fde",
     "location_type": "hybrid",
-    "travel_pct_band": "med_25_50",
-    "customer_facing_pct_band": "high_50_plus",
-    "comp_base_min": null,
-    "comp_base_max": null,
-    "comp_currency": "USD",
-    "equity_offered": true,
-    "equity_note": "Compensation was not published on the source page; equity expected for late-stage private AI lab roles.",
-    "benefits_tags": [
-      "enterprise AI",
-      "customer deployment",
-      "frontier models"
-    ],
-    "source_provider": "ashby",
-    "first_seen_at": "2026-05-30T12:15:00.000Z",
-    "posted_at": "2026-05-30T12:15:00.000Z",
-    "expires_at": null,
-    "classifier_confidence": 0.99,
-    "classifier_reasoning": "Added during the 2026-05-30 priority AI lab sweep because the Cohere source title directly contains Forward Deployed Engineer, FDE, or Forward Deployed Engineering language. Source pages do not expose public posting dates, so posted_at uses the board first-seen timestamp.",
-    "classifier_version": "manual-priority-ai-lab-sweep-2026-05-30",
-    "status": "live",
-    "is_featured": false,
-    "slug": "cohere-forward-deployed-engineer-agentic-platform-north-america-2026-05",
-    "title": "Forward Deployed Engineer, Agentic Platform",
     "locations": [
       "Toronto",
       "Canada",
       "United States"
     ],
-    "description_md": "Cohere is hiring a Forward Deployed Engineer for its Agentic Platform team in North America. The role embeds with customers to build and deploy agentic systems over enterprise data, partnering with product and engineering to turn customer deployments into production capability.",
-    "apply_url": "https://jobs.ashbyhq.com/cohere/b0bf8953-9e48-4a7b-85b1-b8529b99ee1a",
-    "source_url": "https://jobs.ashbyhq.com/cohere/b0bf8953-9e48-4a7b-85b1-b8529b99ee1a"
-  },
-  {
-    "company_slug": "cohere",
-    "role_family": "fde",
-    "location_type": "hybrid",
     "travel_pct_band": "med_25_50",
     "customer_facing_pct_band": "high_50_plus",
     "comp_base_min": null,
@@ -1222,7 +1193,10 @@
       "customer deployment",
       "frontier models"
     ],
+    "description_md": "Cohere is hiring a Forward Deployed Engineer for its Agentic Platform team in North America. The role embeds with customers to build and deploy agentic systems over enterprise data, partnering with product and engineering to turn customer deployments into production capability.",
+    "apply_url": "https://jobs.ashbyhq.com/cohere/b0bf8953-9e48-4a7b-85b1-b8529b99ee1a",
     "source_provider": "ashby",
+    "source_url": "https://jobs.ashbyhq.com/cohere/b0bf8953-9e48-4a7b-85b1-b8529b99ee1a",
     "first_seen_at": "2026-05-30T12:15:00.000Z",
     "posted_at": "2026-05-30T12:15:00.000Z",
     "expires_at": null,
@@ -1230,26 +1204,23 @@
     "classifier_reasoning": "Added during the 2026-05-30 priority AI lab sweep because the Cohere source title directly contains Forward Deployed Engineer, FDE, or Forward Deployed Engineering language. Source pages do not expose public posting dates, so posted_at uses the board first-seen timestamp.",
     "classifier_version": "manual-priority-ai-lab-sweep-2026-05-30",
     "status": "live",
-    "is_featured": false,
+    "is_featured": false
+  },
+  {
     "slug": "cohere-forward-deployed-engineer-agentic-platform-public-sector-sovereign-ai-ottawa-2026-05",
+    "company_slug": "cohere",
     "title": "Forward Deployed Engineer, Agentic Platform - Public Sector / Sovereign AI",
+    "role_family": "fde",
+    "location_type": "hybrid",
     "locations": [
       "Ottawa",
       "Canada"
     ],
-    "description_md": "Cohere is hiring a Forward Deployed Engineer for Agentic Platform work in public sector and sovereign AI. The role is customer-embedded and focused on taking agentic AI systems from requirements through production deployment.",
-    "apply_url": "https://jobs.ashbyhq.com/cohere/5565ee49-f98b-4da3-92aa-ce22f4d39eaa",
-    "source_url": "https://jobs.ashbyhq.com/cohere/5565ee49-f98b-4da3-92aa-ce22f4d39eaa"
-  },
-  {
-    "company_slug": "cohere",
-    "role_family": "fde",
-    "location_type": "hybrid",
     "travel_pct_band": "med_25_50",
     "customer_facing_pct_band": "high_50_plus",
     "comp_base_min": null,
     "comp_base_max": null,
-    "comp_currency": "GBP",
+    "comp_currency": "USD",
     "equity_offered": true,
     "equity_note": "Compensation was not published on the source page; equity expected for late-stage private AI lab roles.",
     "benefits_tags": [
@@ -1257,7 +1228,10 @@
       "customer deployment",
       "frontier models"
     ],
+    "description_md": "Cohere is hiring a Forward Deployed Engineer for Agentic Platform work in public sector and sovereign AI. The role is customer-embedded and focused on taking agentic AI systems from requirements through production deployment.",
+    "apply_url": "https://jobs.ashbyhq.com/cohere/5565ee49-f98b-4da3-92aa-ce22f4d39eaa",
     "source_provider": "ashby",
+    "source_url": "https://jobs.ashbyhq.com/cohere/5565ee49-f98b-4da3-92aa-ce22f4d39eaa",
     "first_seen_at": "2026-05-30T12:15:00.000Z",
     "posted_at": "2026-05-30T12:15:00.000Z",
     "expires_at": null,
@@ -1265,128 +1239,19 @@
     "classifier_reasoning": "Added during the 2026-05-30 priority AI lab sweep because the Cohere source title directly contains Forward Deployed Engineer, FDE, or Forward Deployed Engineering language. Source pages do not expose public posting dates, so posted_at uses the board first-seen timestamp.",
     "classifier_version": "manual-priority-ai-lab-sweep-2026-05-30",
     "status": "live",
-    "is_featured": false,
+    "is_featured": false
+  },
+  {
     "slug": "cohere-forward-deployed-engineer-agentic-platform-uk-europe-2026-05",
+    "company_slug": "cohere",
     "title": "Forward Deployed Engineer, Agentic Platform (UK/Europe)",
+    "role_family": "fde",
+    "location_type": "hybrid",
     "locations": [
       "London",
       "United Kingdom",
       "Europe"
     ],
-    "description_md": "Cohere is hiring a Forward Deployed Engineer for Agentic Platform work across the UK and Europe. The role focuses on customer-embedded AI deployment, feature building, and production rollout for enterprise agentic systems.",
-    "apply_url": "https://jobs.ashbyhq.com/cohere/2d256112-b336-4539-8133-a0bf7f6698f0",
-    "source_url": "https://jobs.ashbyhq.com/cohere/2d256112-b336-4539-8133-a0bf7f6698f0"
-  },
-  {
-    "company_slug": "cohere",
-    "role_family": "fde",
-    "location_type": "hybrid",
-    "travel_pct_band": "med_25_50",
-    "customer_facing_pct_band": "high_50_plus",
-    "comp_base_min": null,
-    "comp_base_max": null,
-    "comp_currency": "USD",
-    "equity_offered": true,
-    "equity_note": "Compensation was not published on the source page; equity expected for late-stage private AI lab roles.",
-    "benefits_tags": [
-      "enterprise AI",
-      "customer deployment",
-      "frontier models"
-    ],
-    "source_provider": "ashby",
-    "first_seen_at": "2026-05-30T12:15:00.000Z",
-    "posted_at": "2026-05-30T12:15:00.000Z",
-    "expires_at": null,
-    "classifier_confidence": 0.99,
-    "classifier_reasoning": "Added during the 2026-05-30 priority AI lab sweep because the Cohere source title directly contains Forward Deployed Engineer, FDE, or Forward Deployed Engineering language. Source pages do not expose public posting dates, so posted_at uses the board first-seen timestamp.",
-    "classifier_version": "manual-priority-ai-lab-sweep-2026-05-30",
-    "status": "live",
-    "is_featured": false,
-    "slug": "cohere-forward-deployed-engineer-infrastructure-specialist-apac-2026-05",
-    "title": "Forward Deployed Engineer, Infrastructure Specialist",
-    "locations": [
-      "Japan",
-      "South Korea",
-      "Singapore"
-    ],
-    "description_md": "Cohere is hiring a Forward Deployed Engineer, Infrastructure Specialist for APAC customer deployments. The role focuses on hands-on infrastructure design, implementation, and production support for enterprise AI systems.",
-    "apply_url": "https://jobs.ashbyhq.com/cohere/38fbbbf9-3bd7-4961-8c7f-f9cc1aa3b64e",
-    "source_url": "https://jobs.ashbyhq.com/cohere/38fbbbf9-3bd7-4961-8c7f-f9cc1aa3b64e"
-  },
-  {
-    "company_slug": "cohere",
-    "role_family": "fde",
-    "location_type": "hybrid",
-    "travel_pct_band": "med_25_50",
-    "customer_facing_pct_band": "high_50_plus",
-    "comp_base_min": null,
-    "comp_base_max": null,
-    "comp_currency": "USD",
-    "equity_offered": true,
-    "equity_note": "Compensation was not published on the source page; equity expected for late-stage private AI lab roles.",
-    "benefits_tags": [
-      "enterprise AI",
-      "customer deployment",
-      "frontier models"
-    ],
-    "source_provider": "ashby",
-    "first_seen_at": "2026-05-30T12:15:00.000Z",
-    "posted_at": "2026-05-30T12:15:00.000Z",
-    "expires_at": null,
-    "classifier_confidence": 0.99,
-    "classifier_reasoning": "Added during the 2026-05-30 priority AI lab sweep because the Cohere source title directly contains Forward Deployed Engineer, FDE, or Forward Deployed Engineering language. Source pages do not expose public posting dates, so posted_at uses the board first-seen timestamp.",
-    "classifier_version": "manual-priority-ai-lab-sweep-2026-05-30",
-    "status": "live",
-    "is_featured": false,
-    "slug": "cohere-forward-deployed-engineer-infrastructure-specialist-dubai-2026-05",
-    "title": "Forward Deployed Engineer, Infrastructure Specialist",
-    "locations": [
-      "Dubai",
-      "United Arab Emirates"
-    ],
-    "description_md": "Cohere is hiring a Forward Deployed Engineer, Infrastructure Specialist in Dubai to own embedded customer infrastructure delivery for production AI deployments.",
-    "apply_url": "https://jobs.ashbyhq.com/cohere/fea00233-299d-41bf-923c-b7914c96b6c7",
-    "source_url": "https://jobs.ashbyhq.com/cohere/fea00233-299d-41bf-923c-b7914c96b6c7"
-  },
-  {
-    "company_slug": "cohere",
-    "role_family": "fde",
-    "location_type": "hybrid",
-    "travel_pct_band": "med_25_50",
-    "customer_facing_pct_band": "high_50_plus",
-    "comp_base_min": null,
-    "comp_base_max": null,
-    "comp_currency": "USD",
-    "equity_offered": true,
-    "equity_note": "Compensation was not published on the source page; equity expected for late-stage private AI lab roles.",
-    "benefits_tags": [
-      "enterprise AI",
-      "customer deployment",
-      "frontier models"
-    ],
-    "source_provider": "ashby",
-    "first_seen_at": "2026-05-30T12:15:00.000Z",
-    "posted_at": "2026-05-30T12:15:00.000Z",
-    "expires_at": null,
-    "classifier_confidence": 0.99,
-    "classifier_reasoning": "Added during the 2026-05-30 priority AI lab sweep because the Cohere source title directly contains Forward Deployed Engineer, FDE, or Forward Deployed Engineering language. Source pages do not expose public posting dates, so posted_at uses the board first-seen timestamp.",
-    "classifier_version": "manual-priority-ai-lab-sweep-2026-05-30",
-    "status": "live",
-    "is_featured": false,
-    "slug": "cohere-forward-deployed-engineer-infrastructure-specialist-public-sector-ottawa-2026-05",
-    "title": "Forward Deployed Engineer, Infrastructure Specialist - Public Sector",
-    "locations": [
-      "Ottawa",
-      "Canada"
-    ],
-    "description_md": "Cohere is hiring a Forward Deployed Engineer, Infrastructure Specialist for public sector customers. The role combines customer-facing technical discovery, infrastructure implementation, and production AI deployment.",
-    "apply_url": "https://jobs.ashbyhq.com/cohere/52aa7a25-ee2f-458a-8009-09ce3e7c6a5e",
-    "source_url": "https://jobs.ashbyhq.com/cohere/52aa7a25-ee2f-458a-8009-09ce3e7c6a5e"
-  },
-  {
-    "company_slug": "cohere",
-    "role_family": "fde",
-    "location_type": "hybrid",
     "travel_pct_band": "med_25_50",
     "customer_facing_pct_band": "high_50_plus",
     "comp_base_min": null,
@@ -1399,7 +1264,10 @@
       "customer deployment",
       "frontier models"
     ],
+    "description_md": "Cohere is hiring a Forward Deployed Engineer for Agentic Platform work across the UK and Europe. The role focuses on customer-embedded AI deployment, feature building, and production rollout for enterprise agentic systems.",
+    "apply_url": "https://jobs.ashbyhq.com/cohere/2d256112-b336-4539-8133-a0bf7f6698f0",
     "source_provider": "ashby",
+    "source_url": "https://jobs.ashbyhq.com/cohere/2d256112-b336-4539-8133-a0bf7f6698f0",
     "first_seen_at": "2026-05-30T12:15:00.000Z",
     "posted_at": "2026-05-30T12:15:00.000Z",
     "expires_at": null,
@@ -1407,28 +1275,131 @@
     "classifier_reasoning": "Added during the 2026-05-30 priority AI lab sweep because the Cohere source title directly contains Forward Deployed Engineer, FDE, or Forward Deployed Engineering language. Source pages do not expose public posting dates, so posted_at uses the board first-seen timestamp.",
     "classifier_version": "manual-priority-ai-lab-sweep-2026-05-30",
     "status": "live",
-    "is_featured": false,
+    "is_featured": false
+  },
+  {
+    "slug": "cohere-forward-deployed-engineer-infrastructure-specialist-apac-2026-05",
+    "company_slug": "cohere",
+    "title": "Forward Deployed Engineer, Infrastructure Specialist",
+    "role_family": "fde",
+    "location_type": "hybrid",
+    "locations": [
+      "Japan",
+      "South Korea",
+      "Singapore"
+    ],
+    "travel_pct_band": "med_25_50",
+    "customer_facing_pct_band": "high_50_plus",
+    "comp_base_min": null,
+    "comp_base_max": null,
+    "comp_currency": "USD",
+    "equity_offered": true,
+    "equity_note": "Compensation was not published on the source page; equity expected for late-stage private AI lab roles.",
+    "benefits_tags": [
+      "enterprise AI",
+      "customer deployment",
+      "frontier models"
+    ],
+    "description_md": "Cohere is hiring a Forward Deployed Engineer, Infrastructure Specialist for APAC customer deployments. The role focuses on hands-on infrastructure design, implementation, and production support for enterprise AI systems.",
+    "apply_url": "https://jobs.ashbyhq.com/cohere/38fbbbf9-3bd7-4961-8c7f-f9cc1aa3b64e",
+    "source_provider": "ashby",
+    "source_url": "https://jobs.ashbyhq.com/cohere/38fbbbf9-3bd7-4961-8c7f-f9cc1aa3b64e",
+    "first_seen_at": "2026-05-30T12:15:00.000Z",
+    "posted_at": "2026-05-30T12:15:00.000Z",
+    "expires_at": null,
+    "classifier_confidence": 0.99,
+    "classifier_reasoning": "Added during the 2026-05-30 priority AI lab sweep because the Cohere source title directly contains Forward Deployed Engineer, FDE, or Forward Deployed Engineering language. Source pages do not expose public posting dates, so posted_at uses the board first-seen timestamp.",
+    "classifier_version": "manual-priority-ai-lab-sweep-2026-05-30",
+    "status": "live",
+    "is_featured": false
+  },
+  {
+    "slug": "cohere-forward-deployed-engineer-infrastructure-specialist-dubai-2026-05",
+    "company_slug": "cohere",
+    "title": "Forward Deployed Engineer, Infrastructure Specialist",
+    "role_family": "fde",
+    "location_type": "hybrid",
+    "locations": [
+      "Dubai",
+      "United Arab Emirates"
+    ],
+    "travel_pct_band": "med_25_50",
+    "customer_facing_pct_band": "high_50_plus",
+    "comp_base_min": null,
+    "comp_base_max": null,
+    "comp_currency": "USD",
+    "equity_offered": true,
+    "equity_note": "Compensation was not published on the source page; equity expected for late-stage private AI lab roles.",
+    "benefits_tags": [
+      "enterprise AI",
+      "customer deployment",
+      "frontier models"
+    ],
+    "description_md": "Cohere is hiring a Forward Deployed Engineer, Infrastructure Specialist in Dubai to own embedded customer infrastructure delivery for production AI deployments.",
+    "apply_url": "https://jobs.ashbyhq.com/cohere/fea00233-299d-41bf-923c-b7914c96b6c7",
+    "source_provider": "ashby",
+    "source_url": "https://jobs.ashbyhq.com/cohere/fea00233-299d-41bf-923c-b7914c96b6c7",
+    "first_seen_at": "2026-05-30T12:15:00.000Z",
+    "posted_at": "2026-05-30T12:15:00.000Z",
+    "expires_at": null,
+    "classifier_confidence": 0.99,
+    "classifier_reasoning": "Added during the 2026-05-30 priority AI lab sweep because the Cohere source title directly contains Forward Deployed Engineer, FDE, or Forward Deployed Engineering language. Source pages do not expose public posting dates, so posted_at uses the board first-seen timestamp.",
+    "classifier_version": "manual-priority-ai-lab-sweep-2026-05-30",
+    "status": "live",
+    "is_featured": false
+  },
+  {
+    "slug": "cohere-forward-deployed-engineer-infrastructure-specialist-public-sector-ottawa-2026-05",
+    "company_slug": "cohere",
+    "title": "Forward Deployed Engineer, Infrastructure Specialist - Public Sector",
+    "role_family": "fde",
+    "location_type": "hybrid",
+    "locations": [
+      "Ottawa",
+      "Canada"
+    ],
+    "travel_pct_band": "med_25_50",
+    "customer_facing_pct_band": "high_50_plus",
+    "comp_base_min": null,
+    "comp_base_max": null,
+    "comp_currency": "USD",
+    "equity_offered": true,
+    "equity_note": "Compensation was not published on the source page; equity expected for late-stage private AI lab roles.",
+    "benefits_tags": [
+      "enterprise AI",
+      "customer deployment",
+      "frontier models"
+    ],
+    "description_md": "Cohere is hiring a Forward Deployed Engineer, Infrastructure Specialist for public sector customers. The role combines customer-facing technical discovery, infrastructure implementation, and production AI deployment.",
+    "apply_url": "https://jobs.ashbyhq.com/cohere/52aa7a25-ee2f-458a-8009-09ce3e7c6a5e",
+    "source_provider": "ashby",
+    "source_url": "https://jobs.ashbyhq.com/cohere/52aa7a25-ee2f-458a-8009-09ce3e7c6a5e",
+    "first_seen_at": "2026-05-30T12:15:00.000Z",
+    "posted_at": "2026-05-30T12:15:00.000Z",
+    "expires_at": null,
+    "classifier_confidence": 0.99,
+    "classifier_reasoning": "Added during the 2026-05-30 priority AI lab sweep because the Cohere source title directly contains Forward Deployed Engineer, FDE, or Forward Deployed Engineering language. Source pages do not expose public posting dates, so posted_at uses the board first-seen timestamp.",
+    "classifier_version": "manual-priority-ai-lab-sweep-2026-05-30",
+    "status": "live",
+    "is_featured": false
+  },
+  {
     "slug": "cohere-forward-deployed-engineer-infrastructure-specialist-uk-eu-me-2026-05",
+    "company_slug": "cohere",
     "title": "Forward Deployed Engineer, Infrastructure Specialist (UK/EU/ME)",
+    "role_family": "fde",
+    "location_type": "hybrid",
     "locations": [
       "London",
       "United Kingdom",
       "Europe",
       "Middle East"
     ],
-    "description_md": "Cohere is hiring a Forward Deployed Engineer, Infrastructure Specialist across the UK, Europe, and Middle East to support customer AI deployments with hands-on infrastructure implementation and production hardening.",
-    "apply_url": "https://jobs.ashbyhq.com/cohere/69a46996-a095-4195-ae80-2b46aa9cb10a",
-    "source_url": "https://jobs.ashbyhq.com/cohere/69a46996-a095-4195-ae80-2b46aa9cb10a"
-  },
-  {
-    "company_slug": "cohere",
-    "role_family": "fde",
-    "location_type": "hybrid",
     "travel_pct_band": "med_25_50",
     "customer_facing_pct_band": "high_50_plus",
     "comp_base_min": null,
     "comp_base_max": null,
-    "comp_currency": "USD",
+    "comp_currency": "GBP",
     "equity_offered": true,
     "equity_note": "Compensation was not published on the source page; equity expected for late-stage private AI lab roles.",
     "benefits_tags": [
@@ -1436,7 +1407,10 @@
       "customer deployment",
       "frontier models"
     ],
+    "description_md": "Cohere is hiring a Forward Deployed Engineer, Infrastructure Specialist across the UK, Europe, and Middle East to support customer AI deployments with hands-on infrastructure implementation and production hardening.",
+    "apply_url": "https://jobs.ashbyhq.com/cohere/69a46996-a095-4195-ae80-2b46aa9cb10a",
     "source_provider": "ashby",
+    "source_url": "https://jobs.ashbyhq.com/cohere/69a46996-a095-4195-ae80-2b46aa9cb10a",
     "first_seen_at": "2026-05-30T12:15:00.000Z",
     "posted_at": "2026-05-30T12:15:00.000Z",
     "expires_at": null,
@@ -1444,9 +1418,14 @@
     "classifier_reasoning": "Added during the 2026-05-30 priority AI lab sweep because the Cohere source title directly contains Forward Deployed Engineer, FDE, or Forward Deployed Engineering language. Source pages do not expose public posting dates, so posted_at uses the board first-seen timestamp.",
     "classifier_version": "manual-priority-ai-lab-sweep-2026-05-30",
     "status": "live",
-    "is_featured": false,
+    "is_featured": false
+  },
+  {
     "slug": "cohere-forward-deployed-engineer-prompt-specialist-north-america-2026-05",
+    "company_slug": "cohere",
     "title": "Forward Deployed Engineer, Prompt Specialist",
+    "role_family": "fde",
+    "location_type": "hybrid",
     "locations": [
       "Toronto",
       "Montreal",
@@ -1454,14 +1433,6 @@
       "San Francisco",
       "North America"
     ],
-    "description_md": "Cohere is hiring a Forward Deployed Engineer, Prompt Specialist to work directly with customers on prompt engineering, solution design, evaluations, and production use of Cohere models in enterprise deployments.",
-    "apply_url": "https://jobs.ashbyhq.com/cohere/67419f0d-2c32-4fc0-bb2c-86208baf897e",
-    "source_url": "https://jobs.ashbyhq.com/cohere/67419f0d-2c32-4fc0-bb2c-86208baf897e"
-  },
-  {
-    "company_slug": "cohere",
-    "role_family": "other",
-    "location_type": "hybrid",
     "travel_pct_band": "med_25_50",
     "customer_facing_pct_band": "high_50_plus",
     "comp_base_min": null,
@@ -1474,7 +1445,10 @@
       "customer deployment",
       "frontier models"
     ],
+    "description_md": "Cohere is hiring a Forward Deployed Engineer, Prompt Specialist to work directly with customers on prompt engineering, solution design, evaluations, and production use of Cohere models in enterprise deployments.",
+    "apply_url": "https://jobs.ashbyhq.com/cohere/67419f0d-2c32-4fc0-bb2c-86208baf897e",
     "source_provider": "ashby",
+    "source_url": "https://jobs.ashbyhq.com/cohere/67419f0d-2c32-4fc0-bb2c-86208baf897e",
     "first_seen_at": "2026-05-30T12:15:00.000Z",
     "posted_at": "2026-05-30T12:15:00.000Z",
     "expires_at": null,
@@ -1482,16 +1456,42 @@
     "classifier_reasoning": "Added during the 2026-05-30 priority AI lab sweep because the Cohere source title directly contains Forward Deployed Engineer, FDE, or Forward Deployed Engineering language. Source pages do not expose public posting dates, so posted_at uses the board first-seen timestamp.",
     "classifier_version": "manual-priority-ai-lab-sweep-2026-05-30",
     "status": "live",
-    "is_featured": false,
+    "is_featured": false
+  },
+  {
     "slug": "cohere-technical-program-manager-forward-deployed-engineering-japan-2026-05",
+    "company_slug": "cohere",
     "title": "Technical Program Manager, Forward Deployed Engineering (Japan)",
+    "role_family": "other",
+    "location_type": "hybrid",
     "locations": [
       "Tokyo",
       "Japan"
     ],
+    "travel_pct_band": "med_25_50",
+    "customer_facing_pct_band": "high_50_plus",
+    "comp_base_min": null,
+    "comp_base_max": null,
+    "comp_currency": "USD",
+    "equity_offered": true,
+    "equity_note": "Compensation was not published on the source page; equity expected for late-stage private AI lab roles.",
+    "benefits_tags": [
+      "enterprise AI",
+      "customer deployment",
+      "frontier models"
+    ],
     "description_md": "Cohere is hiring a Technical Program Manager for Forward Deployed Engineering in Japan. The role coordinates customer-facing AI delivery and helps drive forward-deployed engineering execution across enterprise deployments.",
     "apply_url": "https://jobs.ashbyhq.com/cohere/a493de57-b349-4eb1-9e09-d4220356ca74",
-    "source_url": "https://jobs.ashbyhq.com/cohere/a493de57-b349-4eb1-9e09-d4220356ca74"
+    "source_provider": "ashby",
+    "source_url": "https://jobs.ashbyhq.com/cohere/a493de57-b349-4eb1-9e09-d4220356ca74",
+    "first_seen_at": "2026-05-30T12:15:00.000Z",
+    "posted_at": "2026-05-30T12:15:00.000Z",
+    "expires_at": null,
+    "classifier_confidence": 0.99,
+    "classifier_reasoning": "Added during the 2026-05-30 priority AI lab sweep because the Cohere source title directly contains Forward Deployed Engineer, FDE, or Forward Deployed Engineering language. Source pages do not expose public posting dates, so posted_at uses the board first-seen timestamp.",
+    "classifier_version": "manual-priority-ai-lab-sweep-2026-05-30",
+    "status": "live",
+    "is_featured": false
   },
   {
     "slug": "cursor-ai-deployment-manager-san-francisco-2026-03",
@@ -1639,11 +1639,11 @@
     "source_url": "https://cursor.com/careers/forward-deployed-engineer",
     "first_seen_at": "2026-05-17T12:47:52.133Z",
     "posted_at": "2026-03-13T17:42:24.068+00:00",
-    "expires_at": null,
+    "expires_at": "2026-06-03T18:13:11.156Z",
     "classifier_confidence": 0.86,
     "classifier_reasoning": "Cursor careers lists a live Forward Deployed Engineer role; direct company careers URL replaces the stale Ashby URL.",
     "classifier_version": "fde-classifier-v1",
-    "status": "live",
+    "status": "expired",
     "is_featured": false
   },
   {
@@ -1730,11 +1730,11 @@
     "source_url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8330188002",
     "first_seen_at": "2026-05-17T12:47:52.545Z",
     "posted_at": "2026-04-09T16:51:21-04:00",
-    "expires_at": null,
+    "expires_at": "2026-06-03T18:13:11.156Z",
     "classifier_confidence": 0.86,
     "classifier_reasoning": "Deterministic fallback used because the default Claude model requires an OpenAI-compatible gateway base URL.",
     "classifier_version": "fde-classifier-v1",
-    "status": "live",
+    "status": "expired",
     "is_featured": false
   },
   {
@@ -1760,11 +1760,11 @@
     "source_url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8099751002",
     "first_seen_at": "2026-05-17T12:47:52.546Z",
     "posted_at": "2026-04-09T16:51:11-04:00",
-    "expires_at": null,
+    "expires_at": "2026-06-03T18:13:11.156Z",
     "classifier_confidence": 0.86,
     "classifier_reasoning": "Deterministic fallback used because the default Claude model requires an OpenAI-compatible gateway base URL.",
     "classifier_version": "fde-classifier-v1",
-    "status": "live",
+    "status": "expired",
     "is_featured": false
   },
   {
@@ -1790,11 +1790,11 @@
     "source_url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8551531002",
     "first_seen_at": "2026-05-17T12:47:52.545Z",
     "posted_at": "2026-05-15T10:29:50-04:00",
-    "expires_at": null,
+    "expires_at": "2026-06-03T18:13:11.156Z",
     "classifier_confidence": 0.86,
     "classifier_reasoning": "Deterministic fallback used because the default Claude model requires an OpenAI-compatible gateway base URL.",
     "classifier_version": "fde-classifier-v1",
-    "status": "live",
+    "status": "expired",
     "is_featured": false
   },
   {
@@ -1820,11 +1820,11 @@
     "source_url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8503080002",
     "first_seen_at": "2026-05-17T12:47:52.545Z",
     "posted_at": "2026-04-20T01:04:35-04:00",
-    "expires_at": null,
+    "expires_at": "2026-06-03T18:13:11.156Z",
     "classifier_confidence": 0.86,
     "classifier_reasoning": "Deterministic fallback used because the default Claude model requires an OpenAI-compatible gateway base URL.",
     "classifier_version": "fde-classifier-v1",
-    "status": "live",
+    "status": "expired",
     "is_featured": false
   },
   {
@@ -1851,11 +1851,11 @@
     "source_url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8298792002",
     "first_seen_at": "2026-05-17T12:47:52.545Z",
     "posted_at": "2026-04-09T16:51:21-04:00",
-    "expires_at": null,
+    "expires_at": "2026-06-03T18:13:11.156Z",
     "classifier_confidence": 0.86,
     "classifier_reasoning": "Deterministic fallback used because the default Claude model requires an OpenAI-compatible gateway base URL.",
     "classifier_version": "fde-classifier-v1",
-    "status": "live",
+    "status": "expired",
     "is_featured": false
   },
   {
@@ -10091,8 +10091,15 @@
     "is_featured": false
   },
   {
+    "slug": "deloitte-forward-deployed-engineer-frontier-genai-2026-04",
+    "company_slug": "deloitte",
+    "title": "Forward Deployed Engineer, Frontier GenAI",
     "role_family": "fde",
     "location_type": "hybrid",
+    "locations": [
+      "Multiple Locations",
+      "United States"
+    ],
     "travel_pct_band": "med_25_50",
     "customer_facing_pct_band": "high_50_plus",
     "comp_base_min": 113100,
@@ -10105,29 +10112,31 @@
       "enterprise AI",
       "technical implementation"
     ],
+    "description_md": "Deloitte is hiring a Forward Deployed Engineer, Frontier GenAI to prototype and deploy generative AI systems with enterprise clients and convert frontier AI capabilities into production outcomes.",
+    "apply_url": "https://www.themuse.com/jobs/deloitte/forward-deployed-engineer-frontier-genai",
     "source_provider": "custom",
+    "source_url": "https://www.themuse.com/jobs/deloitte/forward-deployed-engineer-frontier-genai",
     "first_seen_at": "2026-05-29T22:15:00.000Z",
+    "posted_at": "2026-04-11T19:22:56.000Z",
     "expires_at": null,
     "classifier_confidence": 0.98,
     "classifier_reasoning": "Added during the AI Deployment Sweep because the source title explicitly includes Forward Deployed Engineer language.",
     "classifier_version": "manual-ai-deployment-sweep-2026-05-29",
     "status": "live",
-    "is_featured": false,
-    "slug": "deloitte-forward-deployed-engineer-frontier-genai-2026-04",
-    "company_slug": "deloitte",
-    "title": "Forward Deployed Engineer, Frontier GenAI",
-    "locations": [
-      "Multiple Locations",
-      "United States"
-    ],
-    "description_md": "Deloitte is hiring a Forward Deployed Engineer, Frontier GenAI to prototype and deploy generative AI systems with enterprise clients and convert frontier AI capabilities into production outcomes.",
-    "apply_url": "https://www.themuse.com/jobs/deloitte/forward-deployed-engineer-frontier-genai",
-    "source_url": "https://www.themuse.com/jobs/deloitte/forward-deployed-engineer-frontier-genai",
-    "posted_at": "2026-04-11T19:22:56.000Z"
+    "is_featured": false
   },
   {
+    "slug": "deloitte-lead-forward-deployed-engineer-palantir-2026-04",
+    "company_slug": "deloitte",
+    "title": "Lead Forward Deployed Engineer - Palantir",
     "role_family": "fde",
     "location_type": "hybrid",
+    "locations": [
+      "Atlanta",
+      "New York",
+      "San Francisco",
+      "United States"
+    ],
     "travel_pct_band": "med_25_50",
     "customer_facing_pct_band": "high_50_plus",
     "comp_base_min": 167000,
@@ -10140,27 +10149,18 @@
       "enterprise AI",
       "technical implementation"
     ],
+    "description_md": "Deloitte is hiring a Lead Forward Deployed Engineer - Palantir to lead hands-on customer deployment, product configuration, and enterprise implementation work for Palantir-based solutions.",
+    "apply_url": "https://apply.deloitte.com/en_US/careers/JobDetail/Lead-Forward-Deployed-Engineer-Palantir/329269",
     "source_provider": "custom",
+    "source_url": "https://apply.deloitte.com/en_US/careers/JobDetail/Lead-Forward-Deployed-Engineer-Palantir/329269",
     "first_seen_at": "2026-05-29T22:15:00.000Z",
+    "posted_at": "2026-04-11T19:22:56.000Z",
     "expires_at": null,
     "classifier_confidence": 0.98,
     "classifier_reasoning": "Added during the AI Deployment Sweep because the source title explicitly includes Forward Deployed Engineer language.",
     "classifier_version": "manual-ai-deployment-sweep-2026-05-29",
     "status": "live",
-    "is_featured": false,
-    "slug": "deloitte-lead-forward-deployed-engineer-palantir-2026-04",
-    "company_slug": "deloitte",
-    "title": "Lead Forward Deployed Engineer - Palantir",
-    "locations": [
-      "Atlanta",
-      "New York",
-      "San Francisco",
-      "United States"
-    ],
-    "description_md": "Deloitte is hiring a Lead Forward Deployed Engineer - Palantir to lead hands-on customer deployment, product configuration, and enterprise implementation work for Palantir-based solutions.",
-    "apply_url": "https://apply.deloitte.com/en_US/careers/JobDetail/Lead-Forward-Deployed-Engineer-Palantir/329269",
-    "source_url": "https://apply.deloitte.com/en_US/careers/JobDetail/Lead-Forward-Deployed-Engineer-Palantir/329269",
-    "posted_at": "2026-04-11T19:22:56.000Z"
+    "is_featured": false
   },
   {
     "slug": "distyl-ai-forward-deployed-engineer-san-francisco-2026-05",
@@ -10309,8 +10309,15 @@
     "is_featured": false
   },
   {
+    "slug": "ey-forward-deployed-engineer-applied-ai-manager-financial-services-consulting-2026-05",
+    "company_slug": "ey",
+    "title": "Forward Deployed Engineer - Applied AI - Manager - Financial Services Consulting",
     "role_family": "fde",
     "location_type": "hybrid",
+    "locations": [
+      "New York",
+      "United States"
+    ],
     "travel_pct_band": "med_25_50",
     "customer_facing_pct_band": "high_50_plus",
     "comp_base_min": 140000,
@@ -10323,29 +10330,29 @@
       "enterprise AI",
       "technical implementation"
     ],
+    "description_md": "EY is hiring a Forward Deployed Engineer - Applied AI - Manager for financial services clients, combining applied AI engineering, customer problem discovery, and production deployment.",
+    "apply_url": "https://careers.ey.com/ey/job/New-York-Forward-Deployed-Engineer-Applied-AI-Manager-Financial-Services-Consulting-NY-10001-8604/1393514533/",
     "source_provider": "custom",
+    "source_url": "https://careers.ey.com/ey/job/New-York-Forward-Deployed-Engineer-Applied-AI-Manager-Financial-Services-Consulting-NY-10001-8604/1393514533/",
     "first_seen_at": "2026-05-29T22:15:00.000Z",
+    "posted_at": "2026-05-13T00:00:00.000Z",
     "expires_at": null,
     "classifier_confidence": 0.98,
     "classifier_reasoning": "Added during the AI Deployment Sweep because the source title explicitly includes Forward Deployed Engineer language.",
     "classifier_version": "manual-ai-deployment-sweep-2026-05-29",
     "status": "live",
-    "is_featured": false,
-    "slug": "ey-forward-deployed-engineer-applied-ai-manager-financial-services-consulting-2026-05",
+    "is_featured": false
+  },
+  {
+    "slug": "ey-forward-deployed-engineer-applied-ai-senior-financial-services-consulting-2026-05",
     "company_slug": "ey",
-    "title": "Forward Deployed Engineer - Applied AI - Manager - Financial Services Consulting",
+    "title": "Forward Deployed Engineer - Applied AI - Senior - Financial Services Consulting",
+    "role_family": "fde",
+    "location_type": "hybrid",
     "locations": [
       "New York",
       "United States"
     ],
-    "description_md": "EY is hiring a Forward Deployed Engineer - Applied AI - Manager for financial services clients, combining applied AI engineering, customer problem discovery, and production deployment.",
-    "apply_url": "https://careers.ey.com/ey/job/New-York-Forward-Deployed-Engineer-Applied-AI-Manager-Financial-Services-Consulting-NY-10001-8604/1393514533/",
-    "source_url": "https://careers.ey.com/ey/job/New-York-Forward-Deployed-Engineer-Applied-AI-Manager-Financial-Services-Consulting-NY-10001-8604/1393514533/",
-    "posted_at": "2026-05-13T00:00:00.000Z"
-  },
-  {
-    "role_family": "fde",
-    "location_type": "hybrid",
     "travel_pct_band": "med_25_50",
     "customer_facing_pct_band": "high_50_plus",
     "comp_base_min": 110000,
@@ -10358,29 +10365,29 @@
       "enterprise AI",
       "technical implementation"
     ],
+    "description_md": "EY is hiring a Forward Deployed Engineer - Applied AI - Senior in Financial Services Consulting to work with client teams on applied AI delivery, prototyping, and production deployment.",
+    "apply_url": "https://careers.ey.com/ey/job/New-York-Forward-Deployed-Engineer-Applied-AI-Senior-Financial-Services-Consulting-NY-10001-8604/1393540633/",
     "source_provider": "custom",
+    "source_url": "https://careers.ey.com/ey/job/New-York-Forward-Deployed-Engineer-Applied-AI-Senior-Financial-Services-Consulting-NY-10001-8604/1393540633/",
     "first_seen_at": "2026-05-29T22:15:00.000Z",
+    "posted_at": "2026-05-13T00:00:00.000Z",
     "expires_at": null,
     "classifier_confidence": 0.98,
     "classifier_reasoning": "Added during the AI Deployment Sweep because the source title explicitly includes Forward Deployed Engineer language.",
     "classifier_version": "manual-ai-deployment-sweep-2026-05-29",
     "status": "live",
-    "is_featured": false,
-    "slug": "ey-forward-deployed-engineer-applied-ai-senior-financial-services-consulting-2026-05",
-    "company_slug": "ey",
-    "title": "Forward Deployed Engineer - Applied AI - Senior - Financial Services Consulting",
-    "locations": [
-      "New York",
-      "United States"
-    ],
-    "description_md": "EY is hiring a Forward Deployed Engineer - Applied AI - Senior in Financial Services Consulting to work with client teams on applied AI delivery, prototyping, and production deployment.",
-    "apply_url": "https://careers.ey.com/ey/job/New-York-Forward-Deployed-Engineer-Applied-AI-Senior-Financial-Services-Consulting-NY-10001-8604/1393540633/",
-    "source_url": "https://careers.ey.com/ey/job/New-York-Forward-Deployed-Engineer-Applied-AI-Senior-Financial-Services-Consulting-NY-10001-8604/1393540633/",
-    "posted_at": "2026-05-13T00:00:00.000Z"
+    "is_featured": false
   },
   {
+    "slug": "ey-gds-consulting-ai-and-data-forward-deployed-engineer-senior-bengaluru-2026-05",
+    "company_slug": "ey",
+    "title": "EY GDS Consulting AI and DATA - Forward Deployed Engineer - Senior",
     "role_family": "fde",
     "location_type": "hybrid",
+    "locations": [
+      "Bengaluru",
+      "India"
+    ],
     "travel_pct_band": "med_25_50",
     "customer_facing_pct_band": "high_50_plus",
     "comp_base_min": 60000,
@@ -10393,29 +10400,29 @@
       "enterprise AI",
       "technical implementation"
     ],
+    "description_md": "EY GDS is hiring a Forward Deployed Engineer - Senior in AI and Data consulting to work on applied AI delivery, customer deployment, and technical implementation from Bengaluru.",
+    "apply_url": "https://careers.ey.com/ey/job/Bengaluru-EY-GDS-Consulting-AI-And-DATA-Forward-Deployed-Engineer-Senior-KA-560048/1392166633/",
     "source_provider": "custom",
+    "source_url": "https://careers.ey.com/ey/job/Bengaluru-EY-GDS-Consulting-AI-And-DATA-Forward-Deployed-Engineer-Senior-KA-560048/1392166633/",
     "first_seen_at": "2026-05-29T22:15:00.000Z",
+    "posted_at": "2026-05-11T00:00:00.000Z",
     "expires_at": null,
     "classifier_confidence": 0.98,
     "classifier_reasoning": "Added during the AI Deployment Sweep because the source title explicitly includes Forward Deployed Engineer language.",
     "classifier_version": "manual-ai-deployment-sweep-2026-05-29",
     "status": "live",
-    "is_featured": false,
-    "slug": "ey-gds-consulting-ai-and-data-forward-deployed-engineer-senior-bengaluru-2026-05",
-    "company_slug": "ey",
-    "title": "EY GDS Consulting AI and DATA - Forward Deployed Engineer - Senior",
-    "locations": [
-      "Bengaluru",
-      "India"
-    ],
-    "description_md": "EY GDS is hiring a Forward Deployed Engineer - Senior in AI and Data consulting to work on applied AI delivery, customer deployment, and technical implementation from Bengaluru.",
-    "apply_url": "https://careers.ey.com/ey/job/Bengaluru-EY-GDS-Consulting-AI-And-DATA-Forward-Deployed-Engineer-Senior-KA-560048/1392166633/",
-    "source_url": "https://careers.ey.com/ey/job/Bengaluru-EY-GDS-Consulting-AI-And-DATA-Forward-Deployed-Engineer-Senior-KA-560048/1392166633/",
-    "posted_at": "2026-05-11T00:00:00.000Z"
+    "is_featured": false
   },
   {
+    "slug": "ey-senior-consultant-forward-deployed-engineer-tc-fs-london-2026-04",
+    "company_slug": "ey",
+    "title": "Senior Consultant, Forward Deployed Engineer, TC, FS",
     "role_family": "fde",
     "location_type": "hybrid",
+    "locations": [
+      "London",
+      "United Kingdom"
+    ],
     "travel_pct_band": "med_25_50",
     "customer_facing_pct_band": "high_50_plus",
     "comp_base_min": 70000,
@@ -10428,29 +10435,29 @@
       "enterprise AI",
       "technical implementation"
     ],
+    "description_md": "EY UK is hiring a Senior Consultant, Forward Deployed Engineer in technology consulting for financial services, focused on applied AI delivery and client-embedded implementation work.",
+    "apply_url": "https://careers.ey.com/ey/job/London-Senior-Consultant%2C-Forward-Deployed-Engineer%2C-TC%2C-FS-E14-5EY/1382046133/",
     "source_provider": "custom",
+    "source_url": "https://careers.ey.com/ey/job/London-Senior-Consultant%2C-Forward-Deployed-Engineer%2C-TC%2C-FS-E14-5EY/1382046133/",
     "first_seen_at": "2026-05-29T22:15:00.000Z",
+    "posted_at": "2026-04-09T00:00:00.000Z",
     "expires_at": null,
     "classifier_confidence": 0.98,
     "classifier_reasoning": "Added during the AI Deployment Sweep because the source title explicitly includes Forward Deployed Engineer language.",
     "classifier_version": "manual-ai-deployment-sweep-2026-05-29",
     "status": "live",
-    "is_featured": false,
-    "slug": "ey-senior-consultant-forward-deployed-engineer-tc-fs-london-2026-04",
+    "is_featured": false
+  },
+  {
+    "slug": "ey-senior-manager-forward-deployed-engineer-squad-lead-tc-fs-london-2026-04",
     "company_slug": "ey",
-    "title": "Senior Consultant, Forward Deployed Engineer, TC, FS",
+    "title": "Senior Manager, Forward Deployed Engineer Squad Lead, TC, FS",
+    "role_family": "fde",
+    "location_type": "hybrid",
     "locations": [
       "London",
       "United Kingdom"
     ],
-    "description_md": "EY UK is hiring a Senior Consultant, Forward Deployed Engineer in technology consulting for financial services, focused on applied AI delivery and client-embedded implementation work.",
-    "apply_url": "https://careers.ey.com/ey/job/London-Senior-Consultant%2C-Forward-Deployed-Engineer%2C-TC%2C-FS-E14-5EY/1382046133/",
-    "source_url": "https://careers.ey.com/ey/job/London-Senior-Consultant%2C-Forward-Deployed-Engineer%2C-TC%2C-FS-E14-5EY/1382046133/",
-    "posted_at": "2026-04-09T00:00:00.000Z"
-  },
-  {
-    "role_family": "fde",
-    "location_type": "hybrid",
     "travel_pct_band": "med_25_50",
     "customer_facing_pct_band": "high_50_plus",
     "comp_base_min": 110000,
@@ -10463,25 +10470,18 @@
       "enterprise AI",
       "technical implementation"
     ],
+    "description_md": "EY UK is hiring a Senior Manager, Forward Deployed Engineer Squad Lead to lead embedded applied AI delivery teams for financial services clients.",
+    "apply_url": "https://careers.ey.com/ey/job/London-Senior-Manager%2C-Forward-Deployed-Engineer-Squad-Lead%2C-TC%2C-FS-E14-5EY/1382058233/",
     "source_provider": "custom",
+    "source_url": "https://careers.ey.com/ey/job/London-Senior-Manager%2C-Forward-Deployed-Engineer-Squad-Lead%2C-TC%2C-FS-E14-5EY/1382058233/",
     "first_seen_at": "2026-05-29T22:15:00.000Z",
+    "posted_at": "2026-04-09T00:00:00.000Z",
     "expires_at": null,
     "classifier_confidence": 0.98,
     "classifier_reasoning": "Added during the AI Deployment Sweep because the source title explicitly includes Forward Deployed Engineer language.",
     "classifier_version": "manual-ai-deployment-sweep-2026-05-29",
     "status": "live",
-    "is_featured": false,
-    "slug": "ey-senior-manager-forward-deployed-engineer-squad-lead-tc-fs-london-2026-04",
-    "company_slug": "ey",
-    "title": "Senior Manager, Forward Deployed Engineer Squad Lead, TC, FS",
-    "locations": [
-      "London",
-      "United Kingdom"
-    ],
-    "description_md": "EY UK is hiring a Senior Manager, Forward Deployed Engineer Squad Lead to lead embedded applied AI delivery teams for financial services clients.",
-    "apply_url": "https://careers.ey.com/ey/job/London-Senior-Manager%2C-Forward-Deployed-Engineer-Squad-Lead%2C-TC%2C-FS-E14-5EY/1382058233/",
-    "source_url": "https://careers.ey.com/ey/job/London-Senior-Manager%2C-Forward-Deployed-Engineer-Squad-Lead%2C-TC%2C-FS-E14-5EY/1382058233/",
-    "posted_at": "2026-04-09T00:00:00.000Z"
+    "is_featured": false
   },
   {
     "slug": "fireworks-ai-solutions-architect-new-york-2026-05",
@@ -10540,11 +10540,11 @@
     "source_url": "https://job-boards.greenhouse.io/gleanwork/jobs/4651990005",
     "first_seen_at": "2026-05-17T12:47:53.169Z",
     "posted_at": "2026-05-14T16:32:18-04:00",
-    "expires_at": null,
+    "expires_at": "2026-06-03T18:13:11.156Z",
     "classifier_confidence": 0.86,
     "classifier_reasoning": "Deterministic fallback used because the default Claude model requires an OpenAI-compatible gateway base URL.",
     "classifier_version": "fde-classifier-v1",
-    "status": "live",
+    "status": "expired",
     "is_featured": false
   },
   {
@@ -10571,11 +10571,11 @@
     "source_url": "https://job-boards.greenhouse.io/gleanwork/jobs/4659412005",
     "first_seen_at": "2026-05-17T12:47:53.168Z",
     "posted_at": "2026-05-14T15:35:24-04:00",
-    "expires_at": null,
+    "expires_at": "2026-06-03T18:13:11.156Z",
     "classifier_confidence": 0.86,
     "classifier_reasoning": "Deterministic fallback used because the default Claude model requires an OpenAI-compatible gateway base URL.",
     "classifier_version": "fde-classifier-v1",
-    "status": "live",
+    "status": "expired",
     "is_featured": false
   },
   {
@@ -10601,11 +10601,11 @@
     "source_url": "https://job-boards.greenhouse.io/gleanwork/jobs/4651991005",
     "first_seen_at": "2026-05-17T12:47:53.169Z",
     "posted_at": "2026-05-14T15:35:24-04:00",
-    "expires_at": null,
+    "expires_at": "2026-06-03T18:13:11.156Z",
     "classifier_confidence": 0.86,
     "classifier_reasoning": "Deterministic fallback used because the default Claude model requires an OpenAI-compatible gateway base URL.",
     "classifier_version": "fde-classifier-v1",
-    "status": "live",
+    "status": "expired",
     "is_featured": false
   },
   {
@@ -13116,8 +13116,17 @@
     "is_featured": true
   },
   {
+    "slug": "kpmg-director-senior-director-technical-lead-forward-deployed-engineer-2026-05",
+    "company_slug": "kpmg",
+    "title": "Director/Senior Director, Technical Lead Forward Deployed Engineer",
     "role_family": "fde",
     "location_type": "hybrid",
+    "locations": [
+      "San Francisco",
+      "Seattle",
+      "Washington DC",
+      "United States"
+    ],
     "travel_pct_band": "med_25_50",
     "customer_facing_pct_band": "high_50_plus",
     "comp_base_min": 171000,
@@ -13130,27 +13139,18 @@
       "enterprise AI",
       "technical implementation"
     ],
+    "description_md": "KPMG US is hiring a Director/Senior Director, Technical Lead Forward Deployed Engineer in AI & Data Labs to lead production AI delivery, client implementation, and technical deployment work.",
+    "apply_url": "https://www.kpmguscareers.com/jobdetail/?jobId=133322-B",
     "source_provider": "custom",
+    "source_url": "https://www.kpmguscareers.com/jobdetail/?jobId=133322-B",
     "first_seen_at": "2026-05-29T22:15:00.000Z",
+    "posted_at": "2026-05-15T00:00:00.000Z",
     "expires_at": null,
     "classifier_confidence": 0.98,
     "classifier_reasoning": "Added during the AI Deployment Sweep because the source title explicitly includes Forward Deployed Engineer language.",
     "classifier_version": "manual-ai-deployment-sweep-2026-05-29",
     "status": "live",
-    "is_featured": false,
-    "slug": "kpmg-director-senior-director-technical-lead-forward-deployed-engineer-2026-05",
-    "company_slug": "kpmg",
-    "title": "Director/Senior Director, Technical Lead Forward Deployed Engineer",
-    "locations": [
-      "San Francisco",
-      "Seattle",
-      "Washington DC",
-      "United States"
-    ],
-    "description_md": "KPMG US is hiring a Director/Senior Director, Technical Lead Forward Deployed Engineer in AI & Data Labs to lead production AI delivery, client implementation, and technical deployment work.",
-    "apply_url": "https://www.kpmguscareers.com/jobdetail/?jobId=133322-B",
-    "source_url": "https://www.kpmguscareers.com/jobdetail/?jobId=133322-B",
-    "posted_at": "2026-05-15T00:00:00.000Z"
+    "is_featured": false
   },
   {
     "slug": "mercury-ai-solutions-architect-san-francisco-2026-04",
@@ -13233,48 +13233,20 @@
     "is_featured": false
   },
   {
+    "slug": "mistral-ai-applied-ai-forward-deployed-machine-learning-engineer-montreal-2026-05",
     "company_slug": "mistral-ai",
+    "title": "Applied AI, Forward Deployed Machine Learning Engineer - Montreal",
     "role_family": "fde",
     "location_type": "hybrid",
-    "travel_pct_band": "low_0_25",
-    "customer_facing_pct_band": "high_50_plus",
-    "comp_base_min": null,
-    "comp_base_max": null,
-    "equity_offered": true,
-    "equity_note": "The source states competitive salary and equity but does not publish a salary range.",
-    "benefits_tags": [
-      "enterprise AI",
-      "customer deployment",
-      "open source"
-    ],
-    "source_provider": "lever",
-    "first_seen_at": "2026-05-30T12:15:00.000Z",
-    "posted_at": "2026-05-30T12:15:00.000Z",
-    "expires_at": null,
-    "classifier_confidence": 0.99,
-    "classifier_reasoning": "Added during the 2026-05-30 priority AI lab sweep because the Mistral Lever source title directly contains Forward Deployed engineering language. Source pages do not expose public posting dates, so posted_at uses the board first-seen timestamp.",
-    "classifier_version": "manual-priority-ai-lab-sweep-2026-05-30",
-    "status": "live",
-    "is_featured": false,
-    "slug": "mistral-ai-applied-ai-forward-deployed-machine-learning-engineer-montreal-2026-05",
-    "title": "Applied AI, Forward Deployed Machine Learning Engineer - Montreal",
     "locations": [
       "Montreal",
       "Canada"
     ],
-    "comp_currency": "USD",
-    "description_md": "Mistral AI is hiring an Applied AI Forward Deployed Machine Learning Engineer in Montreal to work with customers on applied AI delivery, implementation, and production deployment.",
-    "apply_url": "https://jobs.lever.co/mistral/a73cb128-b07e-437c-b82d-57b06661c52b",
-    "source_url": "https://jobs.lever.co/mistral/a73cb128-b07e-437c-b82d-57b06661c52b"
-  },
-  {
-    "company_slug": "mistral-ai",
-    "role_family": "fde",
-    "location_type": "hybrid",
     "travel_pct_band": "low_0_25",
     "customer_facing_pct_band": "high_50_plus",
     "comp_base_min": null,
     "comp_base_max": null,
+    "comp_currency": "USD",
     "equity_offered": true,
     "equity_note": "The source states competitive salary and equity but does not publish a salary range.",
     "benefits_tags": [
@@ -13282,7 +13254,10 @@
       "customer deployment",
       "open source"
     ],
+    "description_md": "Mistral AI is hiring an Applied AI Forward Deployed Machine Learning Engineer in Montreal to work with customers on applied AI delivery, implementation, and production deployment.",
+    "apply_url": "https://jobs.lever.co/mistral/a73cb128-b07e-437c-b82d-57b06661c52b",
     "source_provider": "lever",
+    "source_url": "https://jobs.lever.co/mistral/a73cb128-b07e-437c-b82d-57b06661c52b",
     "first_seen_at": "2026-05-30T12:15:00.000Z",
     "posted_at": "2026-05-30T12:15:00.000Z",
     "expires_at": null,
@@ -13290,26 +13265,23 @@
     "classifier_reasoning": "Added during the 2026-05-30 priority AI lab sweep because the Mistral Lever source title directly contains Forward Deployed engineering language. Source pages do not expose public posting dates, so posted_at uses the board first-seen timestamp.",
     "classifier_version": "manual-priority-ai-lab-sweep-2026-05-30",
     "status": "live",
-    "is_featured": false,
+    "is_featured": false
+  },
+  {
     "slug": "mistral-ai-applied-ai-forward-deployed-machine-learning-engineer-morocco-2026-05",
+    "company_slug": "mistral-ai",
     "title": "Applied AI, Forward Deployed Machine Learning Engineer - Morocco",
+    "role_family": "fde",
+    "location_type": "hybrid",
     "locations": [
       "Casablanca",
       "Morocco"
     ],
-    "comp_currency": "EUR",
-    "description_md": "Mistral AI is hiring an Applied AI Forward Deployed Machine Learning Engineer in Morocco to help enterprise customers build and deploy production AI systems with Mistral models.",
-    "apply_url": "https://jobs.lever.co/mistral/cb2137e6-d6b1-47d7-8450-6370a61f2b79",
-    "source_url": "https://jobs.lever.co/mistral/cb2137e6-d6b1-47d7-8450-6370a61f2b79"
-  },
-  {
-    "company_slug": "mistral-ai",
-    "role_family": "fde",
-    "location_type": "hybrid",
     "travel_pct_band": "low_0_25",
     "customer_facing_pct_band": "high_50_plus",
     "comp_base_min": null,
     "comp_base_max": null,
+    "comp_currency": "EUR",
     "equity_offered": true,
     "equity_note": "The source states competitive salary and equity but does not publish a salary range.",
     "benefits_tags": [
@@ -13317,7 +13289,10 @@
       "customer deployment",
       "open source"
     ],
+    "description_md": "Mistral AI is hiring an Applied AI Forward Deployed Machine Learning Engineer in Morocco to help enterprise customers build and deploy production AI systems with Mistral models.",
+    "apply_url": "https://jobs.lever.co/mistral/cb2137e6-d6b1-47d7-8450-6370a61f2b79",
     "source_provider": "lever",
+    "source_url": "https://jobs.lever.co/mistral/cb2137e6-d6b1-47d7-8450-6370a61f2b79",
     "first_seen_at": "2026-05-30T12:15:00.000Z",
     "posted_at": "2026-05-30T12:15:00.000Z",
     "expires_at": null,
@@ -13325,27 +13300,24 @@
     "classifier_reasoning": "Added during the 2026-05-30 priority AI lab sweep because the Mistral Lever source title directly contains Forward Deployed engineering language. Source pages do not expose public posting dates, so posted_at uses the board first-seen timestamp.",
     "classifier_version": "manual-priority-ai-lab-sweep-2026-05-30",
     "status": "live",
-    "is_featured": false,
+    "is_featured": false
+  },
+  {
     "slug": "mistral-ai-applied-ai-forward-deployed-machine-learning-engineer-palo-alto-2026-05",
+    "company_slug": "mistral-ai",
     "title": "Applied AI, Forward Deployed Machine Learning Engineer - Palo Alto",
+    "role_family": "fde",
+    "location_type": "hybrid",
     "locations": [
       "Palo Alto",
       "California",
       "United States"
     ],
-    "comp_currency": "USD",
-    "description_md": "Mistral AI is hiring an Applied AI Forward Deployed Machine Learning Engineer in Palo Alto to own customer-facing AI implementation, evaluation, and production deployment work.",
-    "apply_url": "https://jobs.lever.co/mistral/0b476d3a-5f0c-4dda-9a5e-bd5ed8515328",
-    "source_url": "https://jobs.lever.co/mistral/0b476d3a-5f0c-4dda-9a5e-bd5ed8515328"
-  },
-  {
-    "company_slug": "mistral-ai",
-    "role_family": "fde",
-    "location_type": "hybrid",
     "travel_pct_band": "low_0_25",
     "customer_facing_pct_band": "high_50_plus",
     "comp_base_min": null,
     "comp_base_max": null,
+    "comp_currency": "USD",
     "equity_offered": true,
     "equity_note": "The source states competitive salary and equity but does not publish a salary range.",
     "benefits_tags": [
@@ -13353,7 +13325,10 @@
       "customer deployment",
       "open source"
     ],
+    "description_md": "Mistral AI is hiring an Applied AI Forward Deployed Machine Learning Engineer in Palo Alto to own customer-facing AI implementation, evaluation, and production deployment work.",
+    "apply_url": "https://jobs.lever.co/mistral/0b476d3a-5f0c-4dda-9a5e-bd5ed8515328",
     "source_provider": "lever",
+    "source_url": "https://jobs.lever.co/mistral/0b476d3a-5f0c-4dda-9a5e-bd5ed8515328",
     "first_seen_at": "2026-05-30T12:15:00.000Z",
     "posted_at": "2026-05-30T12:15:00.000Z",
     "expires_at": null,
@@ -13361,25 +13336,22 @@
     "classifier_reasoning": "Added during the 2026-05-30 priority AI lab sweep because the Mistral Lever source title directly contains Forward Deployed engineering language. Source pages do not expose public posting dates, so posted_at uses the board first-seen timestamp.",
     "classifier_version": "manual-priority-ai-lab-sweep-2026-05-30",
     "status": "live",
-    "is_featured": false,
+    "is_featured": false
+  },
+  {
     "slug": "mistral-ai-applied-ai-forward-deployed-machine-learning-engineer-singapore-2026-05",
+    "company_slug": "mistral-ai",
     "title": "Applied AI, Forward Deployed Machine Learning Engineer - Singapore",
+    "role_family": "fde",
+    "location_type": "hybrid",
     "locations": [
       "Singapore"
     ],
-    "comp_currency": "USD",
-    "description_md": "Mistral AI is hiring an Applied AI Forward Deployed Machine Learning Engineer in Singapore to partner with enterprise customers on implementation, RAG, agentic workflows, fine-tuning, and production AI deployment.",
-    "apply_url": "https://jobs.lever.co/mistral/6fc7ccb5-47bb-4eab-aea0-55929403315d",
-    "source_url": "https://jobs.lever.co/mistral/6fc7ccb5-47bb-4eab-aea0-55929403315d"
-  },
-  {
-    "company_slug": "mistral-ai",
-    "role_family": "fde",
-    "location_type": "hybrid",
     "travel_pct_band": "low_0_25",
     "customer_facing_pct_band": "high_50_plus",
     "comp_base_min": null,
     "comp_base_max": null,
+    "comp_currency": "USD",
     "equity_offered": true,
     "equity_note": "The source states competitive salary and equity but does not publish a salary range.",
     "benefits_tags": [
@@ -13387,7 +13359,10 @@
       "customer deployment",
       "open source"
     ],
+    "description_md": "Mistral AI is hiring an Applied AI Forward Deployed Machine Learning Engineer in Singapore to partner with enterprise customers on implementation, RAG, agentic workflows, fine-tuning, and production AI deployment.",
+    "apply_url": "https://jobs.lever.co/mistral/6fc7ccb5-47bb-4eab-aea0-55929403315d",
     "source_provider": "lever",
+    "source_url": "https://jobs.lever.co/mistral/6fc7ccb5-47bb-4eab-aea0-55929403315d",
     "first_seen_at": "2026-05-30T12:15:00.000Z",
     "posted_at": "2026-05-30T12:15:00.000Z",
     "expires_at": null,
@@ -13395,17 +13370,42 @@
     "classifier_reasoning": "Added during the 2026-05-30 priority AI lab sweep because the Mistral Lever source title directly contains Forward Deployed engineering language. Source pages do not expose public posting dates, so posted_at uses the board first-seen timestamp.",
     "classifier_version": "manual-priority-ai-lab-sweep-2026-05-30",
     "status": "live",
-    "is_featured": false,
+    "is_featured": false
+  },
+  {
     "slug": "mistral-ai-applied-ai-technical-lead-forward-deployed-ai-engineer-abu-dhabi-2026-05",
+    "company_slug": "mistral-ai",
     "title": "Applied AI, Technical Lead - Forward Deployed AI Engineer - Abu Dhabi",
+    "role_family": "fde",
+    "location_type": "hybrid",
     "locations": [
       "Abu Dhabi",
       "United Arab Emirates"
     ],
+    "travel_pct_band": "low_0_25",
+    "customer_facing_pct_band": "high_50_plus",
+    "comp_base_min": null,
+    "comp_base_max": null,
     "comp_currency": "USD",
+    "equity_offered": true,
+    "equity_note": "The source states competitive salary and equity but does not publish a salary range.",
+    "benefits_tags": [
+      "enterprise AI",
+      "customer deployment",
+      "open source"
+    ],
     "description_md": "Mistral AI is hiring an Applied AI Technical Lead - Forward Deployed AI Engineer in Abu Dhabi to lead enterprise AI deployments, stay hands-on with implementation, and drive production outcomes for customers.",
     "apply_url": "https://jobs.lever.co/mistral/cb2986cc-4768-40b9-9d67-e53d78b247dc",
-    "source_url": "https://jobs.lever.co/mistral/cb2986cc-4768-40b9-9d67-e53d78b247dc"
+    "source_provider": "lever",
+    "source_url": "https://jobs.lever.co/mistral/cb2986cc-4768-40b9-9d67-e53d78b247dc",
+    "first_seen_at": "2026-05-30T12:15:00.000Z",
+    "posted_at": "2026-05-30T12:15:00.000Z",
+    "expires_at": null,
+    "classifier_confidence": 0.99,
+    "classifier_reasoning": "Added during the 2026-05-30 priority AI lab sweep because the Mistral Lever source title directly contains Forward Deployed engineering language. Source pages do not expose public posting dates, so posted_at uses the board first-seen timestamp.",
+    "classifier_version": "manual-priority-ai-lab-sweep-2026-05-30",
+    "status": "live",
+    "is_featured": false
   },
   {
     "slug": "mistral-ai-applied-ai-technical-lead-forward-deployed-ai-engineer-emea-2026-05",
@@ -13449,13 +13449,20 @@
     "is_featured": false
   },
   {
+    "slug": "mistral-ai-applied-ai-technical-lead-forward-deployed-ai-engineer-montreal-2026-05",
     "company_slug": "mistral-ai",
+    "title": "Applied AI, Technical Lead - Forward Deployed AI Engineer - Montreal",
     "role_family": "fde",
     "location_type": "hybrid",
+    "locations": [
+      "Montreal",
+      "Canada"
+    ],
     "travel_pct_band": "low_0_25",
     "customer_facing_pct_band": "high_50_plus",
     "comp_base_min": null,
     "comp_base_max": null,
+    "comp_currency": "USD",
     "equity_offered": true,
     "equity_note": "The source states competitive salary and equity but does not publish a salary range.",
     "benefits_tags": [
@@ -13463,7 +13470,10 @@
       "customer deployment",
       "open source"
     ],
+    "description_md": "Mistral AI is hiring an Applied AI Technical Lead - Forward Deployed AI Engineer in Montreal to lead complex customer AI deployments and guide applied AI delivery from architecture through production.",
+    "apply_url": "https://jobs.lever.co/mistral/042d7b29-279b-48e2-a44b-c7bdc3180dab",
     "source_provider": "lever",
+    "source_url": "https://jobs.lever.co/mistral/042d7b29-279b-48e2-a44b-c7bdc3180dab",
     "first_seen_at": "2026-05-30T12:15:00.000Z",
     "posted_at": "2026-05-30T12:15:00.000Z",
     "expires_at": null,
@@ -13471,17 +13481,7 @@
     "classifier_reasoning": "Added during the 2026-05-30 priority AI lab sweep because the Mistral Lever source title directly contains Forward Deployed engineering language. Source pages do not expose public posting dates, so posted_at uses the board first-seen timestamp.",
     "classifier_version": "manual-priority-ai-lab-sweep-2026-05-30",
     "status": "live",
-    "is_featured": false,
-    "slug": "mistral-ai-applied-ai-technical-lead-forward-deployed-ai-engineer-montreal-2026-05",
-    "title": "Applied AI, Technical Lead - Forward Deployed AI Engineer - Montreal",
-    "locations": [
-      "Montreal",
-      "Canada"
-    ],
-    "comp_currency": "USD",
-    "description_md": "Mistral AI is hiring an Applied AI Technical Lead - Forward Deployed AI Engineer in Montreal to lead complex customer AI deployments and guide applied AI delivery from architecture through production.",
-    "apply_url": "https://jobs.lever.co/mistral/042d7b29-279b-48e2-a44b-c7bdc3180dab",
-    "source_url": "https://jobs.lever.co/mistral/042d7b29-279b-48e2-a44b-c7bdc3180dab"
+    "is_featured": false
   },
   {
     "slug": "mistral-ai-applied-ai-technical-lead-forward-deployed-ai-engineer-new-york-2026-05",
@@ -13519,31 +13519,11 @@
     "is_featured": false
   },
   {
+    "slug": "mistral-ai-forward-deployed-machine-learning-engineer-critical-sovereign-institutions-emea-2026-05",
     "company_slug": "mistral-ai",
+    "title": "Applied AI, Forward Deployed Machine Learning Engineer, Critical and Sovereign Institutions - EMEA",
     "role_family": "fde",
     "location_type": "hybrid",
-    "travel_pct_band": "low_0_25",
-    "customer_facing_pct_band": "high_50_plus",
-    "comp_base_min": null,
-    "comp_base_max": null,
-    "equity_offered": true,
-    "equity_note": "The source states competitive salary and equity but does not publish a salary range.",
-    "benefits_tags": [
-      "enterprise AI",
-      "customer deployment",
-      "open source"
-    ],
-    "source_provider": "lever",
-    "first_seen_at": "2026-05-30T12:15:00.000Z",
-    "posted_at": "2026-05-30T12:15:00.000Z",
-    "expires_at": null,
-    "classifier_confidence": 0.99,
-    "classifier_reasoning": "Added during the 2026-05-30 priority AI lab sweep because the Mistral Lever source title directly contains Forward Deployed engineering language. Source pages do not expose public posting dates, so posted_at uses the board first-seen timestamp.",
-    "classifier_version": "manual-priority-ai-lab-sweep-2026-05-30",
-    "status": "live",
-    "is_featured": false,
-    "slug": "mistral-ai-forward-deployed-machine-learning-engineer-critical-sovereign-institutions-emea-2026-05",
-    "title": "Applied AI, Forward Deployed Machine Learning Engineer, Critical and Sovereign Institutions - EMEA",
     "locations": [
       "Paris",
       "France",
@@ -13551,19 +13531,11 @@
       "Middle East",
       "Africa"
     ],
-    "comp_currency": "EUR",
-    "description_md": "Mistral AI is hiring a Forward Deployed Machine Learning Engineer for critical and sovereign institutions across EMEA, focused on customer-embedded AI delivery and secure production deployment.",
-    "apply_url": "https://jobs.lever.co/mistral/c7b7fdfe-a071-4d62-bc15-7bcdff8067e7",
-    "source_url": "https://jobs.lever.co/mistral/c7b7fdfe-a071-4d62-bc15-7bcdff8067e7"
-  },
-  {
-    "company_slug": "mistral-ai",
-    "role_family": "fde",
-    "location_type": "hybrid",
     "travel_pct_band": "low_0_25",
     "customer_facing_pct_band": "high_50_plus",
     "comp_base_min": null,
     "comp_base_max": null,
+    "comp_currency": "EUR",
     "equity_offered": true,
     "equity_note": "The source states competitive salary and equity but does not publish a salary range.",
     "benefits_tags": [
@@ -13571,7 +13543,10 @@
       "customer deployment",
       "open source"
     ],
+    "description_md": "Mistral AI is hiring a Forward Deployed Machine Learning Engineer for critical and sovereign institutions across EMEA, focused on customer-embedded AI delivery and secure production deployment.",
+    "apply_url": "https://jobs.lever.co/mistral/c7b7fdfe-a071-4d62-bc15-7bcdff8067e7",
     "source_provider": "lever",
+    "source_url": "https://jobs.lever.co/mistral/c7b7fdfe-a071-4d62-bc15-7bcdff8067e7",
     "first_seen_at": "2026-05-30T12:15:00.000Z",
     "posted_at": "2026-05-30T12:15:00.000Z",
     "expires_at": null,
@@ -13579,16 +13554,41 @@
     "classifier_reasoning": "Added during the 2026-05-30 priority AI lab sweep because the Mistral Lever source title directly contains Forward Deployed engineering language. Source pages do not expose public posting dates, so posted_at uses the board first-seen timestamp.",
     "classifier_version": "manual-priority-ai-lab-sweep-2026-05-30",
     "status": "live",
-    "is_featured": false,
+    "is_featured": false
+  },
+  {
     "slug": "mistral-ai-senior-staff-forward-deployed-machine-learning-engineer-singapore-2026-05",
+    "company_slug": "mistral-ai",
     "title": "Senior/Staff Forward Deployed Machine Learning Engineer - Singapore",
+    "role_family": "fde",
+    "location_type": "hybrid",
     "locations": [
       "Singapore"
     ],
+    "travel_pct_band": "low_0_25",
+    "customer_facing_pct_band": "high_50_plus",
+    "comp_base_min": null,
+    "comp_base_max": null,
     "comp_currency": "USD",
+    "equity_offered": true,
+    "equity_note": "The source states competitive salary and equity but does not publish a salary range.",
+    "benefits_tags": [
+      "enterprise AI",
+      "customer deployment",
+      "open source"
+    ],
     "description_md": "Mistral AI is hiring a Senior/Staff Forward Deployed Machine Learning Engineer in Singapore to lead customer-facing AI deployment work, from technical implementation and fine-tuning to production rollout and feedback into product and research.",
     "apply_url": "https://jobs.lever.co/mistral/5993e633-2c23-4054-801e-1da4c2adadc5",
-    "source_url": "https://jobs.lever.co/mistral/5993e633-2c23-4054-801e-1da4c2adadc5"
+    "source_provider": "lever",
+    "source_url": "https://jobs.lever.co/mistral/5993e633-2c23-4054-801e-1da4c2adadc5",
+    "first_seen_at": "2026-05-30T12:15:00.000Z",
+    "posted_at": "2026-05-30T12:15:00.000Z",
+    "expires_at": null,
+    "classifier_confidence": 0.99,
+    "classifier_reasoning": "Added during the 2026-05-30 priority AI lab sweep because the Mistral Lever source title directly contains Forward Deployed engineering language. Source pages do not expose public posting dates, so posted_at uses the board first-seen timestamp.",
+    "classifier_version": "manual-priority-ai-lab-sweep-2026-05-30",
+    "status": "live",
+    "is_featured": false
   },
   {
     "slug": "modal-customer-engineer-new-york-2025-09",
@@ -13643,11 +13643,11 @@
     "source_url": "https://jobs.ashbyhq.com/modal/9fadb51f-ce11-41b1-84d5-470e66cc8ee9",
     "first_seen_at": "2026-05-17T12:47:54.047Z",
     "posted_at": "2026-02-23T19:17:06.760+00:00",
-    "expires_at": null,
+    "expires_at": "2026-06-03T18:13:11.157Z",
     "classifier_confidence": 0.86,
     "classifier_reasoning": "Deterministic fallback used because the default Claude model requires an OpenAI-compatible gateway base URL.",
     "classifier_version": "fde-classifier-v1",
-    "status": "live",
+    "status": "expired",
     "is_featured": false
   },
   {
@@ -13673,11 +13673,11 @@
     "source_url": "https://jobs.ashbyhq.com/modal/0d9c249b-f305-4b0e-b325-3242ac7274e7",
     "first_seen_at": "2026-05-17T12:47:54.050Z",
     "posted_at": "2026-03-03T21:17:31.108+00:00",
-    "expires_at": null,
+    "expires_at": "2026-06-03T18:13:11.157Z",
     "classifier_confidence": 0.86,
     "classifier_reasoning": "Deterministic fallback used because the default Claude model requires an OpenAI-compatible gateway base URL.",
     "classifier_version": "fde-classifier-v1",
-    "status": "live",
+    "status": "expired",
     "is_featured": false
   },
   {
@@ -13703,11 +13703,11 @@
     "source_url": "https://jobs.ashbyhq.com/modal/cbbbee50-3d3b-4873-8ae8-ff4b885b8e54",
     "first_seen_at": "2026-05-17T12:47:54.048Z",
     "posted_at": "2025-09-23T12:52:22.371+00:00",
-    "expires_at": null,
+    "expires_at": "2026-06-03T18:13:11.157Z",
     "classifier_confidence": 0.86,
     "classifier_reasoning": "Deterministic fallback used because the default Claude model requires an OpenAI-compatible gateway base URL.",
     "classifier_version": "fde-classifier-v1",
-    "status": "live",
+    "status": "expired",
     "is_featured": false
   },
   {
@@ -13733,11 +13733,11 @@
     "source_url": "https://jobs.ashbyhq.com/modal/c85a3e3d-f1a5-479d-91e3-9e0b34279a82",
     "first_seen_at": "2026-05-17T12:47:54.049Z",
     "posted_at": "2026-01-12T17:28:31.740+00:00",
-    "expires_at": null,
+    "expires_at": "2026-06-03T18:13:11.157Z",
     "classifier_confidence": 0.86,
     "classifier_reasoning": "Deterministic fallback used because the default Claude model requires an OpenAI-compatible gateway base URL.",
     "classifier_version": "fde-classifier-v1",
-    "status": "live",
+    "status": "expired",
     "is_featured": false
   },
   {
@@ -15110,11 +15110,11 @@
     "source_url": "https://jobs.ashbyhq.com/openai/77f87617-4dc5-45af-9b6b-2f408e45a119",
     "first_seen_at": "2026-05-17T12:47:54.402Z",
     "posted_at": "2026-05-08T21:03:26.319+00:00",
-    "expires_at": null,
+    "expires_at": "2026-06-03T18:13:11.157Z",
     "classifier_confidence": 0.86,
     "classifier_reasoning": "Deterministic fallback used because the default Claude model requires an OpenAI-compatible gateway base URL.",
     "classifier_version": "fde-classifier-v1",
-    "status": "live",
+    "status": "expired",
     "is_featured": false
   },
   {
@@ -15171,11 +15171,11 @@
     "source_url": "https://jobs.ashbyhq.com/openai/b40efa93-da3c-4593-bc98-03d203cd0488",
     "first_seen_at": "2026-05-17T12:47:54.350Z",
     "posted_at": "2025-09-23T17:11:44.997+00:00",
-    "expires_at": null,
+    "expires_at": "2026-06-03T18:13:11.157Z",
     "classifier_confidence": 0.86,
     "classifier_reasoning": "Deterministic fallback used because the default Claude model requires an OpenAI-compatible gateway base URL.",
     "classifier_version": "fde-classifier-v1",
-    "status": "live",
+    "status": "expired",
     "is_featured": false
   },
   {
@@ -15201,11 +15201,11 @@
     "source_url": "https://jobs.ashbyhq.com/openai/cf31f5f6-4e67-4695-808c-9cdd2e1fa3b1",
     "first_seen_at": "2026-05-17T12:47:54.349Z",
     "posted_at": "2025-11-07T03:38:44.951+00:00",
-    "expires_at": null,
+    "expires_at": "2026-06-03T18:13:11.157Z",
     "classifier_confidence": 0.86,
     "classifier_reasoning": "Deterministic fallback used because the default Claude model requires an OpenAI-compatible gateway base URL.",
     "classifier_version": "fde-classifier-v1",
-    "status": "live",
+    "status": "expired",
     "is_featured": false
   },
   {
@@ -15231,11 +15231,11 @@
     "source_url": "https://jobs.ashbyhq.com/openai/dc17edac-2993-4318-812a-14864c6f4658",
     "first_seen_at": "2026-05-17T12:47:54.379Z",
     "posted_at": "2026-03-04T23:04:56.099+00:00",
-    "expires_at": null,
+    "expires_at": "2026-06-03T18:13:11.157Z",
     "classifier_confidence": 0.86,
     "classifier_reasoning": "Deterministic fallback used because the default Claude model requires an OpenAI-compatible gateway base URL.",
     "classifier_version": "fde-classifier-v1",
-    "status": "live",
+    "status": "expired",
     "is_featured": false
   },
   {
@@ -15261,11 +15261,11 @@
     "source_url": "https://jobs.ashbyhq.com/openai/305a4b22-7ff9-4fa5-9229-c6a22c9aa64f",
     "first_seen_at": "2026-05-17T12:47:54.349Z",
     "posted_at": "2025-08-06T21:06:34.670+00:00",
-    "expires_at": null,
+    "expires_at": "2026-06-03T18:13:11.157Z",
     "classifier_confidence": 0.86,
     "classifier_reasoning": "Deterministic fallback used because the default Claude model requires an OpenAI-compatible gateway base URL.",
     "classifier_version": "fde-classifier-v1",
-    "status": "live",
+    "status": "expired",
     "is_featured": false
   },
   {
@@ -15292,11 +15292,11 @@
     "source_url": "https://jobs.ashbyhq.com/openai/db5a708d-1d7a-4aa3-8dd3-0d0423b6b69f",
     "first_seen_at": "2026-05-17T12:47:54.355Z",
     "posted_at": "2025-09-03T22:38:06.592+00:00",
-    "expires_at": null,
+    "expires_at": "2026-06-03T18:13:11.157Z",
     "classifier_confidence": 0.86,
     "classifier_reasoning": "Deterministic fallback used because the default Claude model requires an OpenAI-compatible gateway base URL.",
     "classifier_version": "fde-classifier-v1",
-    "status": "live",
+    "status": "expired",
     "is_featured": false
   },
   {
@@ -15323,11 +15323,11 @@
     "source_url": "https://jobs.ashbyhq.com/openai/cf83e70e-6949-480f-ad97-df0f22cd0283",
     "first_seen_at": "2026-05-17T12:47:54.361Z",
     "posted_at": "2025-11-13T16:45:32.494+00:00",
-    "expires_at": null,
+    "expires_at": "2026-06-03T18:13:11.157Z",
     "classifier_confidence": 0.86,
     "classifier_reasoning": "Deterministic fallback used because the default Claude model requires an OpenAI-compatible gateway base URL.",
     "classifier_version": "fde-classifier-v1",
-    "status": "live",
+    "status": "expired",
     "is_featured": false
   },
   {
@@ -15354,11 +15354,11 @@
     "source_url": "https://jobs.ashbyhq.com/openai/05223b5a-5ff1-4fe7-9f97-4ef7fc68b8ef",
     "first_seen_at": "2026-05-17T12:47:54.350Z",
     "posted_at": "2025-09-23T17:11:49.288+00:00",
-    "expires_at": null,
+    "expires_at": "2026-06-03T18:13:11.157Z",
     "classifier_confidence": 0.86,
     "classifier_reasoning": "Deterministic fallback used because the default Claude model requires an OpenAI-compatible gateway base URL.",
     "classifier_version": "fde-classifier-v1",
-    "status": "live",
+    "status": "expired",
     "is_featured": false
   },
   {
@@ -15385,11 +15385,11 @@
     "source_url": "https://jobs.ashbyhq.com/openai/9ddb1bd1-3ee0-4350-88f7-3710057b8c93",
     "first_seen_at": "2026-05-17T12:47:54.350Z",
     "posted_at": "2025-09-23T17:11:47.280+00:00",
-    "expires_at": null,
+    "expires_at": "2026-06-03T18:13:11.157Z",
     "classifier_confidence": 0.86,
     "classifier_reasoning": "Deterministic fallback used because the default Claude model requires an OpenAI-compatible gateway base URL.",
     "classifier_version": "fde-classifier-v1",
-    "status": "live",
+    "status": "expired",
     "is_featured": false
   },
   {
@@ -15415,11 +15415,11 @@
     "source_url": "https://jobs.ashbyhq.com/openai/4c078f82-93b9-427c-8fd8-95de198884b4",
     "first_seen_at": "2026-05-17T12:47:54.394Z",
     "posted_at": "2026-04-21T22:08:40.179+00:00",
-    "expires_at": null,
+    "expires_at": "2026-06-03T18:13:11.157Z",
     "classifier_confidence": 0.86,
     "classifier_reasoning": "Deterministic fallback used because the default Claude model requires an OpenAI-compatible gateway base URL.",
     "classifier_version": "fde-classifier-v1",
-    "status": "live",
+    "status": "expired",
     "is_featured": false
   },
   {
@@ -15446,11 +15446,11 @@
     "source_url": "https://jobs.ashbyhq.com/openai/9e39d642-6c78-4c21-bc86-49b1773c933c",
     "first_seen_at": "2026-05-17T12:47:54.387Z",
     "posted_at": "2026-04-07T21:32:48.209+00:00",
-    "expires_at": null,
+    "expires_at": "2026-06-03T18:13:11.157Z",
     "classifier_confidence": 0.86,
     "classifier_reasoning": "Deterministic fallback used because the default Claude model requires an OpenAI-compatible gateway base URL.",
     "classifier_version": "fde-classifier-v1",
-    "status": "live",
+    "status": "expired",
     "is_featured": false
   },
   {
@@ -15477,11 +15477,11 @@
     "source_url": "https://jobs.ashbyhq.com/openai/51b17595-3a70-43be-a333-3a3952303284",
     "first_seen_at": "2026-05-17T12:47:54.351Z",
     "posted_at": "2025-09-16T03:55:31.798+00:00",
-    "expires_at": null,
+    "expires_at": "2026-06-03T18:13:11.157Z",
     "classifier_confidence": 0.86,
     "classifier_reasoning": "Deterministic fallback used because the default Claude model requires an OpenAI-compatible gateway base URL.",
     "classifier_version": "fde-classifier-v1",
-    "status": "live",
+    "status": "expired",
     "is_featured": false
   },
   {
@@ -15508,11 +15508,11 @@
     "source_url": "https://jobs.ashbyhq.com/openai/63003bd5-05c8-408a-8d5a-8f5deb16113f",
     "first_seen_at": "2026-05-17T12:47:54.361Z",
     "posted_at": "2025-11-20T16:39:11.436+00:00",
-    "expires_at": null,
+    "expires_at": "2026-06-03T18:13:11.157Z",
     "classifier_confidence": 0.8,
     "classifier_reasoning": "Deterministic fallback used because the default Claude model requires an OpenAI-compatible gateway base URL.",
     "classifier_version": "fde-classifier-v1",
-    "status": "live",
+    "status": "expired",
     "is_featured": false
   },
   {
@@ -15539,11 +15539,11 @@
     "source_url": "https://jobs.ashbyhq.com/openai/54b2072e-4c1c-40e4-b2dc-ec51d9d0ab60",
     "first_seen_at": "2026-05-17T12:47:54.361Z",
     "posted_at": "2025-11-13T16:46:33.566+00:00",
-    "expires_at": null,
+    "expires_at": "2026-06-03T18:13:11.157Z",
     "classifier_confidence": 0.8,
     "classifier_reasoning": "Deterministic fallback used because the default Claude model requires an OpenAI-compatible gateway base URL.",
     "classifier_version": "fde-classifier-v1",
-    "status": "live",
+    "status": "expired",
     "is_featured": false
   },
   {
@@ -15570,11 +15570,11 @@
     "source_url": "https://jobs.ashbyhq.com/openai/07d62dc2-9bbc-4149-ba43-d4ab748a21f4",
     "first_seen_at": "2026-05-17T12:47:54.361Z",
     "posted_at": "2025-11-20T16:39:14.461+00:00",
-    "expires_at": null,
+    "expires_at": "2026-06-03T18:13:11.157Z",
     "classifier_confidence": 0.8,
     "classifier_reasoning": "Deterministic fallback used because the default Claude model requires an OpenAI-compatible gateway base URL.",
     "classifier_version": "fde-classifier-v1",
-    "status": "live",
+    "status": "expired",
     "is_featured": false
   },
   {
@@ -15600,11 +15600,11 @@
     "source_url": "https://jobs.ashbyhq.com/openai/533c0fc9-b773-476d-9f96-a0528efbab0e",
     "first_seen_at": "2026-05-17T12:47:54.361Z",
     "posted_at": "2025-12-10T22:20:16.127+00:00",
-    "expires_at": null,
+    "expires_at": "2026-06-03T18:13:11.157Z",
     "classifier_confidence": 0.8,
     "classifier_reasoning": "Deterministic fallback used because the default Claude model requires an OpenAI-compatible gateway base URL.",
     "classifier_version": "fde-classifier-v1",
-    "status": "live",
+    "status": "expired",
     "is_featured": false
   },
   {
@@ -15631,11 +15631,11 @@
     "source_url": "https://jobs.ashbyhq.com/openai/961f6c58-1572-48a8-bb8b-2bffdf82a5cc",
     "first_seen_at": "2026-05-17T12:47:54.348Z",
     "posted_at": "2025-11-20T16:39:08.398+00:00",
-    "expires_at": null,
+    "expires_at": "2026-06-03T18:13:11.157Z",
     "classifier_confidence": 0.8,
     "classifier_reasoning": "Deterministic fallback used because the default Claude model requires an OpenAI-compatible gateway base URL.",
     "classifier_version": "fde-classifier-v1",
-    "status": "live",
+    "status": "expired",
     "is_featured": false
   },
   {
@@ -15661,11 +15661,11 @@
     "source_url": "https://jobs.ashbyhq.com/openai/7b90b83c-ec28-4e65-a235-6675e37b91c3",
     "first_seen_at": "2026-05-17T12:47:54.379Z",
     "posted_at": "2026-03-04T23:03:50.161+00:00",
-    "expires_at": null,
+    "expires_at": "2026-06-03T18:13:11.157Z",
     "classifier_confidence": 0.8,
     "classifier_reasoning": "Deterministic fallback used because the default Claude model requires an OpenAI-compatible gateway base URL.",
     "classifier_version": "fde-classifier-v1",
-    "status": "live",
+    "status": "expired",
     "is_featured": false
   },
   {
@@ -15691,11 +15691,11 @@
     "source_url": "https://jobs.ashbyhq.com/openai/00207abc-49b7-465c-a219-f7c1140f8047",
     "first_seen_at": "2026-05-17T12:47:54.348Z",
     "posted_at": "2025-11-15T01:25:39.198+00:00",
-    "expires_at": null,
+    "expires_at": "2026-06-03T18:13:11.157Z",
     "classifier_confidence": 0.8,
     "classifier_reasoning": "Deterministic fallback used because the default Claude model requires an OpenAI-compatible gateway base URL.",
     "classifier_version": "fde-classifier-v1",
-    "status": "live",
+    "status": "expired",
     "is_featured": false
   },
   {
@@ -15721,11 +15721,11 @@
     "source_url": "https://jobs.ashbyhq.com/openai/d952e0d3-44e1-464c-a8c8-4b812023cca6",
     "first_seen_at": "2026-05-17T12:47:54.363Z",
     "posted_at": "2025-12-09T04:29:43.507+00:00",
-    "expires_at": null,
+    "expires_at": "2026-06-03T18:13:11.157Z",
     "classifier_confidence": 0.8,
     "classifier_reasoning": "Deterministic fallback used because the default Claude model requires an OpenAI-compatible gateway base URL.",
     "classifier_version": "fde-classifier-v1",
-    "status": "live",
+    "status": "expired",
     "is_featured": false
   },
   {
@@ -15752,11 +15752,11 @@
     "source_url": "https://jobs.ashbyhq.com/openai/e98851f0-08d7-42ef-a499-dc96d8f96dab",
     "first_seen_at": "2026-05-17T12:47:54.361Z",
     "posted_at": "2025-11-12T17:26:36.569+00:00",
-    "expires_at": null,
+    "expires_at": "2026-06-03T18:13:11.157Z",
     "classifier_confidence": 0.8,
     "classifier_reasoning": "Deterministic fallback used because the default Claude model requires an OpenAI-compatible gateway base URL.",
     "classifier_version": "fde-classifier-v1",
-    "status": "live",
+    "status": "expired",
     "is_featured": false
   },
   {
@@ -16054,11 +16054,11 @@
     "source_url": "https://jobs.ashbyhq.com/openai/68f1345b-313f-4917-88ce-b281b01a4864",
     "first_seen_at": "2026-05-17T12:47:54.394Z",
     "posted_at": "2026-04-23T22:13:01.639+00:00",
-    "expires_at": null,
+    "expires_at": "2026-06-03T18:13:11.157Z",
     "classifier_confidence": 0.86,
     "classifier_reasoning": "Deterministic fallback used because the default Claude model requires an OpenAI-compatible gateway base URL.",
     "classifier_version": "fde-classifier-v1",
-    "status": "live",
+    "status": "expired",
     "is_featured": false
   },
   {
@@ -16085,11 +16085,11 @@
     "source_url": "https://jobs.ashbyhq.com/openai/1bbcccd1-777b-4788-b77a-4dffe64fac06",
     "first_seen_at": "2026-05-17T12:47:54.373Z",
     "posted_at": "2026-04-23T22:14:17.349+00:00",
-    "expires_at": null,
+    "expires_at": "2026-06-03T18:13:11.157Z",
     "classifier_confidence": 0.86,
     "classifier_reasoning": "Deterministic fallback used because the default Claude model requires an OpenAI-compatible gateway base URL.",
     "classifier_version": "fde-classifier-v1",
-    "status": "live",
+    "status": "expired",
     "is_featured": false
   },
   {
@@ -16267,11 +16267,11 @@
     "source_url": "https://jobs.ashbyhq.com/openai/18d65004-a399-4a33-80bc-10f33bff2ed0",
     "first_seen_at": "2026-05-17T12:47:54.402Z",
     "posted_at": "2026-05-13T14:36:01.538+00:00",
-    "expires_at": null,
+    "expires_at": "2026-06-03T18:13:11.157Z",
     "classifier_confidence": 0.86,
     "classifier_reasoning": "Deterministic fallback used because the default Claude model requires an OpenAI-compatible gateway base URL.",
     "classifier_version": "fde-classifier-v1",
-    "status": "live",
+    "status": "expired",
     "is_featured": false
   },
   {
@@ -16297,11 +16297,11 @@
     "source_url": "https://jobs.ashbyhq.com/openai/45ab8896-06bd-4c8e-bb76-914483d5d180",
     "first_seen_at": "2026-05-17T12:47:54.376Z",
     "posted_at": "2026-02-23T15:21:58.157+00:00",
-    "expires_at": null,
+    "expires_at": "2026-06-03T18:13:11.157Z",
     "classifier_confidence": 0.86,
     "classifier_reasoning": "Deterministic fallback used because the default Claude model requires an OpenAI-compatible gateway base URL.",
     "classifier_version": "fde-classifier-v1",
-    "status": "live",
+    "status": "expired",
     "is_featured": false
   },
   {
@@ -16327,11 +16327,11 @@
     "source_url": "https://jobs.ashbyhq.com/openai/059ac93e-3fc9-42e9-a4f4-367c0fd5de14",
     "first_seen_at": "2026-05-17T12:47:54.373Z",
     "posted_at": "2026-02-13T15:03:41.122+00:00",
-    "expires_at": null,
+    "expires_at": "2026-06-03T18:13:11.157Z",
     "classifier_confidence": 0.86,
     "classifier_reasoning": "Deterministic fallback used because the default Claude model requires an OpenAI-compatible gateway base URL.",
     "classifier_version": "fde-classifier-v1",
-    "status": "live",
+    "status": "expired",
     "is_featured": false
   },
   {
@@ -16357,11 +16357,11 @@
     "source_url": "https://jobs.ashbyhq.com/openai/b073abb1-cf6c-4fd9-a318-732fdd2f1408",
     "first_seen_at": "2026-05-17T12:47:54.376Z",
     "posted_at": "2026-02-23T21:29:26.146+00:00",
-    "expires_at": null,
+    "expires_at": "2026-06-03T18:13:11.157Z",
     "classifier_confidence": 0.86,
     "classifier_reasoning": "Deterministic fallback used because the default Claude model requires an OpenAI-compatible gateway base URL.",
     "classifier_version": "fde-classifier-v1",
-    "status": "live",
+    "status": "expired",
     "is_featured": false
   },
   {
@@ -16993,11 +16993,11 @@
     "source_url": "https://jobs.ashbyhq.com/openai/9f2e4897-be7d-40a1-804d-37e6608f506b",
     "first_seen_at": "2026-05-17T12:47:54.381Z",
     "posted_at": "2026-03-12T16:50:24.228+00:00",
-    "expires_at": null,
+    "expires_at": "2026-06-03T18:13:11.157Z",
     "classifier_confidence": 0.86,
     "classifier_reasoning": "Deterministic fallback used because the default Claude model requires an OpenAI-compatible gateway base URL.",
     "classifier_version": "fde-classifier-v1",
-    "status": "live",
+    "status": "expired",
     "is_featured": false
   },
   {
@@ -17023,11 +17023,11 @@
     "source_url": "https://jobs.ashbyhq.com/openai/e6df42d0-6789-459e-b77b-62d7c5fd78da",
     "first_seen_at": "2026-05-17T12:47:54.376Z",
     "posted_at": "2026-02-25T15:15:23.314+00:00",
-    "expires_at": null,
+    "expires_at": "2026-06-03T18:13:11.157Z",
     "classifier_confidence": 0.86,
     "classifier_reasoning": "Deterministic fallback used because the default Claude model requires an OpenAI-compatible gateway base URL.",
     "classifier_version": "fde-classifier-v1",
-    "status": "live",
+    "status": "expired",
     "is_featured": false
   },
   {
@@ -17053,11 +17053,11 @@
     "source_url": "https://jobs.ashbyhq.com/openai/c5a99c73-c4c4-4321-a519-e0104dc54747",
     "first_seen_at": "2026-05-17T12:47:54.377Z",
     "posted_at": "2026-02-26T21:10:46.893+00:00",
-    "expires_at": null,
+    "expires_at": "2026-06-03T18:13:11.157Z",
     "classifier_confidence": 0.86,
     "classifier_reasoning": "Deterministic fallback used because the default Claude model requires an OpenAI-compatible gateway base URL.",
     "classifier_version": "fde-classifier-v1",
-    "status": "live",
+    "status": "expired",
     "is_featured": false
   },
   {
@@ -19027,11 +19027,11 @@
     "source_url": "https://jobs.ashbyhq.com/ramp/deca582c-a1d0-4705-9975-60aed81ba89f",
     "first_seen_at": "2026-05-17T12:47:54.503Z",
     "posted_at": "2025-11-05T16:45:58.645+00:00",
-    "expires_at": null,
+    "expires_at": "2026-06-03T18:13:11.157Z",
     "classifier_confidence": 0.8,
     "classifier_reasoning": "Deterministic fallback used because the default Claude model requires an OpenAI-compatible gateway base URL.",
     "classifier_version": "fde-classifier-v1",
-    "status": "live",
+    "status": "expired",
     "is_featured": false
   },
   {
@@ -19384,44 +19384,15 @@
     "is_featured": false
   },
   {
+    "slug": "scale-ai-director-forward-deployed-engineering-london-2026-05",
     "company_slug": "scale-ai",
+    "title": "Director, Forward Deployed Engineering",
     "role_family": "fde",
     "location_type": "hybrid",
-    "travel_pct_band": "med_25_50",
-    "customer_facing_pct_band": "high_50_plus",
-    "comp_base_min": null,
-    "comp_base_max": null,
-    "comp_currency": "USD",
-    "equity_offered": true,
-    "equity_note": "Compensation and equity details were not published on the source page.",
-    "benefits_tags": [
-      "enterprise AI",
-      "customer deployment",
-      "data infrastructure"
-    ],
-    "source_provider": "custom",
-    "first_seen_at": "2026-05-30T12:20:00.000Z",
-    "posted_at": "2026-05-30T12:20:00.000Z",
-    "expires_at": null,
-    "classifier_confidence": 0.98,
-    "classifier_reasoning": "Added during the 2026-05-30 priority AI lab sweep because the direct Scale source title contains Forward Deployed Engineering language and the URL resolves to a live job page. Source pages do not expose public posting dates, so posted_at uses the board first-seen timestamp.",
-    "classifier_version": "manual-priority-ai-lab-sweep-2026-05-30",
-    "status": "live",
-    "is_featured": false,
-    "slug": "scale-ai-director-forward-deployed-engineering-london-2026-05",
-    "title": "Director, Forward Deployed Engineering",
     "locations": [
       "London",
       "United Kingdom"
     ],
-    "description_md": "Scale AI is hiring a Director, Forward Deployed Engineering in London to lead customer-embedded engineering teams delivering production AI/data systems with enterprise customers.",
-    "apply_url": "https://scale.com/careers/4690504005",
-    "source_url": "https://scale.com/careers/4690504005"
-  },
-  {
-    "company_slug": "scale-ai",
-    "role_family": "fde",
-    "location_type": "hybrid",
     "travel_pct_band": "med_25_50",
     "customer_facing_pct_band": "high_50_plus",
     "comp_base_min": null,
@@ -19434,7 +19405,10 @@
       "customer deployment",
       "data infrastructure"
     ],
+    "description_md": "Scale AI is hiring a Director, Forward Deployed Engineering in London to lead customer-embedded engineering teams delivering production AI/data systems with enterprise customers.",
+    "apply_url": "https://scale.com/careers/4690504005",
     "source_provider": "custom",
+    "source_url": "https://scale.com/careers/4690504005",
     "first_seen_at": "2026-05-30T12:20:00.000Z",
     "posted_at": "2026-05-30T12:20:00.000Z",
     "expires_at": null,
@@ -19442,17 +19416,43 @@
     "classifier_reasoning": "Added during the 2026-05-30 priority AI lab sweep because the direct Scale source title contains Forward Deployed Engineering language and the URL resolves to a live job page. Source pages do not expose public posting dates, so posted_at uses the board first-seen timestamp.",
     "classifier_version": "manual-priority-ai-lab-sweep-2026-05-30",
     "status": "live",
-    "is_featured": false,
+    "is_featured": false
+  },
+  {
     "slug": "scale-ai-forward-deployed-ai-engineer-enterprise-2026-05",
+    "company_slug": "scale-ai",
     "title": "Forward Deployed AI Engineer, Enterprise",
+    "role_family": "fde",
+    "location_type": "hybrid",
     "locations": [
       "San Francisco",
       "New York",
       "United States"
     ],
+    "travel_pct_band": "med_25_50",
+    "customer_facing_pct_band": "high_50_plus",
+    "comp_base_min": null,
+    "comp_base_max": null,
+    "comp_currency": "USD",
+    "equity_offered": true,
+    "equity_note": "Compensation and equity details were not published on the source page.",
+    "benefits_tags": [
+      "enterprise AI",
+      "customer deployment",
+      "data infrastructure"
+    ],
     "description_md": "Scale AI is hiring a Forward Deployed AI Engineer, Enterprise to work directly with customers on applied AI delivery, data workflows, and production deployment.",
     "apply_url": "https://scale.com/careers/4694861005",
-    "source_url": "https://scale.com/careers/4694861005"
+    "source_provider": "custom",
+    "source_url": "https://scale.com/careers/4694861005",
+    "first_seen_at": "2026-05-30T12:20:00.000Z",
+    "posted_at": "2026-05-30T12:20:00.000Z",
+    "expires_at": null,
+    "classifier_confidence": 0.98,
+    "classifier_reasoning": "Added during the 2026-05-30 priority AI lab sweep because the direct Scale source title contains Forward Deployed Engineering language and the URL resolves to a live job page. Source pages do not expose public posting dates, so posted_at uses the board first-seen timestamp.",
+    "classifier_version": "manual-priority-ai-lab-sweep-2026-05-30",
+    "status": "live",
+    "is_featured": false
   },
   {
     "slug": "scale-ai-forward-deployed-ai-engineering-manager-enterprise-san-francisco-4602177005",
@@ -19491,45 +19491,16 @@
     "is_featured": false
   },
   {
+    "slug": "scale-ai-senior-forward-deployed-data-scientist-engineer-2026-05",
     "company_slug": "scale-ai",
+    "title": "Senior Forward Deployed Data Scientist/Engineer",
     "role_family": "fde",
     "location_type": "hybrid",
-    "travel_pct_band": "med_25_50",
-    "customer_facing_pct_band": "high_50_plus",
-    "comp_base_min": null,
-    "comp_base_max": null,
-    "comp_currency": "USD",
-    "equity_offered": true,
-    "equity_note": "Compensation and equity details were not published on the source page.",
-    "benefits_tags": [
-      "enterprise AI",
-      "customer deployment",
-      "data infrastructure"
-    ],
-    "source_provider": "custom",
-    "first_seen_at": "2026-05-30T12:20:00.000Z",
-    "posted_at": "2026-05-30T12:20:00.000Z",
-    "expires_at": null,
-    "classifier_confidence": 0.98,
-    "classifier_reasoning": "Added during the 2026-05-30 priority AI lab sweep because the direct Scale source title contains Forward Deployed Engineering language and the URL resolves to a live job page. Source pages do not expose public posting dates, so posted_at uses the board first-seen timestamp.",
-    "classifier_version": "manual-priority-ai-lab-sweep-2026-05-30",
-    "status": "live",
-    "is_featured": false,
-    "slug": "scale-ai-senior-forward-deployed-data-scientist-engineer-2026-05",
-    "title": "Senior Forward Deployed Data Scientist/Engineer",
     "locations": [
       "San Francisco",
       "New York",
       "United States"
     ],
-    "description_md": "Scale AI is hiring a Senior Forward Deployed Data Scientist/Engineer to own customer-facing data and AI implementation work from discovery through production delivery.",
-    "apply_url": "https://scale.com/careers/4636227005",
-    "source_url": "https://scale.com/careers/4636227005"
-  },
-  {
-    "company_slug": "scale-ai",
-    "role_family": "fde",
-    "location_type": "hybrid",
     "travel_pct_band": "med_25_50",
     "customer_facing_pct_band": "high_50_plus",
     "comp_base_min": null,
@@ -19542,7 +19513,10 @@
       "customer deployment",
       "data infrastructure"
     ],
+    "description_md": "Scale AI is hiring a Senior Forward Deployed Data Scientist/Engineer to own customer-facing data and AI implementation work from discovery through production delivery.",
+    "apply_url": "https://scale.com/careers/4636227005",
     "source_provider": "custom",
+    "source_url": "https://scale.com/careers/4636227005",
     "first_seen_at": "2026-05-30T12:20:00.000Z",
     "posted_at": "2026-05-30T12:20:00.000Z",
     "expires_at": null,
@@ -19550,15 +19524,41 @@
     "classifier_reasoning": "Added during the 2026-05-30 priority AI lab sweep because the direct Scale source title contains Forward Deployed Engineering language and the URL resolves to a live job page. Source pages do not expose public posting dates, so posted_at uses the board first-seen timestamp.",
     "classifier_version": "manual-priority-ai-lab-sweep-2026-05-30",
     "status": "live",
-    "is_featured": false,
+    "is_featured": false
+  },
+  {
     "slug": "scale-ai-staff-full-stack-software-engineer-forward-deployed-gps-2026-05",
+    "company_slug": "scale-ai",
     "title": "Staff Full-Stack Software Engineer, (Forward Deployed), GPS",
+    "role_family": "fde",
+    "location_type": "hybrid",
     "locations": [
       "United States"
     ],
+    "travel_pct_band": "med_25_50",
+    "customer_facing_pct_band": "high_50_plus",
+    "comp_base_min": null,
+    "comp_base_max": null,
+    "comp_currency": "USD",
+    "equity_offered": true,
+    "equity_note": "Compensation and equity details were not published on the source page.",
+    "benefits_tags": [
+      "enterprise AI",
+      "customer deployment",
+      "data infrastructure"
+    ],
     "description_md": "Scale AI is hiring a Staff Full-Stack Software Engineer, Forward Deployed, for GPS customers. The role combines hands-on software engineering with customer-embedded deployment of mission-critical AI systems.",
     "apply_url": "https://scale.com/careers/4676610005",
-    "source_url": "https://scale.com/careers/4676610005"
+    "source_provider": "custom",
+    "source_url": "https://scale.com/careers/4676610005",
+    "first_seen_at": "2026-05-30T12:20:00.000Z",
+    "posted_at": "2026-05-30T12:20:00.000Z",
+    "expires_at": null,
+    "classifier_confidence": 0.98,
+    "classifier_reasoning": "Added during the 2026-05-30 priority AI lab sweep because the direct Scale source title contains Forward Deployed Engineering language and the URL resolves to a live job page. Source pages do not expose public posting dates, so posted_at uses the board first-seen timestamp.",
+    "classifier_version": "manual-priority-ai-lab-sweep-2026-05-30",
+    "status": "live",
+    "is_featured": false
   },
   {
     "slug": "sierra-forward-deployed-infrastructure-engineer-san-francisco-2026-04",
@@ -19586,11 +19586,11 @@
     "source_url": "https://jobs.ashbyhq.com/sierra/d9c0aa93-e35d-4752-9cef-4c39dcad5365",
     "first_seen_at": "2026-05-17T12:47:54.606Z",
     "posted_at": "2026-04-21T22:00:03.218+00:00",
-    "expires_at": null,
+    "expires_at": "2026-06-03T18:13:11.157Z",
     "classifier_confidence": 0.8,
     "classifier_reasoning": "Deterministic fallback used because the default Claude model requires an OpenAI-compatible gateway base URL.",
     "classifier_version": "fde-classifier-v1",
-    "status": "live",
+    "status": "expired",
     "is_featured": false
   },
   {
@@ -19809,11 +19809,11 @@
     "source_url": "https://job-boards.greenhouse.io/togetherai/jobs/5121371007",
     "first_seen_at": "2026-05-17T12:47:54.772Z",
     "posted_at": "2026-05-07T18:46:42-04:00",
-    "expires_at": null,
+    "expires_at": "2026-06-03T18:13:11.157Z",
     "classifier_confidence": 0.86,
     "classifier_reasoning": "Deterministic fallback used because the default Claude model requires an OpenAI-compatible gateway base URL.",
     "classifier_version": "fde-classifier-v1",
-    "status": "live",
+    "status": "expired",
     "is_featured": false
   },
   {
@@ -19839,11 +19839,11 @@
     "source_url": "https://job-boards.greenhouse.io/togetherai/jobs/5131941007",
     "first_seen_at": "2026-05-17T12:47:54.773Z",
     "posted_at": "2026-05-07T18:46:42-04:00",
-    "expires_at": null,
+    "expires_at": "2026-06-03T18:13:11.157Z",
     "classifier_confidence": 0.86,
     "classifier_reasoning": "Deterministic fallback used because the default Claude model requires an OpenAI-compatible gateway base URL.",
     "classifier_version": "fde-classifier-v1",
-    "status": "live",
+    "status": "expired",
     "is_featured": false
   },
   {

@@ -16,5 +16,11 @@
     "live_role_count": 229,
     "source": "site_live_jobs",
     "notes": "Expanded-source baseline for current live FDE roles. Growth page WoW and MoM comparisons start from this snapshot."
+  },
+  {
+    "date": "2026-06-08T00:00:00.000Z",
+    "live_role_count": 666,
+    "source": "site_live_jobs",
+    "notes": "Weekly snapshot of current live FDE roles displayed on the site."
   }
 ]

@@ -983,11 +983,11 @@
     "source_url": "https://job-boards.greenhouse.io/arizeai/jobs/6002637004",
     "first_seen_at": "2026-05-25T10:50:00.000Z",
     "posted_at": "2026-05-25T00:00:00.000Z",
-    "expires_at": null,
+    "expires_at": "2026-06-15T18:02:50.475Z",
     "classifier_confidence": 0.9,
     "classifier_reasoning": "Aggregator listing explicitly uses Forward Deployed Engineer and describes client engineering deployment work.",
     "classifier_version": "manual-aggregator-2026-05-25",
-    "status": "live",
+    "status": "expired",
     "is_featured": false
   },
   {
@@ -1319,11 +1319,11 @@
     "source_url": "https://careers.cbre.com/en_US/careers/JobDetail/Forward-Deployed-Engineer/267020",
     "first_seen_at": "2026-05-25T10:50:00.000Z",
     "posted_at": "2026-05-04T00:00:00.000Z",
-    "expires_at": null,
+    "expires_at": "2026-06-15T18:02:50.476Z",
     "classifier_confidence": 0.86,
     "classifier_reasoning": "Official CBRE careers listing for a Forward Deployed Engineer role, verified during the 2026-05-29 link audit.",
     "classifier_version": "manual-aggregator-2026-05-25",
-    "status": "live",
+    "status": "expired",
     "is_featured": false
   },
   {
@@ -14027,11 +14027,11 @@
     "source_url": "https://www.themuse.com/jobs/deloitte/senior-forward-deployed-engineer-databricks",
     "first_seen_at": "2026-05-25T10:50:00.000Z",
     "posted_at": "2026-04-29T00:00:00.000Z",
-    "expires_at": "2026-05-31T23:59:59.000Z",
+    "expires_at": "2026-06-15T18:02:50.477Z",
     "classifier_confidence": 0.88,
     "classifier_reasoning": "The stale Indeed URL was replaced with a live The Muse listing for Deloitte Senior Forward Deployed Engineer - Databricks.",
     "classifier_version": "manual-aggregator-2026-05-25",
-    "status": "live",
+    "status": "expired",
     "is_featured": false
   },
   {
@@ -17668,11 +17668,11 @@
     "source_url": "https://www.indeed.com/viewjob?jk=2f07f2a82f6f6949",
     "first_seen_at": "2026-05-25T10:50:00.000Z",
     "posted_at": "2026-04-25T00:00:00.000Z",
-    "expires_at": null,
+    "expires_at": "2026-06-15T18:02:50.477Z",
     "classifier_confidence": 0.84,
     "classifier_reasoning": "Aggregator listing explicitly uses Forward Deployed Engineer and describes deployment inside operational environments.",
     "classifier_version": "manual-aggregator-2026-05-25",
-    "status": "live",
+    "status": "expired",
     "is_featured": false
   },
   {
@@ -24510,11 +24510,11 @@
     "source_url": "https://jobs.ashbyhq.com/rational-dynamics/fd850832-5cbe-4e86-84ae-c8c32435cd54",
     "first_seen_at": "2026-05-25T10:50:00.000Z",
     "posted_at": "2026-03-25T00:00:00.000Z",
-    "expires_at": null,
+    "expires_at": "2026-06-15T18:02:50.477Z",
     "classifier_confidence": 0.91,
     "classifier_reasoning": "Verified against Rational Dynamics Ashby public job-board API during the 2026-05-29 link audit.",
     "classifier_version": "manual-aggregator-2026-05-25",
-    "status": "live",
+    "status": "expired",
     "is_featured": false
   },
   {
@@ -25444,11 +25444,11 @@
     "source_url": "https://towardsai.net/valuecreation/senior-ai-engineer/",
     "first_seen_at": "2026-05-26T08:00:00.000Z",
     "posted_at": "2026-05-26T08:00:00.000Z",
-    "expires_at": null,
+    "expires_at": "2026-06-15T18:02:50.477Z",
     "classifier_confidence": 0.98,
     "classifier_reasoning": "The source title explicitly includes Forward Deployed Engineer and the description covers client-proximate AI system delivery.",
     "classifier_version": "manual-2026-05-26",
-    "status": "live",
+    "status": "expired",
     "is_featured": true
   },
   {
@@ -25477,11 +25477,11 @@
     "source_url": "https://vercel.com/careers/forward-deployed-engineer-v0-us-5872425004",
     "first_seen_at": "2026-05-25T10:50:00.000Z",
     "posted_at": "2026-05-12T00:00:00.000Z",
-    "expires_at": null,
+    "expires_at": "2026-06-15T18:02:50.477Z",
     "classifier_confidence": 0.9,
     "classifier_reasoning": "Official Vercel careers URL replaces the stale Indeed URL.",
     "classifier_version": "manual-aggregator-2026-05-25",
-    "status": "live",
+    "status": "expired",
     "is_featured": false
   }
 ]

@@ -285,6 +285,110 @@
     "observed_roles": []
   },
   {
+    "company_slug": "cognition",
+    "company_name": "Cognition",
+    "category": "ai_lab",
+    "industries": [
+      "ai applications",
+      "enterprise"
+    ],
+    "source_type": "ats_api",
+    "source_url": "https://api.ashbyhq.com/posting-api/job-board/cognition?includeCompensation=true",
+    "observed_at": "2026-06-15T17:30:00.000Z",
+    "refresh_cadence": "daily",
+    "notes": "Priority AI-lab Ashby source added to the tracked sample on 2026-06-15. Growth reporting should include Cognition in both the 2026-05-30 baseline and latest figures to avoid sample-expansion distortion.",
+    "observed_roles": [
+      {
+        "title": "Deployed Engineer",
+        "locations": [
+          "San Francisco"
+        ],
+        "seniority": "Mid",
+        "source_url": "https://jobs.ashbyhq.com/cognition/d72d584c-bb11-4b6a-b043-d81425ea884a"
+      },
+      {
+        "title": "Deployed Engineer - ANZ",
+        "locations": [
+          "Sydney"
+        ],
+        "seniority": "Mid",
+        "source_url": "https://jobs.ashbyhq.com/cognition/4bf50602-b880-40d2-9c8c-18d4372a8b02"
+      },
+      {
+        "title": "Deployed Engineer - APAC",
+        "locations": [
+          "Singapore"
+        ],
+        "seniority": "Mid",
+        "source_url": "https://jobs.ashbyhq.com/cognition/b73fd66a-f43b-4240-95c2-7a76b4ffb0c6"
+      },
+      {
+        "title": "Deployed Engineer - APAC",
+        "locations": [
+          "Tokyo"
+        ],
+        "seniority": "Mid",
+        "source_url": "https://jobs.ashbyhq.com/cognition/9ebb0dff-2cbf-42ba-bb4a-0256812a06e0"
+      },
+      {
+        "title": "Deployed Engineer - Europe",
+        "locations": [
+          "London"
+        ],
+        "seniority": "Mid",
+        "source_url": "https://jobs.ashbyhq.com/cognition/818e3c35-d25b-4aec-a9e1-23cc8328d19c"
+      },
+      {
+        "title": "Deployed Engineer - LATAM",
+        "locations": [
+          "Brazil"
+        ],
+        "seniority": "Mid",
+        "source_url": "https://jobs.ashbyhq.com/cognition/8139c589-494a-449a-b608-b11a689e7b2e"
+      },
+      {
+        "title": "Deployed Engineer, Federal",
+        "locations": [
+          "Washington DC"
+        ],
+        "seniority": "Mid",
+        "source_url": "https://jobs.ashbyhq.com/cognition/f1430967-f367-4afe-9107-e58da423633c"
+      },
+      {
+        "title": "Partner Deployed Engineer",
+        "locations": [
+          "San Francisco"
+        ],
+        "seniority": "Mid",
+        "source_url": "https://jobs.ashbyhq.com/cognition/6d539905-c75e-45e0-8c3e-db9831a5e6e6"
+      },
+      {
+        "title": "Partner Deployed Engineer - APAC",
+        "locations": [
+          "India"
+        ],
+        "seniority": "Mid",
+        "source_url": "https://jobs.ashbyhq.com/cognition/1e47fa81-bfe3-436c-a6f7-fccd66a98b1e"
+      },
+      {
+        "title": "Partner Deployed Engineer - APAC",
+        "locations": [
+          "Tokyo"
+        ],
+        "seniority": "Mid",
+        "source_url": "https://jobs.ashbyhq.com/cognition/b1c2ccf9-b606-4c9e-a5ea-c741ab78741b"
+      },
+      {
+        "title": "Partner Deployed Engineer - Europe",
+        "locations": [
+          "London"
+        ],
+        "seniority": "Mid",
+        "source_url": "https://jobs.ashbyhq.com/cognition/88d8cbd5-7288-439f-bf0f-cc07d567775b"
+      }
+    ]
+  },
+  {
     "company_slug": "cohere",
     "company_name": "Cohere",
     "category": "ai_lab",
@@ -2565,6 +2669,88 @@
     "refresh_cadence": "weekly",
     "notes": "Setter30 proxy source for fast-growing company sweeps. Publish only exact or strongly equivalent Forward Deployed Engineering roles after direct URL verification.",
     "observed_roles": []
+  },
+  {
+    "company_slug": "sierra",
+    "company_name": "Sierra",
+    "category": "startup",
+    "industries": [
+      "ai applications",
+      "enterprise"
+    ],
+    "source_type": "ats_api",
+    "source_url": "https://api.ashbyhq.com/posting-api/job-board/sierra?includeCompensation=true",
+    "observed_at": "2026-06-15T17:30:00.000Z",
+    "refresh_cadence": "daily",
+    "notes": "Priority AI-application Ashby source added to the tracked sample on 2026-06-15. Growth reporting should include Sierra in both the 2026-05-30 baseline and latest figures to avoid sample-expansion distortion.",
+    "observed_roles": [
+      {
+        "title": "Forward Deployed Infrastructure Engineer",
+        "locations": [
+          "San Francisco",
+          "CA"
+        ],
+        "seniority": "Mid",
+        "source_url": "https://jobs.ashbyhq.com/sierra/d9c0aa93-e35d-4752-9cef-4c39dcad5365"
+      },
+      {
+        "title": "Sales Engineer",
+        "locations": [
+          "London"
+        ],
+        "seniority": "Mid",
+        "source_url": "https://jobs.ashbyhq.com/sierra/ba9ca2da-c0c3-4673-b496-f820223c77c1"
+      },
+      {
+        "title": "Sales Engineer",
+        "locations": [
+          "Munich"
+        ],
+        "seniority": "Mid",
+        "source_url": "https://jobs.ashbyhq.com/sierra/b90d210e-c622-46c1-a0c3-d3ef3b3696dd"
+      },
+      {
+        "title": "Sales Engineer",
+        "locations": [
+          "San Francisco",
+          "CA"
+        ],
+        "seniority": "Mid",
+        "source_url": "https://jobs.ashbyhq.com/sierra/8152eaf6-012b-4154-95e2-7d6c52faba93"
+      },
+      {
+        "title": "Sales Engineer",
+        "locations": [
+          "Sydney"
+        ],
+        "seniority": "Mid",
+        "source_url": "https://jobs.ashbyhq.com/sierra/f64a5b9d-9650-45ca-8596-bc845e9d8d10"
+      },
+      {
+        "title": "Sales Engineer ",
+        "locations": [
+          "Tokyo"
+        ],
+        "seniority": "Mid",
+        "source_url": "https://jobs.ashbyhq.com/sierra/409c7bae-fdfc-4d36-a427-297683063d43"
+      },
+      {
+        "title": "Sales Engineer (German speaking)",
+        "locations": [
+          "London"
+        ],
+        "seniority": "Mid",
+        "source_url": "https://jobs.ashbyhq.com/sierra/c56c272f-86e0-43c8-b3eb-6f6b1cec3b36"
+      },
+      {
+        "title": "Sales Engineer (Spain)",
+        "locations": [
+          "Madrid"
+        ],
+        "seniority": "Mid",
+        "source_url": "https://jobs.ashbyhq.com/sierra/39355227-d7a2-4066-b930-2bf2eeebc20c"
+      }
+    ]
   },
   {
     "company_slug": "spacex",

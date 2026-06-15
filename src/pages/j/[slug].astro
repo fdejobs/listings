@@ -15,10 +15,12 @@ import { countAddedThisWeek, enrichJobs } from "../../lib/filters";
 
 export async function getStaticPaths() {
   const jobs = getJobs();
-  return jobs.map((job) => ({
-    params: { slug: job.slug },
-    props: { job }
-  }));
+  return jobs
+    .filter((job) => job.status === "live")
+    .map((job) => ({
+      params: { slug: job.slug },
+      props: { job }
+    }));
 }
 
 const { job } = Astro.props;

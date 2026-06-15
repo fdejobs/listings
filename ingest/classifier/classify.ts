@@ -6,7 +6,7 @@ import { classifierPrompt } from "./prompt";
 function heuristic(input: ClassifierInput): ClassifierOutput {
   const title = input.title.toLowerCase();
   const text = `${input.title} ${input.description}`.toLowerCase();
-  const excludedTitle = /account executive|account director|seller|sales development|field marketer|marketing|recruiter|gtm|partnership|alliances|customer success|program manager|product manager|data scientist|mobile|revenue strategy|growth|strategic enterprise|strategic sales|governance|compliance/.test(title);
+  const excludedTitle = /account executive|account director|seller|sales development|field marketer|marketer|marketing|recruiter|gtm|partnership|alliances|customer success|program manager|product manager|data scientist|mobile|revenue strategy|growth|strategic enterprise|strategic sales|governance|compliance/.test(title);
   const titleSignals = [
     "forward deployed",
     "deployed engineer",

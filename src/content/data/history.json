@@ -13,8 +13,14 @@
   },
   {
     "date": "2026-05-30T00:00:00.000Z",
-    "live_role_count": 229,
+    "live_role_count": 245,
     "source": "site_live_jobs",
-    "notes": "Expanded-source baseline for current live FDE roles. Growth page WoW and MoM comparisons start from this snapshot."
+    "notes": "Constant-sample expanded-source baseline for current live FDE roles. Original 30 May tracked count was 229; +16 Cognition and Sierra roles already live by 30 May were added after both companies joined the sample."
+  },
+  {
+    "date": "2026-06-15T00:00:00.000Z",
+    "live_role_count": 696,
+    "source": "site_live_jobs",
+    "notes": "Weekly snapshot of current live FDE roles displayed on the site."
   }
 ]

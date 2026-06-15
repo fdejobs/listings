@@ -364,8 +364,8 @@
       "ai applications",
       "enterprise"
     ],
-    "ats_provider": null,
-    "ats_slug": null,
+    "ats_provider": "ashby",
+    "ats_slug": "cognition",
     "custom_scraper_id": null,
     "is_active": true,
     "notes": null

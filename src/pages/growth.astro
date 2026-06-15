@@ -11,12 +11,6 @@ type WeekPoint = {
   value: number;
 };
 
-type Comparison = {
-  baseline: number | null;
-  change: number | null;
-  source: "snapshot" | "listing_date";
-};
-
 type MarketComparison = {
   baseline: number | null;
   change: number | null;
@@ -54,42 +48,17 @@ const marketWeeks: WeekPoint[] = marketHistory.map((point) => ({
   value: point.postings_count
 }));
 
-function comparisonTarget(daysAgo: number) {
-  const target = new Date();
-  target.setUTCDate(target.getUTCDate() - daysAgo);
-  return target;
-}
-
-function snapshotAtOrBefore(daysAgo: number) {
-  const target = comparisonTarget(daysAgo);
-
-  return history
-    .filter((snapshot) => new Date(snapshot.date).getTime() >= coreBaselineDate.getTime())
-    .filter((snapshot) => new Date(snapshot.date).getTime() <= target.getTime())
-    .at(-1) ?? null;
-}
-
-function comparisonFor(daysAgo: number): Comparison {
-  const snapshot = snapshotAtOrBefore(daysAgo);
-
-  if (snapshot) {
-    return {
-      baseline: snapshot.live_role_count,
-      change: currentLiveRoles - snapshot.live_role_count,
-      source: "snapshot"
-    };
-  }
-
-  return {
-    baseline: null,
-    change: null,
-    source: "listing_date"
-  };
-}
-
-const wowComparison = comparisonFor(7);
-const momComparison = comparisonFor(30);
 const coreMetric = currentLiveRoles;
+const coreBaselineSnapshot = history.find((snapshot) => snapshot.date.slice(0, 10) === coreBaselineDate.toISOString().slice(0, 10));
+const coreBaselineComparison = coreBaselineSnapshot
+  ? {
+      baseline: coreBaselineSnapshot.live_role_count,
+      change: currentLiveRoles - coreBaselineSnapshot.live_role_count
+    }
+  : {
+      baseline: null,
+      change: null
+    };
 const maxMarketWeekly = Math.max(...marketWeeks.map((point) => point.value), 1);
 const latestMarketPoint = marketHistory.at(-1);
 const latestMarketValue = latestMarketPoint?.postings_count ?? null;
@@ -127,14 +96,6 @@ const ytdMarketPoint = marketHistory.find((point) => point.period_start.startsWi
 const marketMomComparison = marketComparisonForBaseline(previousMarketPoint?.postings_count ?? null);
 const marketYtdComparison = marketComparisonForBaseline(ytdMarketPoint?.postings_count ?? null);
 
-function comparisonText(comparison: Comparison, window: "WoW" | "MoM") {
-  if (comparison.change === null || comparison.baseline === null) {
-    return `${window} baseline set`;
-  }
-
-  return `${differenceLabel(comparison.change, window)} · from ${comparison.baseline}`;
-}
-
 function marketComparisonText(comparison: MarketComparison, window: "MoM" | "YTD") {
   if (comparison.change === null || comparison.baseline === null) {
     return `${window} pending`;
@@ -144,12 +105,12 @@ function marketComparisonText(comparison: MarketComparison, window: "MoM" | "YTD
   return `${differenceLabel(comparison.change, window)}${pct}`;
 }
 
-function comparisonTitle(comparison: Comparison, window: "WoW" | "MoM") {
-  if (comparison.source === "snapshot") {
-    return `${window} comparison uses a stored historical snapshot.`;
+function baselineComparisonText(comparison: { baseline: number | null; change: number | null }) {
+  if (comparison.change === null || comparison.baseline === null) {
+    return "30 May baseline pending";
   }
 
-  return `${window} comparison starts from the 30 May 2026 expanded-source baseline.`;
+  return `${comparison.change > 0 ? "+" : ""}${comparison.change} since 30 May · from ${comparison.baseline}`;
 }
 
 function countBy(values: string[]) {
@@ -273,8 +234,8 @@ const lastSourceRefresh = trackerSources
         </p>
       </div>
       <div class="growth-change-stack">
-        <span class={`metric-change ${changeClass(wowComparison.change)}`} title={comparisonTitle(wowComparison, "WoW")}>{comparisonText(wowComparison, "WoW")}</span>
-        <span class={`metric-change ${changeClass(momComparison.change)}`} title={comparisonTitle(momComparison, "MoM")}>{comparisonText(momComparison, "MoM")}</span>
+        <span class={`metric-change ${changeClass(coreBaselineComparison.change)}`} title="Comparison uses the corrected constant-sample 30 May 2026 baseline.">{baselineComparisonText(coreBaselineComparison)}</span>
+        {lastSourceRefresh && <span class="metric-change neutral">Updated {new Date(lastSourceRefresh).toLocaleDateString("en-GB", { day: "2-digit", month: "short" })}</span>}
       </div>
     </section>
 

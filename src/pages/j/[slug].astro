@@ -36,7 +36,7 @@ if (!company) {
 const liveJobs = enrichJobs(jobs, companies);
 const siblings = liveJobs.filter((item) => item.company_slug === job.company_slug && item.slug !== job.slug).slice(0, 3);
 const descriptionHtml = marked.parse(job.description_md);
-const title = `${job.title} at ${company.name} · FDE Jobs`;
+const title = `${job.title} at ${company.name} · FDE Collective`;
 const addedThisWeek = countAddedThisWeek(jobs);
 const structuredData = {
   "@context": "https://schema.org",

@@ -7,8 +7,8 @@ export async function GET(context: { site: string | URL }) {
   const jobs = getJobs().filter((job) => job.status === "live").slice(0, 100);
 
   return rss({
-    title: "FDE Jobs",
-    description: "Newest Forward Deployed Engineer roles",
+    title: "FDE Collective",
+    description: "Newest forward-deployed roles",
     site: context.site,
     items: jobs.map((job) => ({
       title: `${job.title} at ${bySlug[job.company_slug]?.name ?? job.company_slug}`,

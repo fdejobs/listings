@@ -2,6 +2,7 @@ import type { Company, FilterState, Job, JobWithCompany, PostingStats } from "./
 
 export const defaultFilters: FilterState = {
   q: "",
+  company: [],
   role: [],
   stage: [],
   locationType: [],
@@ -310,6 +311,7 @@ export function filterJobs(jobs: JobWithCompany[], filters: FilterState) {
 
     return (
       (query.length === 0 || job.search_text.includes(query)) &&
+      includesEvery(filters.company, [job.company.slug]) &&
       includesEvery(filters.role, [job.role_family]) &&
       includesEvery(filters.stage, [job.company.stage]) &&
       includesEvery(filters.locationType, [job.location_type]) &&
@@ -359,6 +361,7 @@ export function parseFilters(params: URLSearchParams): FilterState {
 
   return {
     q: params.get("q") ?? "",
+    company: split("company"),
     role: split("role"),
     stage: split("stage"),
     locationType: split("locationType"),
@@ -388,6 +391,7 @@ export function filtersToParams(filters: FilterState) {
   if (filters.q.trim()) {
     params.set("q", filters.q.trim());
   }
+  addList("company", filters.company);
   addList("role", filters.role);
   addList("stage", filters.stage);
   addList("locationType", filters.locationType);

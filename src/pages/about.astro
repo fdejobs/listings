@@ -10,19 +10,22 @@ const tickerItems = getTickerItems();
 const addedThisWeek = countAddedThisWeek(jobs);
 ---
 
-<BaseLayout title="About · FDE Jobs" tickerItems={tickerItems} openRoleCount={liveJobs.length} addedThisWeek={addedThisWeek}>
+<BaseLayout title="About · FDE Collective" tickerItems={tickerItems} openRoleCount={liveJobs.length} addedThisWeek={addedThisWeek}>
   <main class="detail-shell">
     <section class="page-head">
       <div class="eyebrow">About</div>
       <h1 class="page-title">A board for the roles where engineering meets the customer.</h1>
       <p class="page-subhead">
-        FDE Jobs tracks Forward Deployed Engineer, Deployed Engineer, Solutions Engineer, and AI Solutions Engineer roles where stage, travel, customer exposure, comp, and work mix matter.
+        FDE Collective tracks Forward Deployed Engineer, Deployed Engineer, Customer Engineer, Implementation Engineer, and adjacent deployment-heavy roles where stage, travel, customer exposure, comp, and work mix matter.
       </p>
     </section>
     <section class="prose">
       <h2>Sourcing</h2>
       <p>
         Listings come from public ATS APIs, selected career pages, manual submissions, and reviewed community sources. Every job links to the original application URL. Applications are never proxied.
+      </p>
+      <p>
+        The live board intentionally excludes solution engineer, solution architect, and sales engineer titles so the dataset stays tightly focused on forward-deployed work.
       </p>
       <p>
         The repository is the database. Jobs, companies, ticker items, ingestion state, and removal changes are all versioned as commits.

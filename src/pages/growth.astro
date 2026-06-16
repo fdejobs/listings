@@ -63,7 +63,7 @@ const maxMarketWeekly = Math.max(...marketWeeks.map((point) => point.value), 1);
 const latestMarketPoint = marketHistory.at(-1);
 const latestMarketValue = latestMarketPoint?.postings_count ?? null;
 const marketSourceText = latestMarketPoint
-  ? `Source: A16Z/Bloomberry proxy through Sep 2025, extended with public Indeed index anchors through Apr 2026. Monthly proxy counts; latest: ${latestMarketPoint.period_label}.`
+  ? `Source: A16Z/Bloomberry proxy through Sep 2025, extended with public Indeed index anchors through Apr 2026 and a May 2026 proxy continuation. Monthly proxy counts; latest: ${latestMarketPoint.period_label}.`
   : "Source: Indeed FDE postings benchmark.";
 
 function marketComparisonForBaseline(baseline: number | null): MarketComparison {
@@ -187,8 +187,8 @@ const lastSourceRefresh = trackerSources
 ---
 
 <BaseLayout
-  title="FDE Growth Tracker · FDE Jobs"
-  description="A weekly tracker for the rise of Forward Deployed Engineer job volume by country, company, and industry."
+  title="FDE Growth Tracker · FDE Collective"
+  description="A weekly tracker for the rise of forward-deployed job volume by country, company, and industry."
   tickerItems={tickerItems}
   openRoleCount={liveJobs.length}
   addedThisWeek={addedThisWeek}

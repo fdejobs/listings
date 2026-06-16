@@ -28,6 +28,7 @@ export type JobWithCompany = import("./schema").Job & {
 
 export type FilterState = {
   q: string;
+  company: string[];
   role: string[];
   stage: string[];
   locationType: string[];

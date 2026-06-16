@@ -19,7 +19,10 @@
     "expire": "tsx ingest/expire.ts",
     "snapshot:history": "tsx scripts/snapshot-history.ts",
     "generate:og": "tsx scripts/generate-og.ts",
-    "check:css": "tsx scripts/check-css.ts"
+    "check:css": "tsx scripts/check-css.ts",
+    "curate:strict": "tsx scripts/prune-live-jobs.ts",
+    "audit:urls": "tsx scripts/audit-live-urls.ts",
+    "reconcile:history": "tsx scripts/reconcile-history.ts"
   },
   "dependencies": {
     "@ai-sdk/openai-compatible": "^1.0.15",

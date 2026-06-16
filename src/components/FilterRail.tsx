@@ -30,7 +30,6 @@ type Props = {
 
 const roleOptions = [
   "fde",
-  "solutions_engineer",
   "deployed_engineer",
   "ai_engineer",
   "other"
@@ -74,6 +73,11 @@ type LocationQuickOption = {
   label: string;
   value: string;
   kind: "city" | "country" | "continent" | "remote";
+};
+
+type CompanyOption = {
+  slug: string;
+  name: string;
 };
 
 function useUrlFilters() {
@@ -144,6 +148,7 @@ function CheckboxOption({
 function FilterControls({
   filters,
   setFilters,
+  companyOptions,
   industryOptions,
   benefitOptions,
   cityOptions,
@@ -151,6 +156,7 @@ function FilterControls({
 }: {
   filters: FilterState;
   setFilters: (filters: FilterState) => void;
+  companyOptions: CompanyOption[];
   industryOptions: string[];
   benefitOptions: string[];
   cityOptions: string[];
@@ -165,6 +171,16 @@ function FilterControls({
             label={roleLabel(role)}
             checked={filters.role.includes(role)}
             onChange={() => setFilters(toggleList(filters, "role", role))}
+          />
+        ))}
+      </FilterGroup>
+      <FilterGroup label="Company">
+        {companyOptions.map((company) => (
+          <CheckboxOption
+            key={company.slug}
+            label={company.name}
+            checked={filters.company.includes(company.slug)}
+            onChange={() => setFilters(toggleList(filters, "company", company.slug))}
           />
         ))}
       </FilterGroup>
@@ -370,6 +386,22 @@ export default function FilterRail({ jobs, companies, addedThisWeek }: Props) {
     () => Array.from(new Set(companies.flatMap((company) => company.industry_tags))).sort(),
     [companies]
   );
+  const companyOptions = useMemo<CompanyOption[]>(() => {
+    const counts = new Map<string, { slug: string; name: string; count: number }>();
+    for (const job of jobs) {
+      const current = counts.get(job.company.slug);
+      if (current) {
+        current.count += 1;
+      } else {
+        counts.set(job.company.slug, { slug: job.company.slug, name: job.company.name, count: 1 });
+      }
+    }
+
+    return Array.from(counts.values())
+      .sort((a, b) => b.count - a.count || a.name.localeCompare(b.name))
+      .map(({ slug, name }) => ({ slug, name }))
+      .slice(0, 40);
+  }, [jobs]);
   const cityOptions = useMemo(() => {
     const counts = new Map<string, number>();
     for (const job of jobs) {
@@ -477,7 +509,7 @@ export default function FilterRail({ jobs, companies, addedThisWeek }: Props) {
   return (
     <div class="jobs-board">
       <div class="page-head">
-        <div class="eyebrow">Forward deployed engineering roles</div>
+        <div class="eyebrow">FDE Collective</div>
         <h1 class="page-title">the fastest growing job in tech</h1>
         <p class="page-subhead">
           <span class="mono" title="Newly tracked uses the board's first_seen_at timestamp, not necessarily the employer's original posting date.">
@@ -545,6 +577,7 @@ export default function FilterRail({ jobs, companies, addedThisWeek }: Props) {
             <FilterControls
               filters={filters}
               setFilters={setFilters}
+              companyOptions={companyOptions}
               industryOptions={industryOptions}
               benefitOptions={benefitOptions}
               cityOptions={cityOptions}

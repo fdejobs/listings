@@ -478,5 +478,17 @@
     "collected_at": "2026-05-30T00:00:00.000Z",
     "collection_method": "reference_seed",
     "notes": "Proxy count derived by applying the public April 2026 Indeed index anchor to the A16Z/Bloomberry January 2025 posting-count proxy."
+  },
+  {
+    "source": "indeed_jd_tracker",
+    "period_start": "2026-05-04T00:00:00.000Z",
+    "period_end": "2026-05-31T23:59:59.000Z",
+    "period_label": "May 2026",
+    "metric_kind": "posting_count_proxy",
+    "postings_count": 450,
+    "source_url": "https://www.aol.com/job-no-one-hired-booming-100051801.html",
+    "collected_at": "2026-06-16T00:00:00.000Z",
+    "collection_method": "manual_snapshot",
+    "notes": "Proxy continuation for May 2026 using the same anchor-based methodology as Feb-Apr 2026. No separate public May anchor was available at collection time, so the point continues the Jan-Apr 2026 slope and rounds to the nearest ten postings."
   }
 ]

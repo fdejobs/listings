@@ -28,6 +28,8 @@ type Props = {
   addedThisWeek: number;
 };
 
+const titlePatternOptions = [["forward_deployed", "Forward deployed in title"]] as const;
+
 const roleOptions = [
   "fde",
   "deployed_engineer",
@@ -164,6 +166,16 @@ function FilterControls({
 }) {
   return (
     <div class="filters-grid">
+      <FilterGroup label="Title">
+        {titlePatternOptions.map(([value, label]) => (
+          <CheckboxOption
+            key={value}
+            label={label}
+            checked={filters.titlePattern.includes(value)}
+            onChange={() => setFilters(toggleList(filters, "titlePattern", value))}
+          />
+        ))}
+      </FilterGroup>
       <FilterGroup label="Role family">
         {roleOptions.map((role) => (
           <CheckboxOption

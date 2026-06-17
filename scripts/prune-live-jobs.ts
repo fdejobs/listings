@@ -13,7 +13,7 @@ const nextJobs = jobs.map((job) => {
     return job;
   }
 
-  const reason = getStrictFdeExclusionReason(job.title);
+  const reason = getStrictFdeExclusionReason(job.title, { companySlug: job.company_slug });
   if (!reason) {
     return job;
   }

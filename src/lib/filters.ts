@@ -3,6 +3,7 @@ import type { Company, FilterState, Job, JobWithCompany, PostingStats } from "./
 export const defaultFilters: FilterState = {
   q: "",
   company: [],
+  titlePattern: [],
   role: [],
   stage: [],
   locationType: [],
@@ -312,6 +313,7 @@ export function filterJobs(jobs: JobWithCompany[], filters: FilterState) {
     return (
       (query.length === 0 || job.search_text.includes(query)) &&
       includesEvery(filters.company, [job.company.slug]) &&
+      (filters.titlePattern.length === 0 || (filters.titlePattern.includes("forward_deployed") && /\bforward deployed\b/i.test(job.title))) &&
       includesEvery(filters.role, [job.role_family]) &&
       includesEvery(filters.stage, [job.company.stage]) &&
       includesEvery(filters.locationType, [job.location_type]) &&
@@ -362,6 +364,7 @@ export function parseFilters(params: URLSearchParams): FilterState {
   return {
     q: params.get("q") ?? "",
     company: split("company"),
+    titlePattern: split("titlePattern"),
     role: split("role"),
     stage: split("stage"),
     locationType: split("locationType"),
@@ -392,6 +395,7 @@ export function filtersToParams(filters: FilterState) {
     params.set("q", filters.q.trim());
   }
   addList("company", filters.company);
+  addList("titlePattern", filters.titlePattern);
   addList("role", filters.role);
   addList("stage", filters.stage);
   addList("locationType", filters.locationType);

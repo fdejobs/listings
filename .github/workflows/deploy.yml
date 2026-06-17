@@ -38,7 +38,7 @@ jobs:
       - run: touch dist/.nojekyll
       - uses: peaceiris/actions-gh-pages@v4
         with:
-          github_token: ${{ secrets.WORKFLOW_PAT || github.token }}
+          github_token: ${{ github.token }}
           publish_dir: ./dist
           publish_branch: gh-pages
           force_orphan: true

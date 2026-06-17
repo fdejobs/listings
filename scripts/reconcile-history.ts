@@ -20,7 +20,7 @@ const baselineJobs = jobsSchema.parse(
 
 const baselineMap = new Map<string, typeof currentJobs[number]>();
 for (const job of baselineJobs) {
-  if (job.status === "live" && isStrictFdeTitle(job.title)) {
+  if (job.status === "live" && isStrictFdeTitle(job.title, { companySlug: job.company_slug })) {
     baselineMap.set(job.slug, job);
   }
 }
@@ -28,7 +28,7 @@ for (const job of baselineJobs) {
 for (const job of currentJobs) {
   if (
     job.status === "live" &&
-    isStrictFdeTitle(job.title) &&
+    isStrictFdeTitle(job.title, { companySlug: job.company_slug }) &&
     (job.company_slug === "cognition" || job.company_slug === "sierra") &&
     Date.parse(job.posted_at) <= cutoff
   ) {
@@ -37,7 +37,7 @@ for (const job of currentJobs) {
 }
 
 const baselineCount = baselineMap.size;
-const currentLiveCount = currentJobs.filter((job) => job.status === "live" && isStrictFdeTitle(job.title)).length;
+const currentLiveCount = currentJobs.filter((job) => job.status === "live" && isStrictFdeTitle(job.title, { companySlug: job.company_slug })).length;
 const sampleAdds = Array.from(baselineMap.values()).filter((job) => job.company_slug === "cognition" || job.company_slug === "sierra");
 const history = historySchema.parse(await readJson("src/content/data/history.json", []));
 
@@ -49,7 +49,7 @@ const nextHistory = history.map((snapshot) => {
     return {
       ...snapshot,
       live_role_count: baselineCount,
-      notes: "Constant-sample baseline for current live FDE roles under the stricter board definition. Solution engineer, solution architect, and sales engineer titles are excluded; Cognition and Sierra roles already live by 30 May remain included in both periods."
+      notes: "Constant-sample baseline for current live FDE roles under the stricter board definition. Solutions, sales, field engineering, deployment engineer and deployment manager titles are excluded; OpenAI roles must explicitly be forward-deployed; Cognition and Sierra roles already live by 30 May remain included in both periods."
     };
   }
 
@@ -58,7 +58,7 @@ const nextHistory = history.map((snapshot) => {
     return {
       ...snapshot,
       live_role_count: currentLiveCount,
-      notes: "Weekly snapshot of current live FDE roles displayed on the site after applying the stricter board definition and URL audit."
+      notes: "Weekly snapshot of current live FDE roles displayed on the site after applying the stricter board definition, OpenAI forward-deployed-only rule, and URL audit."
     };
   }
 

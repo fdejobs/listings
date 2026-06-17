@@ -47,7 +47,7 @@ if (badTicker.length > 0) {
 const liveRoleCount = jobs.filter((job) => job.status === "live").length;
 const strictBoardViolations = jobs
   .filter((job) => job.status === "live")
-  .map((job) => ({ job, reason: getStrictFdeExclusionReason(job.title) }))
+  .map((job) => ({ job, reason: getStrictFdeExclusionReason(job.title, { companySlug: job.company_slug }) }))
   .filter((entry): entry is { job: typeof jobs[number]; reason: string } => Boolean(entry.reason));
 const latestHistory = [...history].sort((a, b) => a.date.localeCompare(b.date)).at(-1);
 

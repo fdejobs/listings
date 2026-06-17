@@ -16,7 +16,7 @@ type HistorySnapshot = {
 
 const targetSlugs = [
   "databricks-head-of-ai-forward-deployed-engineering-fde-public-sector-maryland-2026-06",
-  "openai-ai-deployment-engineer-san-francisco-2026-06",
+  "openai-forward-deployed-security-engineer-washington-2026-05",
   "cognition-deployed-engineer-europe-london-2025-09",
   "sierra-forward-deployed-infrastructure-engineer-san-francisco-2026-04",
   "cursor-forward-deployed-engineer-emea-london-2026-06"
@@ -45,8 +45,8 @@ const baselineJobs = JSON.parse(execFileSync("git", ["show", `${baselineCommit}:
 })) as Job[];
 
 const companyBySlug = Object.fromEntries(companies.map((company) => [company.slug, company]));
-const liveJobs = jobs.filter((job) => job.status === "live" && !getStrictFdeExclusionReason(job.title));
-const baselineLiveJobs = baselineJobs.filter((job) => job.status === "live" && !getStrictFdeExclusionReason(job.title));
+const liveJobs = jobs.filter((job) => job.status === "live" && !getStrictFdeExclusionReason(job.title, { companySlug: job.company_slug }));
+const baselineLiveJobs = baselineJobs.filter((job) => job.status === "live" && !getStrictFdeExclusionReason(job.title, { companySlug: job.company_slug }));
 const latestSnapshot = history.at(-1);
 
 if (!latestSnapshot) {

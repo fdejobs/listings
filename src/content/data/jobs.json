@@ -4998,7 +4998,7 @@
   {
     "slug": "databricks-forward-deployed-engineer-remote-denmark-2026-06",
     "company_slug": "databricks",
-    "title": "Forward Deployed Engineer",
+    "title": "Forward Deployed Engineer - Full Stack",
     "role_family": "deployed_engineer",
     "location_type": "remote",
     "locations": [
@@ -5017,7 +5017,7 @@
     "source_provider": "greenhouse",
     "source_url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8521090002",
     "first_seen_at": "2026-06-12T12:36:27.021Z",
-    "posted_at": "2026-06-15T18:30:50-04:00",
+    "posted_at": "2026-06-19T06:58:22-04:00",
     "expires_at": null,
     "classifier_confidence": 0.86,
     "classifier_reasoning": "Heuristic fallback used because OPENAI_API_KEY was not configured.",
@@ -7764,16 +7764,16 @@
   {
     "slug": "databricks-resident-solutions-architect-remote-india-2026-05",
     "company_slug": "databricks",
-    "title": "Resident Solutions Architect",
-    "role_family": "solutions_engineer",
+    "title": "Sr Forward Deployed Engineer",
+    "role_family": "deployed_engineer",
     "location_type": "remote",
     "locations": [
       "Remote - India"
     ],
     "travel_pct_band": "low_0_25",
     "customer_facing_pct_band": "high_50_plus",
-    "comp_base_min": 145000,
-    "comp_base_max": 220000,
+    "comp_base_min": 160000,
+    "comp_base_max": 245000,
     "comp_currency": "USD",
     "equity_offered": false,
     "equity_note": null,
@@ -7783,12 +7783,12 @@
     "source_provider": "greenhouse",
     "source_url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8362737002",
     "first_seen_at": "2026-05-17T12:47:52.573Z",
-    "posted_at": "2026-06-11T22:43:01-04:00",
-    "expires_at": "2026-06-16T11:12:34.764Z",
-    "classifier_confidence": 0.8,
-    "classifier_reasoning": "Deterministic fallback used because the default Claude model requires an OpenAI-compatible gateway base URL. Solution architect roles are excluded from the stricter forward-deployed definition.",
-    "classifier_version": "fde-classifier-v1",
-    "status": "expired",
+    "posted_at": "2026-06-19T09:10:53-04:00",
+    "expires_at": null,
+    "classifier_confidence": 0.86,
+    "classifier_reasoning": "Heuristic fallback used because OPENAI_API_KEY was not configured.",
+    "classifier_version": "fde-classifier-v4",
+    "status": "live",
     "is_featured": false
   },
   {

@@ -1543,7 +1543,7 @@
     "role_family": "deployed_engineer",
     "location_type": "onsite",
     "locations": [
-      "Sydney"
+      "South Korea"
     ],
     "travel_pct_band": "none",
     "customer_facing_pct_band": "high_50_plus",
@@ -3645,7 +3645,7 @@
   {
     "slug": "databricks-data-platform-solutions-architect-professional-services-london-2026-04-8396801002",
     "company_slug": "databricks",
-    "title": "Forward Deployed Engineer",
+    "title": "Senior Forward Deployed Engineer, Full Stack",
     "role_family": "deployed_engineer",
     "location_type": "onsite",
     "locations": [
@@ -3665,7 +3665,7 @@
     "source_provider": "greenhouse",
     "source_url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8396801002",
     "first_seen_at": "2026-05-17T12:47:52.548Z",
-    "posted_at": "2026-06-30T20:07:31-04:00",
+    "posted_at": "2026-07-01T04:14:17-04:00",
     "expires_at": null,
     "classifier_confidence": 0.86,
     "classifier_reasoning": "Heuristic fallback used because OPENAI_API_KEY was not configured.",

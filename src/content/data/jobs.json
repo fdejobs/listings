@@ -1348,7 +1348,7 @@
     "source_provider": "ashby",
     "source_url": "https://jobs.ashbyhq.com/cognition/4bf50602-b880-40d2-9c8c-18d4372a8b02",
     "first_seen_at": "2026-06-15T18:24:54.532Z",
-    "posted_at": "2026-04-15T04:38:24.716+00:00",
+    "posted_at": "2026-07-02T14:49:39.626+00:00",
     "expires_at": null,
     "classifier_confidence": 0.8,
     "classifier_reasoning": "Heuristic fallback used because OPENAI_API_KEY was not configured.",

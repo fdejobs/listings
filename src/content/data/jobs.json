@@ -1019,11 +1019,11 @@
     "source_url": "https://www.amazon.jobs/en/jobs/10430718/forward-deployed-ai-integrator-data-center-engineering",
     "first_seen_at": "2026-05-30T14:30:00.000Z",
     "posted_at": "2026-05-25T23:00:00.000Z",
-    "expires_at": null,
+    "expires_at": "2026-07-03T10:54:47.445Z",
     "classifier_confidence": 0.94,
-    "classifier_reasoning": "Official Amazon Jobs search result title contains Forward Deployed and the direct Amazon Jobs URL resolves.",
+    "classifier_reasoning": "Official Amazon Jobs search result title contains Forward Deployed and the direct Amazon Jobs URL resolves. Apply URL audit marked this listing broken (HTTP 404).",
     "classifier_version": "manual-hyperscaler-setter30-sweep-2026-05-30",
-    "status": "live",
+    "status": "expired",
     "is_featured": false
   },
   {

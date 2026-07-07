@@ -6933,7 +6933,8 @@
     "role_family": "deployed_engineer",
     "location_type": "onsite",
     "locations": [
-      "United States"
+      "San Francisco",
+      "California"
     ],
     "travel_pct_band": "low_0_25",
     "customer_facing_pct_band": "high_50_plus",
@@ -6948,7 +6949,7 @@
     "source_provider": "greenhouse",
     "source_url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8488399002",
     "first_seen_at": "2026-05-17T12:47:52.574Z",
-    "posted_at": "2026-07-06T20:00:57-04:00",
+    "posted_at": "2026-07-07T01:29:43-04:00",
     "expires_at": null,
     "classifier_confidence": 0.86,
     "classifier_reasoning": "Heuristic fallback used because OPENAI_API_KEY was not configured.",

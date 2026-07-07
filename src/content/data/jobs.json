@@ -26939,11 +26939,11 @@
     "source_url": "https://job-boards.greenhouse.io/togetherai/jobs/5131941007",
     "first_seen_at": "2026-05-17T12:47:54.773Z",
     "posted_at": "2026-06-15T16:19:03-04:00",
-    "expires_at": null,
+    "expires_at": "2026-07-07T19:43:43.474Z",
     "classifier_confidence": 0.86,
     "classifier_reasoning": "Heuristic fallback used because OPENAI_API_KEY was not configured.",
     "classifier_version": "fde-classifier-v4",
-    "status": "live",
+    "status": "expired",
     "is_featured": false
   },
   {

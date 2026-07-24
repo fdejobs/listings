@@ -19819,11 +19819,11 @@
     "source_url": "https://jobs.lever.co/mistral/77f6fd1b-65cf-45d8-9b68-594c62732f62",
     "first_seen_at": "2026-05-29T12:00:00.000Z",
     "posted_at": "2024-05-24T07:14:34.762Z",
-    "expires_at": null,
+    "expires_at": "2026-07-24T03:59:27.588Z",
     "classifier_confidence": 0.8,
     "classifier_reasoning": "Heuristic fallback used because OPENAI_API_KEY was not configured.",
     "classifier_version": "fde-classifier-v4",
-    "status": "live",
+    "status": "expired",
     "is_featured": false
   },
   {
@@ -19849,11 +19849,11 @@
     "source_url": "https://jobs.lever.co/mistral/a73cb128-b07e-437c-b82d-57b06661c52b",
     "first_seen_at": "2026-05-30T12:15:00.000Z",
     "posted_at": "2026-03-21T01:37:59.776Z",
-    "expires_at": null,
+    "expires_at": "2026-07-24T03:59:27.589Z",
     "classifier_confidence": 0.8,
     "classifier_reasoning": "Heuristic fallback used because OPENAI_API_KEY was not configured.",
     "classifier_version": "fde-classifier-v4",
-    "status": "live",
+    "status": "expired",
     "is_featured": false
   },
   {
@@ -19879,11 +19879,11 @@
     "source_url": "https://jobs.lever.co/mistral/cb2137e6-d6b1-47d7-8450-6370a61f2b79",
     "first_seen_at": "2026-05-30T12:15:00.000Z",
     "posted_at": "2025-11-04T13:02:32.362Z",
-    "expires_at": null,
+    "expires_at": "2026-07-24T03:59:27.589Z",
     "classifier_confidence": 0.8,
     "classifier_reasoning": "Heuristic fallback used because OPENAI_API_KEY was not configured.",
     "classifier_version": "fde-classifier-v4",
-    "status": "live",
+    "status": "expired",
     "is_featured": false
   },
   {
@@ -19909,11 +19909,11 @@
     "source_url": "https://jobs.lever.co/mistral/aff9f13c-e79f-4d66-98b1-f62dd1c552cd",
     "first_seen_at": "2026-06-03T20:00:19.091Z",
     "posted_at": "2026-06-03T07:32:43.821Z",
-    "expires_at": null,
+    "expires_at": "2026-07-24T03:59:27.589Z",
     "classifier_confidence": 0.8,
     "classifier_reasoning": "Heuristic fallback used because OPENAI_API_KEY was not configured.",
     "classifier_version": "fde-classifier-v4",
-    "status": "live",
+    "status": "expired",
     "is_featured": false
   },
   {
@@ -19939,11 +19939,11 @@
     "source_url": "https://jobs.lever.co/mistral/0b476d3a-5f0c-4dda-9a5e-bd5ed8515328",
     "first_seen_at": "2026-05-30T12:15:00.000Z",
     "posted_at": "2026-04-15T20:36:57.294Z",
-    "expires_at": null,
+    "expires_at": "2026-07-24T03:59:27.589Z",
     "classifier_confidence": 0.8,
     "classifier_reasoning": "Heuristic fallback used because OPENAI_API_KEY was not configured.",
     "classifier_version": "fde-classifier-v4",
-    "status": "live",
+    "status": "expired",
     "is_featured": false
   },
   {
@@ -19999,11 +19999,11 @@
     "source_url": "https://jobs.lever.co/mistral/b2498ec4-51e7-46b7-b258-d9bc40b6e39e",
     "first_seen_at": "2026-06-03T20:00:19.091Z",
     "posted_at": "2026-06-03T07:31:51.791Z",
-    "expires_at": null,
+    "expires_at": "2026-07-24T03:59:27.589Z",
     "classifier_confidence": 0.8,
     "classifier_reasoning": "Heuristic fallback used because OPENAI_API_KEY was not configured.",
     "classifier_version": "fde-classifier-v4",
-    "status": "live",
+    "status": "expired",
     "is_featured": false
   },
   {
@@ -20029,11 +20029,11 @@
     "source_url": "https://jobs.lever.co/mistral/cb2986cc-4768-40b9-9d67-e53d78b247dc",
     "first_seen_at": "2026-05-30T12:15:00.000Z",
     "posted_at": "2026-05-05T15:14:14.018Z",
-    "expires_at": null,
+    "expires_at": "2026-07-24T03:59:27.589Z",
     "classifier_confidence": 0.8,
     "classifier_reasoning": "Heuristic fallback used because OPENAI_API_KEY was not configured.",
     "classifier_version": "fde-classifier-v4",
-    "status": "live",
+    "status": "expired",
     "is_featured": false
   },
   {
@@ -20059,11 +20059,11 @@
     "source_url": "https://jobs.lever.co/mistral/e2cf255f-49c8-4630-afe0-7f665f51f01f",
     "first_seen_at": "2026-05-29T12:00:00.000Z",
     "posted_at": "2025-10-10T16:28:06.590Z",
-    "expires_at": null,
+    "expires_at": "2026-07-24T03:59:27.589Z",
     "classifier_confidence": 0.8,
     "classifier_reasoning": "Heuristic fallback used because OPENAI_API_KEY was not configured.",
     "classifier_version": "fde-classifier-v4",
-    "status": "live",
+    "status": "expired",
     "is_featured": false
   },
   {
@@ -20089,11 +20089,11 @@
     "source_url": "https://jobs.lever.co/mistral/042d7b29-279b-48e2-a44b-c7bdc3180dab",
     "first_seen_at": "2026-05-30T12:15:00.000Z",
     "posted_at": "2026-03-24T15:20:17.922Z",
-    "expires_at": null,
+    "expires_at": "2026-07-24T03:59:27.589Z",
     "classifier_confidence": 0.8,
     "classifier_reasoning": "Heuristic fallback used because OPENAI_API_KEY was not configured.",
     "classifier_version": "fde-classifier-v4",
-    "status": "live",
+    "status": "expired",
     "is_featured": false
   },
   {
@@ -20119,11 +20119,11 @@
     "source_url": "https://jobs.lever.co/mistral/45b0fae3-61ea-4cb0-8cd1-c1bc2a43a84a",
     "first_seen_at": "2026-06-03T20:00:19.092Z",
     "posted_at": "2026-06-03T09:08:46.556Z",
-    "expires_at": null,
+    "expires_at": "2026-07-24T03:59:27.589Z",
     "classifier_confidence": 0.8,
     "classifier_reasoning": "Heuristic fallback used because OPENAI_API_KEY was not configured.",
     "classifier_version": "fde-classifier-v4",
-    "status": "live",
+    "status": "expired",
     "is_featured": false
   },
   {
@@ -20149,11 +20149,11 @@
     "source_url": "https://jobs.lever.co/mistral/ebfdc0da-13fd-4ae9-9861-bedb5ff493ea",
     "first_seen_at": "2026-05-29T12:00:00.000Z",
     "posted_at": "2025-11-30T23:41:16.498Z",
-    "expires_at": null,
+    "expires_at": "2026-07-24T03:59:27.589Z",
     "classifier_confidence": 0.8,
     "classifier_reasoning": "Heuristic fallback used because OPENAI_API_KEY was not configured.",
     "classifier_version": "fde-classifier-v4",
-    "status": "live",
+    "status": "expired",
     "is_featured": false
   },
   {
@@ -20179,11 +20179,11 @@
     "source_url": "https://jobs.lever.co/mistral/c7b7fdfe-a071-4d62-bc15-7bcdff8067e7",
     "first_seen_at": "2026-05-30T12:15:00.000Z",
     "posted_at": "2026-04-23T13:31:13.314Z",
-    "expires_at": null,
+    "expires_at": "2026-07-24T03:59:27.589Z",
     "classifier_confidence": 0.8,
     "classifier_reasoning": "Heuristic fallback used because OPENAI_API_KEY was not configured.",
     "classifier_version": "fde-classifier-v4",
-    "status": "live",
+    "status": "expired",
     "is_featured": false
   },
   {

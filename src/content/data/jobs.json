@@ -24716,11 +24716,11 @@
     "source_url": "https://jobs.ashbyhq.com/openai/e6df42d0-6789-459e-b77b-62d7c5fd78da",
     "first_seen_at": "2026-05-17T12:47:54.376Z",
     "posted_at": "2026-02-25T15:15:23.314+00:00",
-    "expires_at": null,
+    "expires_at": "2026-07-27T14:13:22.960Z",
     "classifier_confidence": 0.86,
     "classifier_reasoning": "Heuristic fallback used because OPENAI_API_KEY was not configured.",
     "classifier_version": "fde-classifier-v4",
-    "status": "live",
+    "status": "expired",
     "is_featured": false
   },
   {

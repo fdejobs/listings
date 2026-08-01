@@ -3752,7 +3752,7 @@
     "source_provider": "greenhouse",
     "source_url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8546367002",
     "first_seen_at": "2026-07-08T13:46:42.729Z",
-    "posted_at": "2026-07-29T13:51:25-04:00",
+    "posted_at": "2026-07-31T16:13:17-04:00",
     "expires_at": null,
     "classifier_confidence": 0.86,
     "classifier_reasoning": "Heuristic fallback used because OPENAI_API_KEY was not configured.",

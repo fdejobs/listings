@@ -5,7 +5,6 @@ import { readJson, writeJson } from "./io";
 
 const baselineCommit = "7a802a9";
 const baselineSnapshotDate = "2026-05-30T00:00:00.000Z";
-const latestSnapshotDate = "2026-06-15T00:00:00.000Z";
 const cutoff = Date.parse("2026-05-30T23:59:59.999Z");
 const currentJobs = jobsSchema.parse(await readJson("src/content/data/jobs.json", []));
 const baselineJobs = jobsSchema.parse(
@@ -40,6 +39,11 @@ const baselineCount = baselineMap.size;
 const currentLiveCount = currentJobs.filter((job) => job.status === "live" && isStrictFdeTitle(job.title, { companySlug: job.company_slug })).length;
 const sampleAdds = Array.from(baselineMap.values()).filter((job) => job.company_slug === "cognition" || job.company_slug === "sierra");
 const history = historySchema.parse(await readJson("src/content/data/history.json", []));
+const latestSnapshotDate = history.map((snapshot) => snapshot.date).sort().at(-1);
+
+if (!latestSnapshotDate) {
+  throw new Error("Expected at least one history snapshot before reconciliation.");
+}
 
 let sawBaseline = false;
 let sawLatest = false;

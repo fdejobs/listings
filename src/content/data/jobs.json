@@ -201,7 +201,7 @@
     "posted_at": "2026-07-27T18:57:51-04:00",
     "expires_at": null,
     "classifier_confidence": 0.86,
-    "classifier_reasoning": "Heuristic fallback used because OPENAI_API_KEY was not configured.",
+    "classifier_reasoning": "Deterministic fallback used because the default Claude model requires an OpenAI-compatible gateway base URL.",
     "classifier_version": "fde-classifier-v4",
     "status": "live",
     "is_featured": false
@@ -233,7 +233,7 @@
     "posted_at": "2026-07-27T18:57:51-04:00",
     "expires_at": null,
     "classifier_confidence": 0.86,
-    "classifier_reasoning": "Heuristic fallback used because OPENAI_API_KEY was not configured.",
+    "classifier_reasoning": "Deterministic fallback used because the default Claude model requires an OpenAI-compatible gateway base URL.",
     "classifier_version": "fde-classifier-v4",
     "status": "live",
     "is_featured": false
@@ -3359,7 +3359,7 @@
     "posted_at": "2026-07-28T00:17:41-04:00",
     "expires_at": null,
     "classifier_confidence": 0.86,
-    "classifier_reasoning": "Heuristic fallback used because OPENAI_API_KEY was not configured.",
+    "classifier_reasoning": "Deterministic fallback used because the default Claude model requires an OpenAI-compatible gateway base URL.",
     "classifier_version": "fde-classifier-v4",
     "status": "live",
     "is_featured": false
@@ -3449,7 +3449,7 @@
     "posted_at": "2026-07-31T02:13:14-04:00",
     "expires_at": null,
     "classifier_confidence": 0.86,
-    "classifier_reasoning": "Heuristic fallback used because OPENAI_API_KEY was not configured.",
+    "classifier_reasoning": "Deterministic fallback used because the default Claude model requires an OpenAI-compatible gateway base URL.",
     "classifier_version": "fde-classifier-v4",
     "status": "live",
     "is_featured": false
@@ -3509,7 +3509,7 @@
     "posted_at": "2026-07-24T19:29:03-04:00",
     "expires_at": null,
     "classifier_confidence": 0.86,
-    "classifier_reasoning": "Heuristic fallback used because OPENAI_API_KEY was not configured.",
+    "classifier_reasoning": "Deterministic fallback used because the default Claude model requires an OpenAI-compatible gateway base URL.",
     "classifier_version": "fde-classifier-v4",
     "status": "live",
     "is_featured": false
@@ -3540,7 +3540,7 @@
     "posted_at": "2026-07-24T19:29:03-04:00",
     "expires_at": null,
     "classifier_confidence": 0.86,
-    "classifier_reasoning": "Heuristic fallback used because OPENAI_API_KEY was not configured.",
+    "classifier_reasoning": "Deterministic fallback used because the default Claude model requires an OpenAI-compatible gateway base URL.",
     "classifier_version": "fde-classifier-v4",
     "status": "live",
     "is_featured": false
@@ -3600,7 +3600,7 @@
     "posted_at": "2026-07-30T00:47:41-04:00",
     "expires_at": null,
     "classifier_confidence": 0.86,
-    "classifier_reasoning": "Heuristic fallback used because OPENAI_API_KEY was not configured.",
+    "classifier_reasoning": "Deterministic fallback used because the default Claude model requires an OpenAI-compatible gateway base URL.",
     "classifier_version": "fde-classifier-v4",
     "status": "live",
     "is_featured": false
@@ -3661,7 +3661,7 @@
     "posted_at": "2026-07-28T00:17:41-04:00",
     "expires_at": null,
     "classifier_confidence": 0.86,
-    "classifier_reasoning": "Heuristic fallback used because OPENAI_API_KEY was not configured.",
+    "classifier_reasoning": "Deterministic fallback used because the default Claude model requires an OpenAI-compatible gateway base URL.",
     "classifier_version": "fde-classifier-v4",
     "status": "live",
     "is_featured": false
@@ -3692,7 +3692,7 @@
     "posted_at": "2026-07-24T19:29:05-04:00",
     "expires_at": null,
     "classifier_confidence": 0.86,
-    "classifier_reasoning": "Heuristic fallback used because OPENAI_API_KEY was not configured.",
+    "classifier_reasoning": "Deterministic fallback used because the default Claude model requires an OpenAI-compatible gateway base URL.",
     "classifier_version": "fde-classifier-v4",
     "status": "live",
     "is_featured": false
@@ -3725,7 +3725,7 @@
     "posted_at": "2026-07-29T13:51:21-04:00",
     "expires_at": null,
     "classifier_confidence": 0.86,
-    "classifier_reasoning": "Heuristic fallback used because OPENAI_API_KEY was not configured.",
+    "classifier_reasoning": "Deterministic fallback used because the default Claude model requires an OpenAI-compatible gateway base URL.",
     "classifier_version": "fde-classifier-v4",
     "status": "live",
     "is_featured": false
@@ -3755,7 +3755,7 @@
     "posted_at": "2026-07-31T16:13:17-04:00",
     "expires_at": null,
     "classifier_confidence": 0.86,
-    "classifier_reasoning": "Heuristic fallback used because OPENAI_API_KEY was not configured.",
+    "classifier_reasoning": "Deterministic fallback used because the default Claude model requires an OpenAI-compatible gateway base URL.",
     "classifier_version": "fde-classifier-v4",
     "status": "live",
     "is_featured": false
@@ -3879,7 +3879,7 @@
     "posted_at": "2026-07-24T19:28:57-04:00",
     "expires_at": null,
     "classifier_confidence": 0.86,
-    "classifier_reasoning": "Heuristic fallback used because OPENAI_API_KEY was not configured.",
+    "classifier_reasoning": "Deterministic fallback used because the default Claude model requires an OpenAI-compatible gateway base URL.",
     "classifier_version": "fde-classifier-v4",
     "status": "live",
     "is_featured": false
@@ -3941,7 +3941,7 @@
     "posted_at": "2026-07-29T05:39:25-04:00",
     "expires_at": null,
     "classifier_confidence": 0.86,
-    "classifier_reasoning": "Heuristic fallback used because OPENAI_API_KEY was not configured.",
+    "classifier_reasoning": "Deterministic fallback used because the default Claude model requires an OpenAI-compatible gateway base URL.",
     "classifier_version": "fde-classifier-v4",
     "status": "live",
     "is_featured": false
@@ -5449,7 +5449,7 @@
     "posted_at": "2026-07-24T19:28:58-04:00",
     "expires_at": null,
     "classifier_confidence": 0.86,
-    "classifier_reasoning": "Heuristic fallback used because OPENAI_API_KEY was not configured.",
+    "classifier_reasoning": "Deterministic fallback used because the default Claude model requires an OpenAI-compatible gateway base URL.",
     "classifier_version": "fde-classifier-v4",
     "status": "live",
     "is_featured": false
@@ -5479,7 +5479,7 @@
     "posted_at": "2026-07-24T19:29:05-04:00",
     "expires_at": null,
     "classifier_confidence": 0.86,
-    "classifier_reasoning": "Heuristic fallback used because OPENAI_API_KEY was not configured.",
+    "classifier_reasoning": "Deterministic fallback used because the default Claude model requires an OpenAI-compatible gateway base URL.",
     "classifier_version": "fde-classifier-v4",
     "status": "live",
     "is_featured": false
@@ -5570,7 +5570,7 @@
     "posted_at": "2026-07-24T19:29:00-04:00",
     "expires_at": null,
     "classifier_confidence": 0.86,
-    "classifier_reasoning": "Heuristic fallback used because OPENAI_API_KEY was not configured.",
+    "classifier_reasoning": "Deterministic fallback used because the default Claude model requires an OpenAI-compatible gateway base URL.",
     "classifier_version": "fde-classifier-v4",
     "status": "live",
     "is_featured": false
@@ -5601,7 +5601,7 @@
     "posted_at": "2026-07-30T04:34:49-04:00",
     "expires_at": null,
     "classifier_confidence": 0.86,
-    "classifier_reasoning": "Heuristic fallback used because OPENAI_API_KEY was not configured.",
+    "classifier_reasoning": "Deterministic fallback used because the default Claude model requires an OpenAI-compatible gateway base URL.",
     "classifier_version": "fde-classifier-v4",
     "status": "live",
     "is_featured": false
@@ -5666,7 +5666,7 @@
     "posted_at": "2026-07-24T19:29:03-04:00",
     "expires_at": null,
     "classifier_confidence": 0.86,
-    "classifier_reasoning": "Heuristic fallback used because OPENAI_API_KEY was not configured.",
+    "classifier_reasoning": "Deterministic fallback used because the default Claude model requires an OpenAI-compatible gateway base URL.",
     "classifier_version": "fde-classifier-v4",
     "status": "live",
     "is_featured": false
@@ -6452,7 +6452,7 @@
     "posted_at": "2026-07-31T02:51:24-04:00",
     "expires_at": null,
     "classifier_confidence": 0.86,
-    "classifier_reasoning": "Heuristic fallback used because OPENAI_API_KEY was not configured.",
+    "classifier_reasoning": "Deterministic fallback used because the default Claude model requires an OpenAI-compatible gateway base URL.",
     "classifier_version": "fde-classifier-v4",
     "status": "live",
     "is_featured": false
@@ -6482,7 +6482,7 @@
     "posted_at": "2026-07-24T19:29:03-04:00",
     "expires_at": null,
     "classifier_confidence": 0.86,
-    "classifier_reasoning": "Heuristic fallback used because OPENAI_API_KEY was not configured.",
+    "classifier_reasoning": "Deterministic fallback used because the default Claude model requires an OpenAI-compatible gateway base URL.",
     "classifier_version": "fde-classifier-v4",
     "status": "live",
     "is_featured": false
@@ -6512,7 +6512,7 @@
     "posted_at": "2026-07-24T19:29:03-04:00",
     "expires_at": null,
     "classifier_confidence": 0.86,
-    "classifier_reasoning": "Heuristic fallback used because OPENAI_API_KEY was not configured.",
+    "classifier_reasoning": "Deterministic fallback used because the default Claude model requires an OpenAI-compatible gateway base URL.",
     "classifier_version": "fde-classifier-v4",
     "status": "live",
     "is_featured": false
@@ -6545,7 +6545,7 @@
     "posted_at": "2026-07-24T19:29:06-04:00",
     "expires_at": null,
     "classifier_confidence": 0.86,
-    "classifier_reasoning": "Heuristic fallback used because OPENAI_API_KEY was not configured.",
+    "classifier_reasoning": "Deterministic fallback used because the default Claude model requires an OpenAI-compatible gateway base URL.",
     "classifier_version": "fde-classifier-v4",
     "status": "live",
     "is_featured": false
@@ -6575,7 +6575,7 @@
     "posted_at": "2026-07-27T03:49:01-04:00",
     "expires_at": null,
     "classifier_confidence": 0.86,
-    "classifier_reasoning": "Heuristic fallback used because OPENAI_API_KEY was not configured.",
+    "classifier_reasoning": "Deterministic fallback used because the default Claude model requires an OpenAI-compatible gateway base URL.",
     "classifier_version": "fde-classifier-v4",
     "status": "live",
     "is_featured": false
@@ -6606,7 +6606,7 @@
     "posted_at": "2026-07-24T19:28:57-04:00",
     "expires_at": null,
     "classifier_confidence": 0.86,
-    "classifier_reasoning": "Heuristic fallback used because OPENAI_API_KEY was not configured.",
+    "classifier_reasoning": "Deterministic fallback used because the default Claude model requires an OpenAI-compatible gateway base URL.",
     "classifier_version": "fde-classifier-v4",
     "status": "live",
     "is_featured": false
@@ -6637,7 +6637,7 @@
     "posted_at": "2026-07-27T22:40:05-04:00",
     "expires_at": null,
     "classifier_confidence": 0.86,
-    "classifier_reasoning": "Heuristic fallback used because OPENAI_API_KEY was not configured.",
+    "classifier_reasoning": "Deterministic fallback used because the default Claude model requires an OpenAI-compatible gateway base URL.",
     "classifier_version": "fde-classifier-v4",
     "status": "live",
     "is_featured": false
@@ -6667,7 +6667,7 @@
     "posted_at": "2026-07-24T19:28:57-04:00",
     "expires_at": null,
     "classifier_confidence": 0.86,
-    "classifier_reasoning": "Heuristic fallback used because OPENAI_API_KEY was not configured.",
+    "classifier_reasoning": "Deterministic fallback used because the default Claude model requires an OpenAI-compatible gateway base URL.",
     "classifier_version": "fde-classifier-v4",
     "status": "live",
     "is_featured": false
@@ -6854,7 +6854,7 @@
     "posted_at": "2026-07-30T07:49:30-04:00",
     "expires_at": null,
     "classifier_confidence": 0.86,
-    "classifier_reasoning": "Heuristic fallback used because OPENAI_API_KEY was not configured.",
+    "classifier_reasoning": "Deterministic fallback used because the default Claude model requires an OpenAI-compatible gateway base URL.",
     "classifier_version": "fde-classifier-v4",
     "status": "live",
     "is_featured": false
@@ -6885,7 +6885,7 @@
     "posted_at": "2026-07-24T19:28:53-04:00",
     "expires_at": null,
     "classifier_confidence": 0.86,
-    "classifier_reasoning": "Heuristic fallback used because OPENAI_API_KEY was not configured.",
+    "classifier_reasoning": "Deterministic fallback used because the default Claude model requires an OpenAI-compatible gateway base URL.",
     "classifier_version": "fde-classifier-v4",
     "status": "live",
     "is_featured": false
@@ -6916,7 +6916,7 @@
     "posted_at": "2026-07-24T19:28:53-04:00",
     "expires_at": null,
     "classifier_confidence": 0.86,
-    "classifier_reasoning": "Heuristic fallback used because OPENAI_API_KEY was not configured.",
+    "classifier_reasoning": "Deterministic fallback used because the default Claude model requires an OpenAI-compatible gateway base URL.",
     "classifier_version": "fde-classifier-v4",
     "status": "live",
     "is_featured": false
@@ -6947,7 +6947,7 @@
     "posted_at": "2026-07-24T19:28:53-04:00",
     "expires_at": null,
     "classifier_confidence": 0.86,
-    "classifier_reasoning": "Heuristic fallback used because OPENAI_API_KEY was not configured.",
+    "classifier_reasoning": "Deterministic fallback used because the default Claude model requires an OpenAI-compatible gateway base URL.",
     "classifier_version": "fde-classifier-v4",
     "status": "live",
     "is_featured": false
@@ -6978,7 +6978,7 @@
     "posted_at": "2026-07-24T19:28:53-04:00",
     "expires_at": null,
     "classifier_confidence": 0.86,
-    "classifier_reasoning": "Heuristic fallback used because OPENAI_API_KEY was not configured.",
+    "classifier_reasoning": "Deterministic fallback used because the default Claude model requires an OpenAI-compatible gateway base URL.",
     "classifier_version": "fde-classifier-v4",
     "status": "live",
     "is_featured": false
@@ -7009,7 +7009,7 @@
     "posted_at": "2026-07-24T19:28:53-04:00",
     "expires_at": null,
     "classifier_confidence": 0.86,
-    "classifier_reasoning": "Heuristic fallback used because OPENAI_API_KEY was not configured.",
+    "classifier_reasoning": "Deterministic fallback used because the default Claude model requires an OpenAI-compatible gateway base URL.",
     "classifier_version": "fde-classifier-v4",
     "status": "live",
     "is_featured": false
@@ -7040,7 +7040,7 @@
     "posted_at": "2026-07-24T19:28:53-04:00",
     "expires_at": null,
     "classifier_confidence": 0.86,
-    "classifier_reasoning": "Heuristic fallback used because OPENAI_API_KEY was not configured.",
+    "classifier_reasoning": "Deterministic fallback used because the default Claude model requires an OpenAI-compatible gateway base URL.",
     "classifier_version": "fde-classifier-v4",
     "status": "live",
     "is_featured": false
@@ -7102,7 +7102,7 @@
     "posted_at": "2026-07-27T14:02:15-04:00",
     "expires_at": null,
     "classifier_confidence": 0.86,
-    "classifier_reasoning": "Heuristic fallback used because OPENAI_API_KEY was not configured.",
+    "classifier_reasoning": "Deterministic fallback used because the default Claude model requires an OpenAI-compatible gateway base URL.",
     "classifier_version": "fde-classifier-v4",
     "status": "live",
     "is_featured": false
@@ -7133,7 +7133,7 @@
     "posted_at": "2026-07-24T19:28:53-04:00",
     "expires_at": null,
     "classifier_confidence": 0.86,
-    "classifier_reasoning": "Heuristic fallback used because OPENAI_API_KEY was not configured.",
+    "classifier_reasoning": "Deterministic fallback used because the default Claude model requires an OpenAI-compatible gateway base URL.",
     "classifier_version": "fde-classifier-v4",
     "status": "live",
     "is_featured": false
@@ -7164,7 +7164,7 @@
     "posted_at": "2026-07-24T19:28:53-04:00",
     "expires_at": null,
     "classifier_confidence": 0.86,
-    "classifier_reasoning": "Heuristic fallback used because OPENAI_API_KEY was not configured.",
+    "classifier_reasoning": "Deterministic fallback used because the default Claude model requires an OpenAI-compatible gateway base URL.",
     "classifier_version": "fde-classifier-v4",
     "status": "live",
     "is_featured": false
@@ -7195,7 +7195,7 @@
     "posted_at": "2026-07-24T19:28:53-04:00",
     "expires_at": null,
     "classifier_confidence": 0.86,
-    "classifier_reasoning": "Heuristic fallback used because OPENAI_API_KEY was not configured.",
+    "classifier_reasoning": "Deterministic fallback used because the default Claude model requires an OpenAI-compatible gateway base URL.",
     "classifier_version": "fde-classifier-v4",
     "status": "live",
     "is_featured": false
@@ -7226,7 +7226,7 @@
     "posted_at": "2026-07-24T19:28:53-04:00",
     "expires_at": null,
     "classifier_confidence": 0.86,
-    "classifier_reasoning": "Heuristic fallback used because OPENAI_API_KEY was not configured.",
+    "classifier_reasoning": "Deterministic fallback used because the default Claude model requires an OpenAI-compatible gateway base URL.",
     "classifier_version": "fde-classifier-v4",
     "status": "live",
     "is_featured": false
@@ -7257,7 +7257,7 @@
     "posted_at": "2026-07-24T19:28:53-04:00",
     "expires_at": null,
     "classifier_confidence": 0.86,
-    "classifier_reasoning": "Heuristic fallback used because OPENAI_API_KEY was not configured.",
+    "classifier_reasoning": "Deterministic fallback used because the default Claude model requires an OpenAI-compatible gateway base URL.",
     "classifier_version": "fde-classifier-v4",
     "status": "live",
     "is_featured": false
@@ -7288,7 +7288,7 @@
     "posted_at": "2026-07-24T19:28:53-04:00",
     "expires_at": null,
     "classifier_confidence": 0.86,
-    "classifier_reasoning": "Heuristic fallback used because OPENAI_API_KEY was not configured.",
+    "classifier_reasoning": "Deterministic fallback used because the default Claude model requires an OpenAI-compatible gateway base URL.",
     "classifier_version": "fde-classifier-v4",
     "status": "live",
     "is_featured": false
@@ -7349,7 +7349,7 @@
     "posted_at": "2026-07-24T19:28:53-04:00",
     "expires_at": null,
     "classifier_confidence": 0.86,
-    "classifier_reasoning": "Heuristic fallback used because OPENAI_API_KEY was not configured.",
+    "classifier_reasoning": "Deterministic fallback used because the default Claude model requires an OpenAI-compatible gateway base URL.",
     "classifier_version": "fde-classifier-v4",
     "status": "live",
     "is_featured": false
@@ -7382,7 +7382,7 @@
     "posted_at": "2026-07-31T08:47:24-04:00",
     "expires_at": null,
     "classifier_confidence": 0.86,
-    "classifier_reasoning": "Heuristic fallback used because OPENAI_API_KEY was not configured.",
+    "classifier_reasoning": "Deterministic fallback used because the default Claude model requires an OpenAI-compatible gateway base URL.",
     "classifier_version": "fde-classifier-v4",
     "status": "live",
     "is_featured": false
@@ -7752,7 +7752,7 @@
     "posted_at": "2026-07-29T13:49:22-04:00",
     "expires_at": null,
     "classifier_confidence": 0.86,
-    "classifier_reasoning": "Heuristic fallback used because OPENAI_API_KEY was not configured.",
+    "classifier_reasoning": "Deterministic fallback used because the default Claude model requires an OpenAI-compatible gateway base URL.",
     "classifier_version": "fde-classifier-v4",
     "status": "live",
     "is_featured": false
@@ -7783,7 +7783,7 @@
     "posted_at": "2026-07-29T13:49:22-04:00",
     "expires_at": null,
     "classifier_confidence": 0.86,
-    "classifier_reasoning": "Heuristic fallback used because OPENAI_API_KEY was not configured.",
+    "classifier_reasoning": "Deterministic fallback used because the default Claude model requires an OpenAI-compatible gateway base URL.",
     "classifier_version": "fde-classifier-v4",
     "status": "live",
     "is_featured": false
@@ -7814,7 +7814,7 @@
     "posted_at": "2026-07-29T13:49:22-04:00",
     "expires_at": null,
     "classifier_confidence": 0.86,
-    "classifier_reasoning": "Heuristic fallback used because OPENAI_API_KEY was not configured.",
+    "classifier_reasoning": "Deterministic fallback used because the default Claude model requires an OpenAI-compatible gateway base URL.",
     "classifier_version": "fde-classifier-v4",
     "status": "live",
     "is_featured": false
@@ -7845,7 +7845,7 @@
     "posted_at": "2026-07-29T13:49:22-04:00",
     "expires_at": null,
     "classifier_confidence": 0.86,
-    "classifier_reasoning": "Heuristic fallback used because OPENAI_API_KEY was not configured.",
+    "classifier_reasoning": "Deterministic fallback used because the default Claude model requires an OpenAI-compatible gateway base URL.",
     "classifier_version": "fde-classifier-v4",
     "status": "live",
     "is_featured": false
@@ -7876,7 +7876,7 @@
     "posted_at": "2026-07-29T13:49:22-04:00",
     "expires_at": null,
     "classifier_confidence": 0.86,
-    "classifier_reasoning": "Heuristic fallback used because OPENAI_API_KEY was not configured.",
+    "classifier_reasoning": "Deterministic fallback used because the default Claude model requires an OpenAI-compatible gateway base URL.",
     "classifier_version": "fde-classifier-v4",
     "status": "live",
     "is_featured": false
@@ -7907,7 +7907,7 @@
     "posted_at": "2026-07-29T13:49:22-04:00",
     "expires_at": null,
     "classifier_confidence": 0.86,
-    "classifier_reasoning": "Heuristic fallback used because OPENAI_API_KEY was not configured.",
+    "classifier_reasoning": "Deterministic fallback used because the default Claude model requires an OpenAI-compatible gateway base URL.",
     "classifier_version": "fde-classifier-v4",
     "status": "live",
     "is_featured": false
@@ -7938,7 +7938,7 @@
     "posted_at": "2026-07-29T13:49:22-04:00",
     "expires_at": null,
     "classifier_confidence": 0.86,
-    "classifier_reasoning": "Heuristic fallback used because OPENAI_API_KEY was not configured.",
+    "classifier_reasoning": "Deterministic fallback used because the default Claude model requires an OpenAI-compatible gateway base URL.",
     "classifier_version": "fde-classifier-v4",
     "status": "live",
     "is_featured": false
@@ -7999,7 +7999,7 @@
     "posted_at": "2026-07-29T13:49:11-04:00",
     "expires_at": null,
     "classifier_confidence": 0.86,
-    "classifier_reasoning": "Heuristic fallback used because OPENAI_API_KEY was not configured.",
+    "classifier_reasoning": "Deterministic fallback used because the default Claude model requires an OpenAI-compatible gateway base URL.",
     "classifier_version": "fde-classifier-v4",
     "status": "live",
     "is_featured": false
@@ -8030,7 +8030,7 @@
     "posted_at": "2026-07-29T13:49:11-04:00",
     "expires_at": null,
     "classifier_confidence": 0.86,
-    "classifier_reasoning": "Heuristic fallback used because OPENAI_API_KEY was not configured.",
+    "classifier_reasoning": "Deterministic fallback used because the default Claude model requires an OpenAI-compatible gateway base URL.",
     "classifier_version": "fde-classifier-v4",
     "status": "live",
     "is_featured": false
@@ -8061,7 +8061,7 @@
     "posted_at": "2026-07-29T13:49:11-04:00",
     "expires_at": null,
     "classifier_confidence": 0.86,
-    "classifier_reasoning": "Heuristic fallback used because OPENAI_API_KEY was not configured.",
+    "classifier_reasoning": "Deterministic fallback used because the default Claude model requires an OpenAI-compatible gateway base URL.",
     "classifier_version": "fde-classifier-v4",
     "status": "live",
     "is_featured": false
@@ -8092,7 +8092,7 @@
     "posted_at": "2026-07-29T13:49:11-04:00",
     "expires_at": null,
     "classifier_confidence": 0.86,
-    "classifier_reasoning": "Heuristic fallback used because OPENAI_API_KEY was not configured.",
+    "classifier_reasoning": "Deterministic fallback used because the default Claude model requires an OpenAI-compatible gateway base URL.",
     "classifier_version": "fde-classifier-v4",
     "status": "live",
     "is_featured": false
@@ -8123,7 +8123,7 @@
     "posted_at": "2026-07-29T13:41:40-04:00",
     "expires_at": null,
     "classifier_confidence": 0.86,
-    "classifier_reasoning": "Heuristic fallback used because OPENAI_API_KEY was not configured.",
+    "classifier_reasoning": "Deterministic fallback used because the default Claude model requires an OpenAI-compatible gateway base URL.",
     "classifier_version": "fde-classifier-v4",
     "status": "live",
     "is_featured": false
@@ -8154,7 +8154,7 @@
     "posted_at": "2026-07-29T13:49:52-04:00",
     "expires_at": null,
     "classifier_confidence": 0.86,
-    "classifier_reasoning": "Heuristic fallback used because OPENAI_API_KEY was not configured.",
+    "classifier_reasoning": "Deterministic fallback used because the default Claude model requires an OpenAI-compatible gateway base URL.",
     "classifier_version": "fde-classifier-v4",
     "status": "live",
     "is_featured": false
@@ -8185,7 +8185,7 @@
     "posted_at": "2026-07-29T13:49:52-04:00",
     "expires_at": null,
     "classifier_confidence": 0.86,
-    "classifier_reasoning": "Heuristic fallback used because OPENAI_API_KEY was not configured.",
+    "classifier_reasoning": "Deterministic fallback used because the default Claude model requires an OpenAI-compatible gateway base URL.",
     "classifier_version": "fde-classifier-v4",
     "status": "live",
     "is_featured": false
@@ -8216,7 +8216,7 @@
     "posted_at": "2026-07-29T13:49:52-04:00",
     "expires_at": null,
     "classifier_confidence": 0.86,
-    "classifier_reasoning": "Heuristic fallback used because OPENAI_API_KEY was not configured.",
+    "classifier_reasoning": "Deterministic fallback used because the default Claude model requires an OpenAI-compatible gateway base URL.",
     "classifier_version": "fde-classifier-v4",
     "status": "live",
     "is_featured": false
@@ -8248,7 +8248,7 @@
     "posted_at": "2026-07-29T13:49:52-04:00",
     "expires_at": null,
     "classifier_confidence": 0.86,
-    "classifier_reasoning": "Heuristic fallback used because OPENAI_API_KEY was not configured.",
+    "classifier_reasoning": "Deterministic fallback used because the default Claude model requires an OpenAI-compatible gateway base URL.",
     "classifier_version": "fde-classifier-v4",
     "status": "live",
     "is_featured": false
@@ -8279,7 +8279,7 @@
     "posted_at": "2026-07-29T13:49:52-04:00",
     "expires_at": null,
     "classifier_confidence": 0.86,
-    "classifier_reasoning": "Heuristic fallback used because OPENAI_API_KEY was not configured.",
+    "classifier_reasoning": "Deterministic fallback used because the default Claude model requires an OpenAI-compatible gateway base URL.",
     "classifier_version": "fde-classifier-v4",
     "status": "live",
     "is_featured": false
@@ -8310,7 +8310,7 @@
     "posted_at": "2026-07-29T13:49:52-04:00",
     "expires_at": null,
     "classifier_confidence": 0.86,
-    "classifier_reasoning": "Heuristic fallback used because OPENAI_API_KEY was not configured.",
+    "classifier_reasoning": "Deterministic fallback used because the default Claude model requires an OpenAI-compatible gateway base URL.",
     "classifier_version": "fde-classifier-v4",
     "status": "live",
     "is_featured": false
@@ -8340,7 +8340,7 @@
     "posted_at": "2026-07-29T13:49:15-04:00",
     "expires_at": null,
     "classifier_confidence": 0.86,
-    "classifier_reasoning": "Heuristic fallback used because OPENAI_API_KEY was not configured.",
+    "classifier_reasoning": "Deterministic fallback used because the default Claude model requires an OpenAI-compatible gateway base URL.",
     "classifier_version": "fde-classifier-v4",
     "status": "live",
     "is_featured": false
@@ -8371,7 +8371,7 @@
     "posted_at": "2026-07-29T13:49:52-04:00",
     "expires_at": null,
     "classifier_confidence": 0.86,
-    "classifier_reasoning": "Heuristic fallback used because OPENAI_API_KEY was not configured.",
+    "classifier_reasoning": "Deterministic fallback used because the default Claude model requires an OpenAI-compatible gateway base URL.",
     "classifier_version": "fde-classifier-v4",
     "status": "live",
     "is_featured": false
@@ -8402,7 +8402,7 @@
     "posted_at": "2026-07-29T13:49:52-04:00",
     "expires_at": null,
     "classifier_confidence": 0.86,
-    "classifier_reasoning": "Heuristic fallback used because OPENAI_API_KEY was not configured.",
+    "classifier_reasoning": "Deterministic fallback used because the default Claude model requires an OpenAI-compatible gateway base URL.",
     "classifier_version": "fde-classifier-v4",
     "status": "live",
     "is_featured": false
@@ -8432,7 +8432,7 @@
     "posted_at": "2026-07-29T13:49:15-04:00",
     "expires_at": null,
     "classifier_confidence": 0.86,
-    "classifier_reasoning": "Heuristic fallback used because OPENAI_API_KEY was not configured.",
+    "classifier_reasoning": "Deterministic fallback used because the default Claude model requires an OpenAI-compatible gateway base URL.",
     "classifier_version": "fde-classifier-v4",
     "status": "live",
     "is_featured": false
@@ -8463,7 +8463,7 @@
     "posted_at": "2026-07-29T13:49:52-04:00",
     "expires_at": null,
     "classifier_confidence": 0.86,
-    "classifier_reasoning": "Heuristic fallback used because OPENAI_API_KEY was not configured.",
+    "classifier_reasoning": "Deterministic fallback used because the default Claude model requires an OpenAI-compatible gateway base URL.",
     "classifier_version": "fde-classifier-v4",
     "status": "live",
     "is_featured": false
@@ -8494,7 +8494,7 @@
     "posted_at": "2026-07-29T13:49:15-04:00",
     "expires_at": null,
     "classifier_confidence": 0.86,
-    "classifier_reasoning": "Heuristic fallback used because OPENAI_API_KEY was not configured.",
+    "classifier_reasoning": "Deterministic fallback used because the default Claude model requires an OpenAI-compatible gateway base URL.",
     "classifier_version": "fde-classifier-v4",
     "status": "live",
     "is_featured": false
@@ -8524,7 +8524,7 @@
     "posted_at": "2026-07-28T04:41:44-04:00",
     "expires_at": null,
     "classifier_confidence": 0.86,
-    "classifier_reasoning": "Heuristic fallback used because OPENAI_API_KEY was not configured.",
+    "classifier_reasoning": "Deterministic fallback used because the default Claude model requires an OpenAI-compatible gateway base URL.",
     "classifier_version": "fde-classifier-v4",
     "status": "live",
     "is_featured": false
@@ -8586,7 +8586,7 @@
     "posted_at": "2026-07-28T00:17:44-04:00",
     "expires_at": null,
     "classifier_confidence": 0.86,
-    "classifier_reasoning": "Heuristic fallback used because OPENAI_API_KEY was not configured.",
+    "classifier_reasoning": "Deterministic fallback used because the default Claude model requires an OpenAI-compatible gateway base URL.",
     "classifier_version": "fde-classifier-v4",
     "status": "live",
     "is_featured": false
@@ -8678,7 +8678,7 @@
     "posted_at": "2026-07-24T19:29:04-04:00",
     "expires_at": null,
     "classifier_confidence": 0.86,
-    "classifier_reasoning": "Heuristic fallback used because OPENAI_API_KEY was not configured.",
+    "classifier_reasoning": "Deterministic fallback used because the default Claude model requires an OpenAI-compatible gateway base URL.",
     "classifier_version": "fde-classifier-v4",
     "status": "live",
     "is_featured": false
@@ -8709,7 +8709,7 @@
     "posted_at": "2026-07-24T19:29:01-04:00",
     "expires_at": null,
     "classifier_confidence": 0.86,
-    "classifier_reasoning": "Heuristic fallback used because OPENAI_API_KEY was not configured.",
+    "classifier_reasoning": "Deterministic fallback used because the default Claude model requires an OpenAI-compatible gateway base URL.",
     "classifier_version": "fde-classifier-v4",
     "status": "live",
     "is_featured": false
@@ -12199,7 +12199,7 @@
     "posted_at": "2026-07-29T13:50:59-04:00",
     "expires_at": null,
     "classifier_confidence": 0.86,
-    "classifier_reasoning": "Heuristic fallback used because OPENAI_API_KEY was not configured.",
+    "classifier_reasoning": "Deterministic fallback used because the default Claude model requires an OpenAI-compatible gateway base URL.",
     "classifier_version": "fde-classifier-v4",
     "status": "live",
     "is_featured": false
@@ -12230,7 +12230,7 @@
     "posted_at": "2026-07-29T13:50:53-04:00",
     "expires_at": null,
     "classifier_confidence": 0.86,
-    "classifier_reasoning": "Heuristic fallback used because OPENAI_API_KEY was not configured.",
+    "classifier_reasoning": "Deterministic fallback used because the default Claude model requires an OpenAI-compatible gateway base URL.",
     "classifier_version": "fde-classifier-v4",
     "status": "live",
     "is_featured": false
@@ -12294,7 +12294,7 @@
     "posted_at": "2026-07-29T06:01:05-04:00",
     "expires_at": null,
     "classifier_confidence": 0.86,
-    "classifier_reasoning": "Heuristic fallback used because OPENAI_API_KEY was not configured.",
+    "classifier_reasoning": "Deterministic fallback used because the default Claude model requires an OpenAI-compatible gateway base URL.",
     "classifier_version": "fde-classifier-v4",
     "status": "live",
     "is_featured": false
@@ -12325,7 +12325,7 @@
     "posted_at": "2026-07-24T19:29:06-04:00",
     "expires_at": null,
     "classifier_confidence": 0.86,
-    "classifier_reasoning": "Heuristic fallback used because OPENAI_API_KEY was not configured.",
+    "classifier_reasoning": "Deterministic fallback used because the default Claude model requires an OpenAI-compatible gateway base URL.",
     "classifier_version": "fde-classifier-v4",
     "status": "live",
     "is_featured": false
@@ -12355,7 +12355,7 @@
     "posted_at": "2026-07-24T19:29:06-04:00",
     "expires_at": null,
     "classifier_confidence": 0.86,
-    "classifier_reasoning": "Heuristic fallback used because OPENAI_API_KEY was not configured.",
+    "classifier_reasoning": "Deterministic fallback used because the default Claude model requires an OpenAI-compatible gateway base URL.",
     "classifier_version": "fde-classifier-v4",
     "status": "live",
     "is_featured": false
@@ -12386,7 +12386,7 @@
     "posted_at": "2026-07-24T19:29:06-04:00",
     "expires_at": null,
     "classifier_confidence": 0.86,
-    "classifier_reasoning": "Heuristic fallback used because OPENAI_API_KEY was not configured.",
+    "classifier_reasoning": "Deterministic fallback used because the default Claude model requires an OpenAI-compatible gateway base URL.",
     "classifier_version": "fde-classifier-v4",
     "status": "live",
     "is_featured": false
@@ -12417,7 +12417,7 @@
     "posted_at": "2026-07-24T19:29:06-04:00",
     "expires_at": null,
     "classifier_confidence": 0.86,
-    "classifier_reasoning": "Heuristic fallback used because OPENAI_API_KEY was not configured.",
+    "classifier_reasoning": "Deterministic fallback used because the default Claude model requires an OpenAI-compatible gateway base URL.",
     "classifier_version": "fde-classifier-v4",
     "status": "live",
     "is_featured": false
@@ -12448,7 +12448,7 @@
     "posted_at": "2026-07-24T19:29:06-04:00",
     "expires_at": null,
     "classifier_confidence": 0.86,
-    "classifier_reasoning": "Heuristic fallback used because OPENAI_API_KEY was not configured.",
+    "classifier_reasoning": "Deterministic fallback used because the default Claude model requires an OpenAI-compatible gateway base URL.",
     "classifier_version": "fde-classifier-v4",
     "status": "live",
     "is_featured": false
@@ -12478,7 +12478,7 @@
     "posted_at": "2026-07-24T19:29:06-04:00",
     "expires_at": null,
     "classifier_confidence": 0.86,
-    "classifier_reasoning": "Heuristic fallback used because OPENAI_API_KEY was not configured.",
+    "classifier_reasoning": "Deterministic fallback used because the default Claude model requires an OpenAI-compatible gateway base URL.",
     "classifier_version": "fde-classifier-v4",
     "status": "live",
     "is_featured": false
@@ -12509,7 +12509,7 @@
     "posted_at": "2026-07-24T19:28:57-04:00",
     "expires_at": null,
     "classifier_confidence": 0.86,
-    "classifier_reasoning": "Heuristic fallback used because OPENAI_API_KEY was not configured.",
+    "classifier_reasoning": "Deterministic fallback used because the default Claude model requires an OpenAI-compatible gateway base URL.",
     "classifier_version": "fde-classifier-v4",
     "status": "live",
     "is_featured": false
@@ -12540,7 +12540,7 @@
     "posted_at": "2026-07-24T19:28:57-04:00",
     "expires_at": null,
     "classifier_confidence": 0.86,
-    "classifier_reasoning": "Heuristic fallback used because OPENAI_API_KEY was not configured.",
+    "classifier_reasoning": "Deterministic fallback used because the default Claude model requires an OpenAI-compatible gateway base URL.",
     "classifier_version": "fde-classifier-v4",
     "status": "live",
     "is_featured": false
@@ -12570,7 +12570,7 @@
     "posted_at": "2026-07-24T19:28:57-04:00",
     "expires_at": null,
     "classifier_confidence": 0.86,
-    "classifier_reasoning": "Heuristic fallback used because OPENAI_API_KEY was not configured.",
+    "classifier_reasoning": "Deterministic fallback used because the default Claude model requires an OpenAI-compatible gateway base URL.",
     "classifier_version": "fde-classifier-v4",
     "status": "live",
     "is_featured": false
@@ -12601,7 +12601,7 @@
     "posted_at": "2026-07-24T19:28:57-04:00",
     "expires_at": null,
     "classifier_confidence": 0.86,
-    "classifier_reasoning": "Heuristic fallback used because OPENAI_API_KEY was not configured.",
+    "classifier_reasoning": "Deterministic fallback used because the default Claude model requires an OpenAI-compatible gateway base URL.",
     "classifier_version": "fde-classifier-v4",
     "status": "live",
     "is_featured": false
@@ -12632,7 +12632,7 @@
     "posted_at": "2026-07-24T19:28:57-04:00",
     "expires_at": null,
     "classifier_confidence": 0.86,
-    "classifier_reasoning": "Heuristic fallback used because OPENAI_API_KEY was not configured.",
+    "classifier_reasoning": "Deterministic fallback used because the default Claude model requires an OpenAI-compatible gateway base URL.",
     "classifier_version": "fde-classifier-v4",
     "status": "live",
     "is_featured": false
@@ -12663,7 +12663,7 @@
     "posted_at": "2026-07-24T19:28:57-04:00",
     "expires_at": null,
     "classifier_confidence": 0.86,
-    "classifier_reasoning": "Heuristic fallback used because OPENAI_API_KEY was not configured.",
+    "classifier_reasoning": "Deterministic fallback used because the default Claude model requires an OpenAI-compatible gateway base URL.",
     "classifier_version": "fde-classifier-v4",
     "status": "live",
     "is_featured": false
@@ -12694,7 +12694,7 @@
     "posted_at": "2026-07-24T19:28:57-04:00",
     "expires_at": null,
     "classifier_confidence": 0.86,
-    "classifier_reasoning": "Heuristic fallback used because OPENAI_API_KEY was not configured.",
+    "classifier_reasoning": "Deterministic fallback used because the default Claude model requires an OpenAI-compatible gateway base URL.",
     "classifier_version": "fde-classifier-v4",
     "status": "live",
     "is_featured": false
@@ -12725,7 +12725,7 @@
     "posted_at": "2026-07-24T19:28:57-04:00",
     "expires_at": null,
     "classifier_confidence": 0.86,
-    "classifier_reasoning": "Heuristic fallback used because OPENAI_API_KEY was not configured.",
+    "classifier_reasoning": "Deterministic fallback used because the default Claude model requires an OpenAI-compatible gateway base URL.",
     "classifier_version": "fde-classifier-v4",
     "status": "live",
     "is_featured": false
@@ -12756,7 +12756,7 @@
     "posted_at": "2026-07-24T19:28:57-04:00",
     "expires_at": null,
     "classifier_confidence": 0.86,
-    "classifier_reasoning": "Heuristic fallback used because OPENAI_API_KEY was not configured.",
+    "classifier_reasoning": "Deterministic fallback used because the default Claude model requires an OpenAI-compatible gateway base URL.",
     "classifier_version": "fde-classifier-v4",
     "status": "live",
     "is_featured": false
@@ -12789,7 +12789,7 @@
     "posted_at": "2026-07-28T00:17:48-04:00",
     "expires_at": null,
     "classifier_confidence": 0.86,
-    "classifier_reasoning": "Heuristic fallback used because OPENAI_API_KEY was not configured.",
+    "classifier_reasoning": "Deterministic fallback used because the default Claude model requires an OpenAI-compatible gateway base URL.",
     "classifier_version": "fde-classifier-v4",
     "status": "live",
     "is_featured": false
@@ -13035,7 +13035,7 @@
     "posted_at": "2026-07-24T19:29:06-04:00",
     "expires_at": null,
     "classifier_confidence": 0.86,
-    "classifier_reasoning": "Heuristic fallback used because OPENAI_API_KEY was not configured.",
+    "classifier_reasoning": "Deterministic fallback used because the default Claude model requires an OpenAI-compatible gateway base URL.",
     "classifier_version": "fde-classifier-v4",
     "status": "live",
     "is_featured": false
@@ -13065,7 +13065,7 @@
     "posted_at": "2026-07-27T00:47:47-04:00",
     "expires_at": null,
     "classifier_confidence": 0.86,
-    "classifier_reasoning": "Heuristic fallback used because OPENAI_API_KEY was not configured.",
+    "classifier_reasoning": "Deterministic fallback used because the default Claude model requires an OpenAI-compatible gateway base URL.",
     "classifier_version": "fde-classifier-v4",
     "status": "live",
     "is_featured": false
@@ -13096,7 +13096,7 @@
     "posted_at": "2026-07-28T04:57:18-04:00",
     "expires_at": null,
     "classifier_confidence": 0.86,
-    "classifier_reasoning": "Heuristic fallback used because OPENAI_API_KEY was not configured.",
+    "classifier_reasoning": "Deterministic fallback used because the default Claude model requires an OpenAI-compatible gateway base URL.",
     "classifier_version": "fde-classifier-v4",
     "status": "live",
     "is_featured": false
@@ -13127,7 +13127,7 @@
     "posted_at": "2026-07-24T19:29:03-04:00",
     "expires_at": null,
     "classifier_confidence": 0.86,
-    "classifier_reasoning": "Heuristic fallback used because OPENAI_API_KEY was not configured.",
+    "classifier_reasoning": "Deterministic fallback used because the default Claude model requires an OpenAI-compatible gateway base URL.",
     "classifier_version": "fde-classifier-v4",
     "status": "live",
     "is_featured": false
@@ -13158,7 +13158,7 @@
     "posted_at": "2026-07-24T19:29:02-04:00",
     "expires_at": null,
     "classifier_confidence": 0.86,
-    "classifier_reasoning": "Heuristic fallback used because OPENAI_API_KEY was not configured.",
+    "classifier_reasoning": "Deterministic fallback used because the default Claude model requires an OpenAI-compatible gateway base URL.",
     "classifier_version": "fde-classifier-v4",
     "status": "live",
     "is_featured": false
@@ -13188,7 +13188,7 @@
     "posted_at": "2026-07-30T13:54:42-04:00",
     "expires_at": null,
     "classifier_confidence": 0.86,
-    "classifier_reasoning": "Heuristic fallback used because OPENAI_API_KEY was not configured.",
+    "classifier_reasoning": "Deterministic fallback used because the default Claude model requires an OpenAI-compatible gateway base URL.",
     "classifier_version": "fde-classifier-v4",
     "status": "live",
     "is_featured": false
@@ -13249,7 +13249,7 @@
     "posted_at": "2026-07-29T13:51:40-04:00",
     "expires_at": null,
     "classifier_confidence": 0.86,
-    "classifier_reasoning": "Heuristic fallback used because OPENAI_API_KEY was not configured.",
+    "classifier_reasoning": "Deterministic fallback used because the default Claude model requires an OpenAI-compatible gateway base URL.",
     "classifier_version": "fde-classifier-v4",
     "status": "live",
     "is_featured": false
@@ -15345,7 +15345,7 @@
     "posted_at": "2026-07-27T00:47:53-04:00",
     "expires_at": null,
     "classifier_confidence": 0.86,
-    "classifier_reasoning": "Heuristic fallback used because OPENAI_API_KEY was not configured.",
+    "classifier_reasoning": "Deterministic fallback used because the default Claude model requires an OpenAI-compatible gateway base URL.",
     "classifier_version": "fde-classifier-v4",
     "status": "live",
     "is_featured": false
@@ -15499,7 +15499,7 @@
     "posted_at": "2026-07-24T19:29:00-04:00",
     "expires_at": null,
     "classifier_confidence": 0.86,
-    "classifier_reasoning": "Heuristic fallback used because OPENAI_API_KEY was not configured.",
+    "classifier_reasoning": "Deterministic fallback used because the default Claude model requires an OpenAI-compatible gateway base URL.",
     "classifier_version": "fde-classifier-v4",
     "status": "live",
     "is_featured": false
@@ -17307,7 +17307,7 @@
     "posted_at": "2026-05-14T16:32:18-04:00",
     "expires_at": null,
     "classifier_confidence": 0.86,
-    "classifier_reasoning": "Heuristic fallback used because OPENAI_API_KEY was not configured.",
+    "classifier_reasoning": "Deterministic fallback used because the default Claude model requires an OpenAI-compatible gateway base URL.",
     "classifier_version": "fde-classifier-v4",
     "status": "live",
     "is_featured": false
@@ -17338,7 +17338,7 @@
     "posted_at": "2026-05-14T15:35:24-04:00",
     "expires_at": null,
     "classifier_confidence": 0.86,
-    "classifier_reasoning": "Heuristic fallback used because OPENAI_API_KEY was not configured.",
+    "classifier_reasoning": "Deterministic fallback used because the default Claude model requires an OpenAI-compatible gateway base URL.",
     "classifier_version": "fde-classifier-v4",
     "status": "live",
     "is_featured": false
@@ -17368,7 +17368,7 @@
     "posted_at": "2026-05-14T15:35:24-04:00",
     "expires_at": null,
     "classifier_confidence": 0.86,
-    "classifier_reasoning": "Heuristic fallback used because OPENAI_API_KEY was not configured.",
+    "classifier_reasoning": "Deterministic fallback used because the default Claude model requires an OpenAI-compatible gateway base URL.",
     "classifier_version": "fde-classifier-v4",
     "status": "live",
     "is_featured": false
@@ -22349,7 +22349,7 @@
     "posted_at": "2025-09-23T17:11:44.997+00:00",
     "expires_at": null,
     "classifier_confidence": 0.86,
-    "classifier_reasoning": "Heuristic fallback used because OPENAI_API_KEY was not configured.",
+    "classifier_reasoning": "Deterministic fallback used because the default Claude model requires an OpenAI-compatible gateway base URL.",
     "classifier_version": "fde-classifier-v4",
     "status": "live",
     "is_featured": false
@@ -22379,7 +22379,7 @@
     "posted_at": "2025-11-07T03:38:44.951+00:00",
     "expires_at": null,
     "classifier_confidence": 0.86,
-    "classifier_reasoning": "Heuristic fallback used because OPENAI_API_KEY was not configured.",
+    "classifier_reasoning": "Deterministic fallback used because the default Claude model requires an OpenAI-compatible gateway base URL.",
     "classifier_version": "fde-classifier-v4",
     "status": "live",
     "is_featured": false
@@ -22409,7 +22409,7 @@
     "posted_at": "2026-03-04T23:04:56.099+00:00",
     "expires_at": null,
     "classifier_confidence": 0.86,
-    "classifier_reasoning": "Heuristic fallback used because OPENAI_API_KEY was not configured.",
+    "classifier_reasoning": "Deterministic fallback used because the default Claude model requires an OpenAI-compatible gateway base URL.",
     "classifier_version": "fde-classifier-v4",
     "status": "live",
     "is_featured": false
@@ -22439,7 +22439,7 @@
     "posted_at": "2025-08-06T21:06:34.670+00:00",
     "expires_at": null,
     "classifier_confidence": 0.86,
-    "classifier_reasoning": "Heuristic fallback used because OPENAI_API_KEY was not configured.",
+    "classifier_reasoning": "Deterministic fallback used because the default Claude model requires an OpenAI-compatible gateway base URL.",
     "classifier_version": "fde-classifier-v4",
     "status": "live",
     "is_featured": false
@@ -22470,7 +22470,7 @@
     "posted_at": "2025-09-03T22:38:06.592+00:00",
     "expires_at": null,
     "classifier_confidence": 0.86,
-    "classifier_reasoning": "Heuristic fallback used because OPENAI_API_KEY was not configured.",
+    "classifier_reasoning": "Deterministic fallback used because the default Claude model requires an OpenAI-compatible gateway base URL.",
     "classifier_version": "fde-classifier-v4",
     "status": "live",
     "is_featured": false
@@ -22501,7 +22501,7 @@
     "posted_at": "2025-11-13T16:45:32.494+00:00",
     "expires_at": null,
     "classifier_confidence": 0.86,
-    "classifier_reasoning": "Heuristic fallback used because OPENAI_API_KEY was not configured.",
+    "classifier_reasoning": "Deterministic fallback used because the default Claude model requires an OpenAI-compatible gateway base URL.",
     "classifier_version": "fde-classifier-v4",
     "status": "live",
     "is_featured": false
@@ -22532,7 +22532,7 @@
     "posted_at": "2026-06-18T00:17:47.110+00:00",
     "expires_at": null,
     "classifier_confidence": 0.86,
-    "classifier_reasoning": "Heuristic fallback used because OPENAI_API_KEY was not configured.",
+    "classifier_reasoning": "Deterministic fallback used because the default Claude model requires an OpenAI-compatible gateway base URL.",
     "classifier_version": "fde-classifier-v4",
     "status": "live",
     "is_featured": false
@@ -22563,7 +22563,7 @@
     "posted_at": "2025-09-23T17:11:49.288+00:00",
     "expires_at": null,
     "classifier_confidence": 0.86,
-    "classifier_reasoning": "Heuristic fallback used because OPENAI_API_KEY was not configured.",
+    "classifier_reasoning": "Deterministic fallback used because the default Claude model requires an OpenAI-compatible gateway base URL.",
     "classifier_version": "fde-classifier-v4",
     "status": "live",
     "is_featured": false
@@ -22594,7 +22594,7 @@
     "posted_at": "2025-09-23T17:11:47.280+00:00",
     "expires_at": null,
     "classifier_confidence": 0.86,
-    "classifier_reasoning": "Heuristic fallback used because OPENAI_API_KEY was not configured.",
+    "classifier_reasoning": "Deterministic fallback used because the default Claude model requires an OpenAI-compatible gateway base URL.",
     "classifier_version": "fde-classifier-v4",
     "status": "live",
     "is_featured": false
@@ -22625,7 +22625,7 @@
     "posted_at": "2026-06-23T18:06:25.889+00:00",
     "expires_at": null,
     "classifier_confidence": 0.86,
-    "classifier_reasoning": "Heuristic fallback used because OPENAI_API_KEY was not configured.",
+    "classifier_reasoning": "Deterministic fallback used because the default Claude model requires an OpenAI-compatible gateway base URL.",
     "classifier_version": "fde-classifier-v4",
     "status": "live",
     "is_featured": false
@@ -22655,7 +22655,7 @@
     "posted_at": "2026-04-21T22:08:40.179+00:00",
     "expires_at": null,
     "classifier_confidence": 0.86,
-    "classifier_reasoning": "Heuristic fallback used because OPENAI_API_KEY was not configured.",
+    "classifier_reasoning": "Deterministic fallback used because the default Claude model requires an OpenAI-compatible gateway base URL.",
     "classifier_version": "fde-classifier-v4",
     "status": "live",
     "is_featured": false
@@ -22686,7 +22686,7 @@
     "posted_at": "2026-06-18T01:23:12.603+00:00",
     "expires_at": null,
     "classifier_confidence": 0.86,
-    "classifier_reasoning": "Heuristic fallback used because OPENAI_API_KEY was not configured.",
+    "classifier_reasoning": "Deterministic fallback used because the default Claude model requires an OpenAI-compatible gateway base URL.",
     "classifier_version": "fde-classifier-v4",
     "status": "live",
     "is_featured": false
@@ -22717,7 +22717,7 @@
     "posted_at": "2026-04-07T21:32:48.209+00:00",
     "expires_at": null,
     "classifier_confidence": 0.86,
-    "classifier_reasoning": "Heuristic fallback used because OPENAI_API_KEY was not configured.",
+    "classifier_reasoning": "Deterministic fallback used because the default Claude model requires an OpenAI-compatible gateway base URL.",
     "classifier_version": "fde-classifier-v4",
     "status": "live",
     "is_featured": false
@@ -22748,7 +22748,7 @@
     "posted_at": "2025-09-16T03:55:31.798+00:00",
     "expires_at": null,
     "classifier_confidence": 0.86,
-    "classifier_reasoning": "Heuristic fallback used because OPENAI_API_KEY was not configured.",
+    "classifier_reasoning": "Deterministic fallback used because the default Claude model requires an OpenAI-compatible gateway base URL.",
     "classifier_version": "fde-classifier-v4",
     "status": "live",
     "is_featured": false
@@ -22779,7 +22779,7 @@
     "posted_at": "2026-06-18T16:26:38.180+00:00",
     "expires_at": null,
     "classifier_confidence": 0.86,
-    "classifier_reasoning": "Heuristic fallback used because OPENAI_API_KEY was not configured.",
+    "classifier_reasoning": "Deterministic fallback used because the default Claude model requires an OpenAI-compatible gateway base URL.",
     "classifier_version": "fde-classifier-v4",
     "status": "live",
     "is_featured": false
@@ -22810,7 +22810,7 @@
     "posted_at": "2026-07-21T15:09:34.576+00:00",
     "expires_at": null,
     "classifier_confidence": 0.86,
-    "classifier_reasoning": "Heuristic fallback used because OPENAI_API_KEY was not configured.",
+    "classifier_reasoning": "Deterministic fallback used because the default Claude model requires an OpenAI-compatible gateway base URL.",
     "classifier_version": "fde-classifier-v4",
     "status": "live",
     "is_featured": false
@@ -22841,7 +22841,7 @@
     "posted_at": "2026-05-21T17:56:39.330+00:00",
     "expires_at": null,
     "classifier_confidence": 0.8,
-    "classifier_reasoning": "Heuristic fallback used because OPENAI_API_KEY was not configured.",
+    "classifier_reasoning": "Deterministic fallback used because the default Claude model requires an OpenAI-compatible gateway base URL.",
     "classifier_version": "fde-classifier-v4",
     "status": "live",
     "is_featured": false
@@ -22872,7 +22872,7 @@
     "posted_at": "2025-11-20T16:39:11.436+00:00",
     "expires_at": null,
     "classifier_confidence": 0.8,
-    "classifier_reasoning": "Heuristic fallback used because OPENAI_API_KEY was not configured.",
+    "classifier_reasoning": "Deterministic fallback used because the default Claude model requires an OpenAI-compatible gateway base URL.",
     "classifier_version": "fde-classifier-v4",
     "status": "live",
     "is_featured": false
@@ -22903,7 +22903,7 @@
     "posted_at": "2025-11-13T16:46:33.566+00:00",
     "expires_at": null,
     "classifier_confidence": 0.8,
-    "classifier_reasoning": "Heuristic fallback used because OPENAI_API_KEY was not configured.",
+    "classifier_reasoning": "Deterministic fallback used because the default Claude model requires an OpenAI-compatible gateway base URL.",
     "classifier_version": "fde-classifier-v4",
     "status": "live",
     "is_featured": false
@@ -22934,7 +22934,7 @@
     "posted_at": "2025-11-20T16:39:14.461+00:00",
     "expires_at": null,
     "classifier_confidence": 0.8,
-    "classifier_reasoning": "Heuristic fallback used because OPENAI_API_KEY was not configured.",
+    "classifier_reasoning": "Deterministic fallback used because the default Claude model requires an OpenAI-compatible gateway base URL.",
     "classifier_version": "fde-classifier-v4",
     "status": "live",
     "is_featured": false
@@ -22964,7 +22964,7 @@
     "posted_at": "2025-12-10T22:20:16.127+00:00",
     "expires_at": null,
     "classifier_confidence": 0.8,
-    "classifier_reasoning": "Heuristic fallback used because OPENAI_API_KEY was not configured.",
+    "classifier_reasoning": "Deterministic fallback used because the default Claude model requires an OpenAI-compatible gateway base URL.",
     "classifier_version": "fde-classifier-v4",
     "status": "live",
     "is_featured": false
@@ -22995,7 +22995,7 @@
     "posted_at": "2025-11-20T16:39:08.398+00:00",
     "expires_at": null,
     "classifier_confidence": 0.8,
-    "classifier_reasoning": "Heuristic fallback used because OPENAI_API_KEY was not configured.",
+    "classifier_reasoning": "Deterministic fallback used because the default Claude model requires an OpenAI-compatible gateway base URL.",
     "classifier_version": "fde-classifier-v4",
     "status": "live",
     "is_featured": false
@@ -23025,7 +23025,7 @@
     "posted_at": "2026-03-04T23:03:50.161+00:00",
     "expires_at": null,
     "classifier_confidence": 0.8,
-    "classifier_reasoning": "Heuristic fallback used because OPENAI_API_KEY was not configured.",
+    "classifier_reasoning": "Deterministic fallback used because the default Claude model requires an OpenAI-compatible gateway base URL.",
     "classifier_version": "fde-classifier-v4",
     "status": "live",
     "is_featured": false
@@ -23055,7 +23055,7 @@
     "posted_at": "2025-11-15T01:25:39.198+00:00",
     "expires_at": null,
     "classifier_confidence": 0.8,
-    "classifier_reasoning": "Heuristic fallback used because OPENAI_API_KEY was not configured.",
+    "classifier_reasoning": "Deterministic fallback used because the default Claude model requires an OpenAI-compatible gateway base URL.",
     "classifier_version": "fde-classifier-v4",
     "status": "live",
     "is_featured": false
@@ -23479,7 +23479,7 @@
     "posted_at": "2026-07-22T15:57:40.409+00:00",
     "expires_at": null,
     "classifier_confidence": 0.86,
-    "classifier_reasoning": "Heuristic fallback used because OPENAI_API_KEY was not configured.",
+    "classifier_reasoning": "Deterministic fallback used because the default Claude model requires an OpenAI-compatible gateway base URL.",
     "classifier_version": "fde-classifier-v4",
     "status": "live",
     "is_featured": false
@@ -23510,7 +23510,7 @@
     "posted_at": "2026-07-21T08:28:03.534+00:00",
     "expires_at": null,
     "classifier_confidence": 0.86,
-    "classifier_reasoning": "Heuristic fallback used because OPENAI_API_KEY was not configured.",
+    "classifier_reasoning": "Deterministic fallback used because the default Claude model requires an OpenAI-compatible gateway base URL.",
     "classifier_version": "fde-classifier-v4",
     "status": "live",
     "is_featured": false
@@ -23541,7 +23541,7 @@
     "posted_at": "2026-04-23T22:13:01.639+00:00",
     "expires_at": null,
     "classifier_confidence": 0.86,
-    "classifier_reasoning": "Heuristic fallback used because OPENAI_API_KEY was not configured.",
+    "classifier_reasoning": "Deterministic fallback used because the default Claude model requires an OpenAI-compatible gateway base URL.",
     "classifier_version": "fde-classifier-v4",
     "status": "live",
     "is_featured": false
@@ -23572,7 +23572,7 @@
     "posted_at": "2026-04-23T22:14:17.349+00:00",
     "expires_at": null,
     "classifier_confidence": 0.86,
-    "classifier_reasoning": "Heuristic fallback used because OPENAI_API_KEY was not configured.",
+    "classifier_reasoning": "Deterministic fallback used because the default Claude model requires an OpenAI-compatible gateway base URL.",
     "classifier_version": "fde-classifier-v4",
     "status": "live",
     "is_featured": false
@@ -23602,7 +23602,7 @@
     "posted_at": "2026-06-23T21:42:55.046+00:00",
     "expires_at": null,
     "classifier_confidence": 0.86,
-    "classifier_reasoning": "Heuristic fallback used because OPENAI_API_KEY was not configured.",
+    "classifier_reasoning": "Deterministic fallback used because the default Claude model requires an OpenAI-compatible gateway base URL.",
     "classifier_version": "fde-classifier-v4",
     "status": "live",
     "is_featured": false
@@ -23996,7 +23996,7 @@
     "posted_at": "2026-02-23T15:21:58.157+00:00",
     "expires_at": null,
     "classifier_confidence": 0.86,
-    "classifier_reasoning": "Heuristic fallback used because OPENAI_API_KEY was not configured.",
+    "classifier_reasoning": "Deterministic fallback used because the default Claude model requires an OpenAI-compatible gateway base URL.",
     "classifier_version": "fde-classifier-v4",
     "status": "live",
     "is_featured": false
@@ -24026,7 +24026,7 @@
     "posted_at": "2026-02-13T15:03:41.122+00:00",
     "expires_at": null,
     "classifier_confidence": 0.86,
-    "classifier_reasoning": "Heuristic fallback used because OPENAI_API_KEY was not configured.",
+    "classifier_reasoning": "Deterministic fallback used because the default Claude model requires an OpenAI-compatible gateway base URL.",
     "classifier_version": "fde-classifier-v4",
     "status": "live",
     "is_featured": false
@@ -24816,7 +24816,7 @@
     "posted_at": "2026-07-10T21:07:25.459+00:00",
     "expires_at": null,
     "classifier_confidence": 0.86,
-    "classifier_reasoning": "Heuristic fallback used because OPENAI_API_KEY was not configured.",
+    "classifier_reasoning": "Deterministic fallback used because the default Claude model requires an OpenAI-compatible gateway base URL.",
     "classifier_version": "fde-classifier-v4",
     "status": "live",
     "is_featured": false
@@ -24846,7 +24846,7 @@
     "posted_at": "2026-03-12T16:50:24.228+00:00",
     "expires_at": null,
     "classifier_confidence": 0.86,
-    "classifier_reasoning": "Heuristic fallback used because OPENAI_API_KEY was not configured.",
+    "classifier_reasoning": "Deterministic fallback used because the default Claude model requires an OpenAI-compatible gateway base URL.",
     "classifier_version": "fde-classifier-v4",
     "status": "live",
     "is_featured": false
@@ -24906,7 +24906,7 @@
     "posted_at": "2026-02-26T21:10:46.893+00:00",
     "expires_at": null,
     "classifier_confidence": 0.86,
-    "classifier_reasoning": "Heuristic fallback used because OPENAI_API_KEY was not configured.",
+    "classifier_reasoning": "Deterministic fallback used because the default Claude model requires an OpenAI-compatible gateway base URL.",
     "classifier_version": "fde-classifier-v4",
     "status": "live",
     "is_featured": false
@@ -24937,7 +24937,7 @@
     "posted_at": "2026-07-10T21:06:54.941+00:00",
     "expires_at": null,
     "classifier_confidence": 0.86,
-    "classifier_reasoning": "Heuristic fallback used because OPENAI_API_KEY was not configured.",
+    "classifier_reasoning": "Deterministic fallback used because the default Claude model requires an OpenAI-compatible gateway base URL.",
     "classifier_version": "fde-classifier-v4",
     "status": "live",
     "is_featured": false
@@ -24968,7 +24968,7 @@
     "posted_at": "2026-07-10T21:09:39.622+00:00",
     "expires_at": null,
     "classifier_confidence": 0.86,
-    "classifier_reasoning": "Heuristic fallback used because OPENAI_API_KEY was not configured.",
+    "classifier_reasoning": "Deterministic fallback used because the default Claude model requires an OpenAI-compatible gateway base URL.",
     "classifier_version": "fde-classifier-v4",
     "status": "live",
     "is_featured": false
@@ -24999,7 +24999,7 @@
     "posted_at": "2026-07-10T21:07:20.055+00:00",
     "expires_at": null,
     "classifier_confidence": 0.86,
-    "classifier_reasoning": "Heuristic fallback used because OPENAI_API_KEY was not configured.",
+    "classifier_reasoning": "Deterministic fallback used because the default Claude model requires an OpenAI-compatible gateway base URL.",
     "classifier_version": "fde-classifier-v4",
     "status": "live",
     "is_featured": false
@@ -25030,7 +25030,7 @@
     "posted_at": "2026-07-10T21:12:11.861+00:00",
     "expires_at": null,
     "classifier_confidence": 0.86,
-    "classifier_reasoning": "Heuristic fallback used because OPENAI_API_KEY was not configured.",
+    "classifier_reasoning": "Deterministic fallback used because the default Claude model requires an OpenAI-compatible gateway base URL.",
     "classifier_version": "fde-classifier-v4",
     "status": "live",
     "is_featured": false
@@ -25061,7 +25061,7 @@
     "posted_at": "2026-07-10T21:15:48.380+00:00",
     "expires_at": null,
     "classifier_confidence": 0.86,
-    "classifier_reasoning": "Heuristic fallback used because OPENAI_API_KEY was not configured.",
+    "classifier_reasoning": "Deterministic fallback used because the default Claude model requires an OpenAI-compatible gateway base URL.",
     "classifier_version": "fde-classifier-v4",
     "status": "live",
     "is_featured": false
@@ -25279,7 +25279,7 @@
     "posted_at": "2024-10-03T13:18:40.616Z",
     "expires_at": null,
     "classifier_confidence": 0.8,
-    "classifier_reasoning": "Heuristic fallback used because OPENAI_API_KEY was not configured.",
+    "classifier_reasoning": "Deterministic fallback used because the default Claude model requires an OpenAI-compatible gateway base URL.",
     "classifier_version": "fde-classifier-v4",
     "status": "live",
     "is_featured": false
@@ -25310,7 +25310,7 @@
     "posted_at": "2024-10-03T13:05:13.676Z",
     "expires_at": null,
     "classifier_confidence": 0.8,
-    "classifier_reasoning": "Heuristic fallback used because OPENAI_API_KEY was not configured.",
+    "classifier_reasoning": "Deterministic fallback used because the default Claude model requires an OpenAI-compatible gateway base URL.",
     "classifier_version": "fde-classifier-v4",
     "status": "live",
     "is_featured": false
@@ -25341,7 +25341,7 @@
     "posted_at": "2024-05-09T14:33:01.644Z",
     "expires_at": null,
     "classifier_confidence": 0.8,
-    "classifier_reasoning": "Heuristic fallback used because OPENAI_API_KEY was not configured.",
+    "classifier_reasoning": "Deterministic fallback used because the default Claude model requires an OpenAI-compatible gateway base URL.",
     "classifier_version": "fde-classifier-v4",
     "status": "live",
     "is_featured": false
@@ -25372,7 +25372,7 @@
     "posted_at": "2024-03-22T20:44:35.560Z",
     "expires_at": null,
     "classifier_confidence": 0.8,
-    "classifier_reasoning": "Heuristic fallback used because OPENAI_API_KEY was not configured.",
+    "classifier_reasoning": "Deterministic fallback used because the default Claude model requires an OpenAI-compatible gateway base URL.",
     "classifier_version": "fde-classifier-v4",
     "status": "live",
     "is_featured": false
@@ -25508,7 +25508,7 @@
     "posted_at": "2025-02-07T18:53:43.524Z",
     "expires_at": null,
     "classifier_confidence": 0.86,
-    "classifier_reasoning": "Heuristic fallback used because OPENAI_API_KEY was not configured.",
+    "classifier_reasoning": "Deterministic fallback used because the default Claude model requires an OpenAI-compatible gateway base URL.",
     "classifier_version": "fde-classifier-v4",
     "status": "live",
     "is_featured": false
@@ -25632,7 +25632,7 @@
     "posted_at": "2025-10-29T18:27:22.352Z",
     "expires_at": null,
     "classifier_confidence": 0.8,
-    "classifier_reasoning": "Heuristic fallback used because OPENAI_API_KEY was not configured.",
+    "classifier_reasoning": "Deterministic fallback used because the default Claude model requires an OpenAI-compatible gateway base URL.",
     "classifier_version": "fde-classifier-v4",
     "status": "live",
     "is_featured": false
@@ -25663,7 +25663,7 @@
     "posted_at": "2025-10-29T20:26:17.197Z",
     "expires_at": null,
     "classifier_confidence": 0.8,
-    "classifier_reasoning": "Heuristic fallback used because OPENAI_API_KEY was not configured.",
+    "classifier_reasoning": "Deterministic fallback used because the default Claude model requires an OpenAI-compatible gateway base URL.",
     "classifier_version": "fde-classifier-v4",
     "status": "live",
     "is_featured": false
@@ -25694,7 +25694,7 @@
     "posted_at": "2025-10-29T20:27:12.326Z",
     "expires_at": null,
     "classifier_confidence": 0.8,
-    "classifier_reasoning": "Heuristic fallback used because OPENAI_API_KEY was not configured.",
+    "classifier_reasoning": "Deterministic fallback used because the default Claude model requires an OpenAI-compatible gateway base URL.",
     "classifier_version": "fde-classifier-v4",
     "status": "live",
     "is_featured": false
@@ -25725,7 +25725,7 @@
     "posted_at": "2025-08-07T07:32:41.467Z",
     "expires_at": null,
     "classifier_confidence": 0.8,
-    "classifier_reasoning": "Heuristic fallback used because OPENAI_API_KEY was not configured.",
+    "classifier_reasoning": "Deterministic fallback used because the default Claude model requires an OpenAI-compatible gateway base URL.",
     "classifier_version": "fde-classifier-v4",
     "status": "live",
     "is_featured": false
@@ -25756,7 +25756,7 @@
     "posted_at": "2026-05-04T21:46:12.356Z",
     "expires_at": null,
     "classifier_confidence": 0.8,
-    "classifier_reasoning": "Heuristic fallback used because OPENAI_API_KEY was not configured.",
+    "classifier_reasoning": "Deterministic fallback used because the default Claude model requires an OpenAI-compatible gateway base URL.",
     "classifier_version": "fde-classifier-v4",
     "status": "live",
     "is_featured": false
@@ -25787,7 +25787,7 @@
     "posted_at": "2023-09-14T01:23:51.418Z",
     "expires_at": null,
     "classifier_confidence": 0.8,
-    "classifier_reasoning": "Heuristic fallback used because OPENAI_API_KEY was not configured.",
+    "classifier_reasoning": "Deterministic fallback used because the default Claude model requires an OpenAI-compatible gateway base URL.",
     "classifier_version": "fde-classifier-v4",
     "status": "live",
     "is_featured": false
@@ -25818,7 +25818,7 @@
     "posted_at": "2023-09-14T01:31:59.967Z",
     "expires_at": null,
     "classifier_confidence": 0.8,
-    "classifier_reasoning": "Heuristic fallback used because OPENAI_API_KEY was not configured.",
+    "classifier_reasoning": "Deterministic fallback used because the default Claude model requires an OpenAI-compatible gateway base URL.",
     "classifier_version": "fde-classifier-v4",
     "status": "live",
     "is_featured": false
@@ -25849,7 +25849,7 @@
     "posted_at": "2026-04-22T19:15:03.941Z",
     "expires_at": null,
     "classifier_confidence": 0.8,
-    "classifier_reasoning": "Heuristic fallback used because OPENAI_API_KEY was not configured.",
+    "classifier_reasoning": "Deterministic fallback used because the default Claude model requires an OpenAI-compatible gateway base URL.",
     "classifier_version": "fde-classifier-v4",
     "status": "live",
     "is_featured": false
@@ -25880,7 +25880,7 @@
     "posted_at": "2026-02-10T14:31:06.362Z",
     "expires_at": null,
     "classifier_confidence": 0.8,
-    "classifier_reasoning": "Heuristic fallback used because OPENAI_API_KEY was not configured.",
+    "classifier_reasoning": "Deterministic fallback used because the default Claude model requires an OpenAI-compatible gateway base URL.",
     "classifier_version": "fde-classifier-v4",
     "status": "live",
     "is_featured": false
@@ -25911,7 +25911,7 @@
     "posted_at": "2026-03-09T20:23:36.622Z",
     "expires_at": null,
     "classifier_confidence": 0.8,
-    "classifier_reasoning": "Heuristic fallback used because OPENAI_API_KEY was not configured.",
+    "classifier_reasoning": "Deterministic fallback used because the default Claude model requires an OpenAI-compatible gateway base URL.",
     "classifier_version": "fde-classifier-v4",
     "status": "live",
     "is_featured": false
@@ -25942,7 +25942,7 @@
     "posted_at": "2025-05-29T22:37:51.671Z",
     "expires_at": null,
     "classifier_confidence": 0.8,
-    "classifier_reasoning": "Heuristic fallback used because OPENAI_API_KEY was not configured.",
+    "classifier_reasoning": "Deterministic fallback used because the default Claude model requires an OpenAI-compatible gateway base URL.",
     "classifier_version": "fde-classifier-v4",
     "status": "live",
     "is_featured": false
@@ -25973,7 +25973,7 @@
     "posted_at": "2022-10-05T17:24:59.942Z",
     "expires_at": null,
     "classifier_confidence": 0.8,
-    "classifier_reasoning": "Heuristic fallback used because OPENAI_API_KEY was not configured.",
+    "classifier_reasoning": "Deterministic fallback used because the default Claude model requires an OpenAI-compatible gateway base URL.",
     "classifier_version": "fde-classifier-v4",
     "status": "live",
     "is_featured": false
@@ -26004,7 +26004,7 @@
     "posted_at": "2018-04-24T16:45:55.697Z",
     "expires_at": null,
     "classifier_confidence": 0.8,
-    "classifier_reasoning": "Heuristic fallback used because OPENAI_API_KEY was not configured.",
+    "classifier_reasoning": "Deterministic fallback used because the default Claude model requires an OpenAI-compatible gateway base URL.",
     "classifier_version": "fde-classifier-v4",
     "status": "live",
     "is_featured": false
@@ -26035,7 +26035,7 @@
     "posted_at": "2024-09-04T14:05:29.183Z",
     "expires_at": null,
     "classifier_confidence": 0.8,
-    "classifier_reasoning": "Heuristic fallback used because OPENAI_API_KEY was not configured.",
+    "classifier_reasoning": "Deterministic fallback used because the default Claude model requires an OpenAI-compatible gateway base URL.",
     "classifier_version": "fde-classifier-v4",
     "status": "live",
     "is_featured": false
@@ -26066,7 +26066,7 @@
     "posted_at": "2024-09-05T10:44:25.056Z",
     "expires_at": null,
     "classifier_confidence": 0.8,
-    "classifier_reasoning": "Heuristic fallback used because OPENAI_API_KEY was not configured.",
+    "classifier_reasoning": "Deterministic fallback used because the default Claude model requires an OpenAI-compatible gateway base URL.",
     "classifier_version": "fde-classifier-v4",
     "status": "live",
     "is_featured": false
@@ -26097,7 +26097,7 @@
     "posted_at": "2026-01-16T17:52:11.312Z",
     "expires_at": null,
     "classifier_confidence": 0.8,
-    "classifier_reasoning": "Heuristic fallback used because OPENAI_API_KEY was not configured.",
+    "classifier_reasoning": "Deterministic fallback used because the default Claude model requires an OpenAI-compatible gateway base URL.",
     "classifier_version": "fde-classifier-v4",
     "status": "live",
     "is_featured": false
@@ -26128,7 +26128,7 @@
     "posted_at": "2026-01-16T17:51:52.386Z",
     "expires_at": null,
     "classifier_confidence": 0.8,
-    "classifier_reasoning": "Heuristic fallback used because OPENAI_API_KEY was not configured.",
+    "classifier_reasoning": "Deterministic fallback used because the default Claude model requires an OpenAI-compatible gateway base URL.",
     "classifier_version": "fde-classifier-v4",
     "status": "live",
     "is_featured": false
@@ -26159,7 +26159,7 @@
     "posted_at": "2024-05-01T17:20:33.368Z",
     "expires_at": null,
     "classifier_confidence": 0.8,
-    "classifier_reasoning": "Heuristic fallback used because OPENAI_API_KEY was not configured.",
+    "classifier_reasoning": "Deterministic fallback used because the default Claude model requires an OpenAI-compatible gateway base URL.",
     "classifier_version": "fde-classifier-v4",
     "status": "live",
     "is_featured": false
@@ -26190,7 +26190,7 @@
     "posted_at": "2025-10-07T17:15:18.124Z",
     "expires_at": null,
     "classifier_confidence": 0.8,
-    "classifier_reasoning": "Heuristic fallback used because OPENAI_API_KEY was not configured.",
+    "classifier_reasoning": "Deterministic fallback used because the default Claude model requires an OpenAI-compatible gateway base URL.",
     "classifier_version": "fde-classifier-v4",
     "status": "live",
     "is_featured": false
@@ -26221,7 +26221,7 @@
     "posted_at": "2026-06-15T16:08:02.343Z",
     "expires_at": null,
     "classifier_confidence": 0.8,
-    "classifier_reasoning": "Heuristic fallback used because OPENAI_API_KEY was not configured.",
+    "classifier_reasoning": "Deterministic fallback used because the default Claude model requires an OpenAI-compatible gateway base URL.",
     "classifier_version": "fde-classifier-v4",
     "status": "live",
     "is_featured": false
@@ -26252,7 +26252,7 @@
     "posted_at": "2021-10-18T09:03:40.776Z",
     "expires_at": null,
     "classifier_confidence": 0.8,
-    "classifier_reasoning": "Heuristic fallback used because OPENAI_API_KEY was not configured.",
+    "classifier_reasoning": "Deterministic fallback used because the default Claude model requires an OpenAI-compatible gateway base URL.",
     "classifier_version": "fde-classifier-v4",
     "status": "live",
     "is_featured": false
@@ -26283,7 +26283,7 @@
     "posted_at": "2026-05-29T12:46:59.423Z",
     "expires_at": null,
     "classifier_confidence": 0.8,
-    "classifier_reasoning": "Heuristic fallback used because OPENAI_API_KEY was not configured.",
+    "classifier_reasoning": "Deterministic fallback used because the default Claude model requires an OpenAI-compatible gateway base URL.",
     "classifier_version": "fde-classifier-v4",
     "status": "live",
     "is_featured": false
@@ -26314,7 +26314,7 @@
     "posted_at": "2026-06-30T20:01:06.026Z",
     "expires_at": null,
     "classifier_confidence": 0.8,
-    "classifier_reasoning": "Heuristic fallback used because OPENAI_API_KEY was not configured.",
+    "classifier_reasoning": "Deterministic fallback used because the default Claude model requires an OpenAI-compatible gateway base URL.",
     "classifier_version": "fde-classifier-v4",
     "status": "live",
     "is_featured": false
@@ -26345,7 +26345,7 @@
     "posted_at": "2025-08-01T12:15:20.204Z",
     "expires_at": null,
     "classifier_confidence": 0.8,
-    "classifier_reasoning": "Heuristic fallback used because OPENAI_API_KEY was not configured.",
+    "classifier_reasoning": "Deterministic fallback used because the default Claude model requires an OpenAI-compatible gateway base URL.",
     "classifier_version": "fde-classifier-v4",
     "status": "live",
     "is_featured": false
@@ -26376,7 +26376,7 @@
     "posted_at": "2016-02-24T23:37:05.251Z",
     "expires_at": null,
     "classifier_confidence": 0.8,
-    "classifier_reasoning": "Heuristic fallback used because OPENAI_API_KEY was not configured.",
+    "classifier_reasoning": "Deterministic fallback used because the default Claude model requires an OpenAI-compatible gateway base URL.",
     "classifier_version": "fde-classifier-v4",
     "status": "live",
     "is_featured": false
@@ -26407,7 +26407,7 @@
     "posted_at": "2024-08-05T23:14:32.789Z",
     "expires_at": null,
     "classifier_confidence": 0.8,
-    "classifier_reasoning": "Heuristic fallback used because OPENAI_API_KEY was not configured.",
+    "classifier_reasoning": "Deterministic fallback used because the default Claude model requires an OpenAI-compatible gateway base URL.",
     "classifier_version": "fde-classifier-v4",
     "status": "live",
     "is_featured": false
@@ -26438,7 +26438,7 @@
     "posted_at": "2026-03-10T12:26:55.948Z",
     "expires_at": null,
     "classifier_confidence": 0.8,
-    "classifier_reasoning": "Heuristic fallback used because OPENAI_API_KEY was not configured.",
+    "classifier_reasoning": "Deterministic fallback used because the default Claude model requires an OpenAI-compatible gateway base URL.",
     "classifier_version": "fde-classifier-v4",
     "status": "live",
     "is_featured": false
@@ -26469,7 +26469,7 @@
     "posted_at": "2026-07-01T19:22:25.074Z",
     "expires_at": null,
     "classifier_confidence": 0.8,
-    "classifier_reasoning": "Heuristic fallback used because OPENAI_API_KEY was not configured.",
+    "classifier_reasoning": "Deterministic fallback used because the default Claude model requires an OpenAI-compatible gateway base URL.",
     "classifier_version": "fde-classifier-v4",
     "status": "live",
     "is_featured": false
@@ -26500,7 +26500,7 @@
     "posted_at": "2026-05-06T11:47:58.850Z",
     "expires_at": null,
     "classifier_confidence": 0.8,
-    "classifier_reasoning": "Heuristic fallback used because OPENAI_API_KEY was not configured.",
+    "classifier_reasoning": "Deterministic fallback used because the default Claude model requires an OpenAI-compatible gateway base URL.",
     "classifier_version": "fde-classifier-v4",
     "status": "live",
     "is_featured": false
@@ -26531,7 +26531,7 @@
     "posted_at": "2026-02-19T11:39:13.186Z",
     "expires_at": null,
     "classifier_confidence": 0.8,
-    "classifier_reasoning": "Heuristic fallback used because OPENAI_API_KEY was not configured.",
+    "classifier_reasoning": "Deterministic fallback used because the default Claude model requires an OpenAI-compatible gateway base URL.",
     "classifier_version": "fde-classifier-v4",
     "status": "live",
     "is_featured": false
@@ -26562,7 +26562,7 @@
     "posted_at": "2021-07-01T22:17:59.795Z",
     "expires_at": null,
     "classifier_confidence": 0.8,
-    "classifier_reasoning": "Heuristic fallback used because OPENAI_API_KEY was not configured.",
+    "classifier_reasoning": "Deterministic fallback used because the default Claude model requires an OpenAI-compatible gateway base URL.",
     "classifier_version": "fde-classifier-v4",
     "status": "live",
     "is_featured": false
@@ -26593,7 +26593,7 @@
     "posted_at": "2025-12-11T22:26:14.632Z",
     "expires_at": null,
     "classifier_confidence": 0.8,
-    "classifier_reasoning": "Heuristic fallback used because OPENAI_API_KEY was not configured.",
+    "classifier_reasoning": "Deterministic fallback used because the default Claude model requires an OpenAI-compatible gateway base URL.",
     "classifier_version": "fde-classifier-v4",
     "status": "live",
     "is_featured": false
@@ -26624,7 +26624,7 @@
     "posted_at": "2022-06-30T21:20:50.237Z",
     "expires_at": null,
     "classifier_confidence": 0.8,
-    "classifier_reasoning": "Heuristic fallback used because OPENAI_API_KEY was not configured.",
+    "classifier_reasoning": "Deterministic fallback used because the default Claude model requires an OpenAI-compatible gateway base URL.",
     "classifier_version": "fde-classifier-v4",
     "status": "live",
     "is_featured": false
@@ -26655,7 +26655,7 @@
     "posted_at": "2021-07-01T22:12:43.840Z",
     "expires_at": null,
     "classifier_confidence": 0.8,
-    "classifier_reasoning": "Heuristic fallback used because OPENAI_API_KEY was not configured.",
+    "classifier_reasoning": "Deterministic fallback used because the default Claude model requires an OpenAI-compatible gateway base URL.",
     "classifier_version": "fde-classifier-v4",
     "status": "live",
     "is_featured": false
@@ -26686,7 +26686,7 @@
     "posted_at": "2024-10-03T13:41:24.157Z",
     "expires_at": null,
     "classifier_confidence": 0.8,
-    "classifier_reasoning": "Heuristic fallback used because OPENAI_API_KEY was not configured.",
+    "classifier_reasoning": "Deterministic fallback used because the default Claude model requires an OpenAI-compatible gateway base URL.",
     "classifier_version": "fde-classifier-v4",
     "status": "live",
     "is_featured": false
@@ -26717,7 +26717,7 @@
     "posted_at": "2025-03-07T15:16:48.655Z",
     "expires_at": null,
     "classifier_confidence": 0.8,
-    "classifier_reasoning": "Heuristic fallback used because OPENAI_API_KEY was not configured.",
+    "classifier_reasoning": "Deterministic fallback used because the default Claude model requires an OpenAI-compatible gateway base URL.",
     "classifier_version": "fde-classifier-v4",
     "status": "live",
     "is_featured": false
@@ -26748,7 +26748,7 @@
     "posted_at": "2024-10-03T13:32:57.899Z",
     "expires_at": null,
     "classifier_confidence": 0.8,
-    "classifier_reasoning": "Heuristic fallback used because OPENAI_API_KEY was not configured.",
+    "classifier_reasoning": "Deterministic fallback used because the default Claude model requires an OpenAI-compatible gateway base URL.",
     "classifier_version": "fde-classifier-v4",
     "status": "live",
     "is_featured": false
@@ -26779,7 +26779,7 @@
     "posted_at": "2009-12-05T00:00:00.000Z",
     "expires_at": null,
     "classifier_confidence": 0.8,
-    "classifier_reasoning": "Heuristic fallback used because OPENAI_API_KEY was not configured.",
+    "classifier_reasoning": "Deterministic fallback used because the default Claude model requires an OpenAI-compatible gateway base URL.",
     "classifier_version": "fde-classifier-v4",
     "status": "live",
     "is_featured": false
@@ -26810,7 +26810,7 @@
     "posted_at": "2026-07-23T12:53:46.989Z",
     "expires_at": null,
     "classifier_confidence": 0.8,
-    "classifier_reasoning": "Heuristic fallback used because OPENAI_API_KEY was not configured.",
+    "classifier_reasoning": "Deterministic fallback used because the default Claude model requires an OpenAI-compatible gateway base URL.",
     "classifier_version": "fde-classifier-v4",
     "status": "live",
     "is_featured": false
@@ -26841,7 +26841,7 @@
     "posted_at": "2026-06-29T14:44:20.702Z",
     "expires_at": null,
     "classifier_confidence": 0.8,
-    "classifier_reasoning": "Heuristic fallback used because OPENAI_API_KEY was not configured.",
+    "classifier_reasoning": "Deterministic fallback used because the default Claude model requires an OpenAI-compatible gateway base URL.",
     "classifier_version": "fde-classifier-v4",
     "status": "live",
     "is_featured": false
@@ -26872,7 +26872,7 @@
     "posted_at": "2025-08-01T12:23:17.609Z",
     "expires_at": null,
     "classifier_confidence": 0.8,
-    "classifier_reasoning": "Heuristic fallback used because OPENAI_API_KEY was not configured.",
+    "classifier_reasoning": "Deterministic fallback used because the default Claude model requires an OpenAI-compatible gateway base URL.",
     "classifier_version": "fde-classifier-v4",
     "status": "live",
     "is_featured": false
@@ -26903,7 +26903,7 @@
     "posted_at": "2025-06-13T23:45:06.552Z",
     "expires_at": null,
     "classifier_confidence": 0.8,
-    "classifier_reasoning": "Heuristic fallback used because OPENAI_API_KEY was not configured.",
+    "classifier_reasoning": "Deterministic fallback used because the default Claude model requires an OpenAI-compatible gateway base URL.",
     "classifier_version": "fde-classifier-v4",
     "status": "live",
     "is_featured": false
@@ -26934,7 +26934,7 @@
     "posted_at": "2021-07-01T17:35:48.948Z",
     "expires_at": null,
     "classifier_confidence": 0.8,
-    "classifier_reasoning": "Heuristic fallback used because OPENAI_API_KEY was not configured.",
+    "classifier_reasoning": "Deterministic fallback used because the default Claude model requires an OpenAI-compatible gateway base URL.",
     "classifier_version": "fde-classifier-v4",
     "status": "live",
     "is_featured": false
@@ -26965,7 +26965,7 @@
     "posted_at": "2022-06-30T22:50:16.107Z",
     "expires_at": null,
     "classifier_confidence": 0.8,
-    "classifier_reasoning": "Heuristic fallback used because OPENAI_API_KEY was not configured.",
+    "classifier_reasoning": "Deterministic fallback used because the default Claude model requires an OpenAI-compatible gateway base URL.",
     "classifier_version": "fde-classifier-v4",
     "status": "live",
     "is_featured": false
@@ -26996,7 +26996,7 @@
     "posted_at": "2022-06-30T22:59:08.115Z",
     "expires_at": null,
     "classifier_confidence": 0.8,
-    "classifier_reasoning": "Heuristic fallback used because OPENAI_API_KEY was not configured.",
+    "classifier_reasoning": "Deterministic fallback used because the default Claude model requires an OpenAI-compatible gateway base URL.",
     "classifier_version": "fde-classifier-v4",
     "status": "live",
     "is_featured": false
@@ -27027,7 +27027,7 @@
     "posted_at": "2014-01-23T00:00:00.000Z",
     "expires_at": null,
     "classifier_confidence": 0.8,
-    "classifier_reasoning": "Heuristic fallback used because OPENAI_API_KEY was not configured.",
+    "classifier_reasoning": "Deterministic fallback used because the default Claude model requires an OpenAI-compatible gateway base URL.",
     "classifier_version": "fde-classifier-v4",
     "status": "live",
     "is_featured": false
@@ -27058,7 +27058,7 @@
     "posted_at": "2026-06-15T12:55:12.500Z",
     "expires_at": null,
     "classifier_confidence": 0.8,
-    "classifier_reasoning": "Heuristic fallback used because OPENAI_API_KEY was not configured.",
+    "classifier_reasoning": "Deterministic fallback used because the default Claude model requires an OpenAI-compatible gateway base URL.",
     "classifier_version": "fde-classifier-v4",
     "status": "live",
     "is_featured": false
@@ -27089,7 +27089,7 @@
     "posted_at": "2022-04-22T15:31:39.656Z",
     "expires_at": null,
     "classifier_confidence": 0.8,
-    "classifier_reasoning": "Heuristic fallback used because OPENAI_API_KEY was not configured.",
+    "classifier_reasoning": "Deterministic fallback used because the default Claude model requires an OpenAI-compatible gateway base URL.",
     "classifier_version": "fde-classifier-v4",
     "status": "live",
     "is_featured": false
@@ -27120,7 +27120,7 @@
     "posted_at": "2026-06-29T11:38:59.235Z",
     "expires_at": null,
     "classifier_confidence": 0.8,
-    "classifier_reasoning": "Heuristic fallback used because OPENAI_API_KEY was not configured.",
+    "classifier_reasoning": "Deterministic fallback used because the default Claude model requires an OpenAI-compatible gateway base URL.",
     "classifier_version": "fde-classifier-v4",
     "status": "live",
     "is_featured": false
@@ -27151,7 +27151,7 @@
     "posted_at": "2021-10-19T00:03:27.848Z",
     "expires_at": null,
     "classifier_confidence": 0.8,
-    "classifier_reasoning": "Heuristic fallback used because OPENAI_API_KEY was not configured.",
+    "classifier_reasoning": "Deterministic fallback used because the default Claude model requires an OpenAI-compatible gateway base URL.",
     "classifier_version": "fde-classifier-v4",
     "status": "live",
     "is_featured": false
@@ -27182,7 +27182,7 @@
     "posted_at": "2026-03-02T20:11:08.859Z",
     "expires_at": null,
     "classifier_confidence": 0.8,
-    "classifier_reasoning": "Heuristic fallback used because OPENAI_API_KEY was not configured.",
+    "classifier_reasoning": "Deterministic fallback used because the default Claude model requires an OpenAI-compatible gateway base URL.",
     "classifier_version": "fde-classifier-v4",
     "status": "live",
     "is_featured": false
@@ -27213,7 +27213,7 @@
     "posted_at": "2012-12-20T00:00:00.000Z",
     "expires_at": null,
     "classifier_confidence": 0.8,
-    "classifier_reasoning": "Heuristic fallback used because OPENAI_API_KEY was not configured.",
+    "classifier_reasoning": "Deterministic fallback used because the default Claude model requires an OpenAI-compatible gateway base URL.",
     "classifier_version": "fde-classifier-v4",
     "status": "live",
     "is_featured": false
@@ -27244,7 +27244,7 @@
     "posted_at": "2023-01-11T17:48:32.149Z",
     "expires_at": null,
     "classifier_confidence": 0.8,
-    "classifier_reasoning": "Heuristic fallback used because OPENAI_API_KEY was not configured.",
+    "classifier_reasoning": "Deterministic fallback used because the default Claude model requires an OpenAI-compatible gateway base URL.",
     "classifier_version": "fde-classifier-v4",
     "status": "live",
     "is_featured": false
@@ -27275,7 +27275,7 @@
     "posted_at": "2026-01-12T22:44:10.743Z",
     "expires_at": null,
     "classifier_confidence": 0.8,
-    "classifier_reasoning": "Heuristic fallback used because OPENAI_API_KEY was not configured.",
+    "classifier_reasoning": "Deterministic fallback used because the default Claude model requires an OpenAI-compatible gateway base URL.",
     "classifier_version": "fde-classifier-v4",
     "status": "live",
     "is_featured": false
@@ -27306,7 +27306,7 @@
     "posted_at": "2026-05-07T17:41:25.599Z",
     "expires_at": null,
     "classifier_confidence": 0.8,
-    "classifier_reasoning": "Heuristic fallback used because OPENAI_API_KEY was not configured.",
+    "classifier_reasoning": "Deterministic fallback used because the default Claude model requires an OpenAI-compatible gateway base URL.",
     "classifier_version": "fde-classifier-v4",
     "status": "live",
     "is_featured": false
@@ -27337,7 +27337,7 @@
     "posted_at": "2026-05-07T17:42:12.869Z",
     "expires_at": null,
     "classifier_confidence": 0.8,
-    "classifier_reasoning": "Heuristic fallback used because OPENAI_API_KEY was not configured.",
+    "classifier_reasoning": "Deterministic fallback used because the default Claude model requires an OpenAI-compatible gateway base URL.",
     "classifier_version": "fde-classifier-v4",
     "status": "live",
     "is_featured": false
@@ -27368,7 +27368,7 @@
     "posted_at": "2022-04-07T21:32:31.098Z",
     "expires_at": null,
     "classifier_confidence": 0.8,
-    "classifier_reasoning": "Heuristic fallback used because OPENAI_API_KEY was not configured.",
+    "classifier_reasoning": "Deterministic fallback used because the default Claude model requires an OpenAI-compatible gateway base URL.",
     "classifier_version": "fde-classifier-v4",
     "status": "live",
     "is_featured": false
@@ -27399,7 +27399,7 @@
     "posted_at": "2020-06-02T19:49:49.658Z",
     "expires_at": null,
     "classifier_confidence": 0.8,
-    "classifier_reasoning": "Heuristic fallback used because OPENAI_API_KEY was not configured.",
+    "classifier_reasoning": "Deterministic fallback used because the default Claude model requires an OpenAI-compatible gateway base URL.",
     "classifier_version": "fde-classifier-v4",
     "status": "live",
     "is_featured": false
@@ -27430,7 +27430,7 @@
     "posted_at": "2025-07-29T19:30:16.882Z",
     "expires_at": null,
     "classifier_confidence": 0.8,
-    "classifier_reasoning": "Heuristic fallback used because OPENAI_API_KEY was not configured.",
+    "classifier_reasoning": "Deterministic fallback used because the default Claude model requires an OpenAI-compatible gateway base URL.",
     "classifier_version": "fde-classifier-v4",
     "status": "live",
     "is_featured": false
@@ -27461,7 +27461,7 @@
     "posted_at": "2020-04-15T21:27:49.956Z",
     "expires_at": null,
     "classifier_confidence": 0.8,
-    "classifier_reasoning": "Heuristic fallback used because OPENAI_API_KEY was not configured.",
+    "classifier_reasoning": "Deterministic fallback used because the default Claude model requires an OpenAI-compatible gateway base URL.",
     "classifier_version": "fde-classifier-v4",
     "status": "live",
     "is_featured": false
@@ -27492,7 +27492,7 @@
     "posted_at": "2022-01-26T23:55:32.430Z",
     "expires_at": null,
     "classifier_confidence": 0.8,
-    "classifier_reasoning": "Heuristic fallback used because OPENAI_API_KEY was not configured.",
+    "classifier_reasoning": "Deterministic fallback used because the default Claude model requires an OpenAI-compatible gateway base URL.",
     "classifier_version": "fde-classifier-v4",
     "status": "live",
     "is_featured": false
@@ -27523,7 +27523,7 @@
     "posted_at": "2025-02-07T19:57:42.841Z",
     "expires_at": null,
     "classifier_confidence": 0.8,
-    "classifier_reasoning": "Heuristic fallback used because OPENAI_API_KEY was not configured.",
+    "classifier_reasoning": "Deterministic fallback used because the default Claude model requires an OpenAI-compatible gateway base URL.",
     "classifier_version": "fde-classifier-v4",
     "status": "live",
     "is_featured": false
@@ -27585,7 +27585,7 @@
     "posted_at": "2026-06-24T19:13:14.474Z",
     "expires_at": null,
     "classifier_confidence": 0.8,
-    "classifier_reasoning": "Heuristic fallback used because OPENAI_API_KEY was not configured.",
+    "classifier_reasoning": "Deterministic fallback used because the default Claude model requires an OpenAI-compatible gateway base URL.",
     "classifier_version": "fde-classifier-v4",
     "status": "live",
     "is_featured": false
@@ -27616,7 +27616,7 @@
     "posted_at": "2026-03-20T19:02:47.514Z",
     "expires_at": null,
     "classifier_confidence": 0.8,
-    "classifier_reasoning": "Heuristic fallback used because OPENAI_API_KEY was not configured.",
+    "classifier_reasoning": "Deterministic fallback used because the default Claude model requires an OpenAI-compatible gateway base URL.",
     "classifier_version": "fde-classifier-v4",
     "status": "live",
     "is_featured": false
@@ -27678,7 +27678,7 @@
     "posted_at": "2026-03-20T19:05:22.216Z",
     "expires_at": null,
     "classifier_confidence": 0.8,
-    "classifier_reasoning": "Heuristic fallback used because OPENAI_API_KEY was not configured.",
+    "classifier_reasoning": "Deterministic fallback used because the default Claude model requires an OpenAI-compatible gateway base URL.",
     "classifier_version": "fde-classifier-v4",
     "status": "live",
     "is_featured": false
@@ -27709,7 +27709,7 @@
     "posted_at": "2026-04-23T21:17:05.046Z",
     "expires_at": null,
     "classifier_confidence": 0.8,
-    "classifier_reasoning": "Heuristic fallback used because OPENAI_API_KEY was not configured.",
+    "classifier_reasoning": "Deterministic fallback used because the default Claude model requires an OpenAI-compatible gateway base URL.",
     "classifier_version": "fde-classifier-v4",
     "status": "live",
     "is_featured": false

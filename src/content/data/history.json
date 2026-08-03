@@ -81,6 +81,6 @@
     "date": "2026-08-03T00:00:00.000Z",
     "live_role_count": 384,
     "source": "site_live_jobs",
-    "notes": "Weekly snapshot of current live FDE roles displayed on the site after applying the stricter board definition, OpenAI forward-deployed-only rule, and URL audit."
+    "notes": "Weekly snapshot of current live FDE roles displayed on the site."
   }
 ]

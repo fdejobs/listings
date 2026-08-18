@@ -26909,11 +26909,11 @@
     "source_url": "https://jobs.lever.co/palantir/8f15d728-99cc-4003-9add-928bd72a7f30",
     "first_seen_at": "2026-05-29T21:45:00.000Z",
     "posted_at": "2024-09-04T14:05:29.183Z",
-    "expires_at": null,
+    "expires_at": "2026-08-18T12:27:59.385Z",
     "classifier_confidence": 0.8,
     "classifier_reasoning": "Heuristic fallback used because OPENAI_API_KEY was not configured.",
     "classifier_version": "fde-classifier-v4",
-    "status": "live",
+    "status": "expired",
     "is_featured": false
   },
   {
@@ -26940,11 +26940,11 @@
     "source_url": "https://jobs.lever.co/palantir/909875b4-1940-41bd-b08d-a269c7235100",
     "first_seen_at": "2026-05-29T21:45:00.000Z",
     "posted_at": "2024-09-05T10:44:25.056Z",
-    "expires_at": null,
+    "expires_at": "2026-08-18T12:27:59.385Z",
     "classifier_confidence": 0.8,
     "classifier_reasoning": "Heuristic fallback used because OPENAI_API_KEY was not configured.",
     "classifier_version": "fde-classifier-v4",
-    "status": "live",
+    "status": "expired",
     "is_featured": false
   },
   {

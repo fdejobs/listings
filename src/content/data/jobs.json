@@ -29861,11 +29861,11 @@
     "source_url": "https://jobs.ashbyhq.com/sierra/013d54ba-6658-448b-9de6-c7ba8dcad77f",
     "first_seen_at": "2026-06-17T13:02:09.899Z",
     "posted_at": "2026-06-17T01:06:40.272+00:00",
-    "expires_at": null,
+    "expires_at": "2026-08-26T00:48:29.980Z",
     "classifier_confidence": 0.8,
     "classifier_reasoning": "Heuristic fallback used because OPENAI_API_KEY was not configured.",
     "classifier_version": "fde-classifier-v4",
-    "status": "live",
+    "status": "expired",
     "is_featured": false
   },
   {

@@ -27245,6 +27245,37 @@
     "is_featured": false
   },
   {
+    "slug": "palantir-forward-deployed-infrastructure-engineer-new-grad-uk-government-london-2026-08",
+    "company_slug": "palantir",
+    "title": "Forward Deployed Infrastructure Engineer, New Grad - UK Government",
+    "role_family": "deployed_engineer",
+    "location_type": "onsite",
+    "locations": [
+      "London",
+      "United Kingdom"
+    ],
+    "travel_pct_band": "none",
+    "customer_facing_pct_band": "med_25_50",
+    "comp_base_min": 160000,
+    "comp_base_max": 245000,
+    "comp_currency": "USD",
+    "equity_offered": false,
+    "equity_note": null,
+    "benefits_tags": [],
+    "description_md": "No description provided by source.",
+    "apply_url": "https://jobs.lever.co/palantir/cadc0eb2-2703-43e4-8e4f-41edf5b071c6",
+    "source_provider": "lever",
+    "source_url": "https://jobs.lever.co/palantir/cadc0eb2-2703-43e4-8e4f-41edf5b071c6",
+    "first_seen_at": "2026-08-31T12:16:59.503Z",
+    "posted_at": "2026-08-31T07:29:41.774Z",
+    "expires_at": null,
+    "classifier_confidence": 0.8,
+    "classifier_reasoning": "Heuristic fallback used because OPENAI_API_KEY was not configured.",
+    "classifier_version": "fde-classifier-v4",
+    "status": "live",
+    "is_featured": false
+  },
+  {
     "slug": "palantir-forward-deployed-infrastructure-engineer-new-grad-us-government-new-york-2025-10",
     "company_slug": "palantir",
     "title": "Forward Deployed Infrastructure Engineer, New Grad - US Government",

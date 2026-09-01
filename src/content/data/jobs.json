@@ -3818,11 +3818,11 @@
     "source_url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8330188002",
     "first_seen_at": "2026-05-17T12:47:52.545Z",
     "posted_at": "2026-08-11T14:54:34-04:00",
-    "expires_at": null,
+    "expires_at": "2026-09-01T02:50:55.741Z",
     "classifier_confidence": 0.86,
     "classifier_reasoning": "Heuristic fallback used because OPENAI_API_KEY was not configured.",
     "classifier_version": "fde-classifier-v4",
-    "status": "live",
+    "status": "expired",
     "is_featured": false
   },
   {
@@ -4182,11 +4182,11 @@
     "source_url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8298792002",
     "first_seen_at": "2026-05-17T12:47:52.545Z",
     "posted_at": "2026-08-11T14:54:34-04:00",
-    "expires_at": null,
+    "expires_at": "2026-09-01T02:50:55.741Z",
     "classifier_confidence": 0.86,
     "classifier_reasoning": "Heuristic fallback used because OPENAI_API_KEY was not configured.",
     "classifier_version": "fde-classifier-v4",
-    "status": "live",
+    "status": "expired",
     "is_featured": false
   },
   {
@@ -6277,7 +6277,7 @@
     "source_provider": "greenhouse",
     "source_url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8585021002",
     "first_seen_at": "2026-06-12T23:02:51.164Z",
-    "posted_at": "2026-08-18T14:24:03-04:00",
+    "posted_at": "2026-08-31T19:59:48-04:00",
     "expires_at": null,
     "classifier_confidence": 0.86,
     "classifier_reasoning": "Heuristic fallback used because OPENAI_API_KEY was not configured.",

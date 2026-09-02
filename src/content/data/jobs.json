@@ -4600,7 +4600,7 @@
     "source_provider": "greenhouse",
     "source_url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8546367002",
     "first_seen_at": "2026-07-08T13:46:42.729Z",
-    "posted_at": "2026-09-02T06:16:27-04:00",
+    "posted_at": "2026-09-02T08:47:43-04:00",
     "expires_at": null,
     "classifier_confidence": 0.86,
     "classifier_reasoning": "Heuristic fallback used because OPENAI_API_KEY was not configured.",
@@ -12847,7 +12847,7 @@
   {
     "slug": "databricks-sr-ai-engineer-fde-forward-deployed-engineer-u-s-federal-sector-virginia-2026-08",
     "company_slug": "databricks",
-    "title": "Sr. AI Engineer - FDE (Forward Deployed Engineer) - U.S. Federal Sector",
+    "title": "AI Engineer - FDE (Forward Deployed Engineer) - U.S. Federal Sector",
     "role_family": "deployed_engineer",
     "location_type": "onsite",
     "locations": [
@@ -12869,7 +12869,7 @@
     "source_provider": "greenhouse",
     "source_url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8760167002",
     "first_seen_at": "2026-08-28T21:36:17.257Z",
-    "posted_at": "2026-09-02T00:26:55-04:00",
+    "posted_at": "2026-09-02T10:23:09-04:00",
     "expires_at": null,
     "classifier_confidence": 0.86,
     "classifier_reasoning": "Heuristic fallback used because OPENAI_API_KEY was not configured.",
@@ -14513,7 +14513,7 @@
     "source_provider": "greenhouse",
     "source_url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8578144002",
     "first_seen_at": "2026-06-04T11:36:19.236Z",
-    "posted_at": "2026-09-02T00:36:31-04:00",
+    "posted_at": "2026-09-02T10:32:55-04:00",
     "expires_at": null,
     "classifier_confidence": 0.86,
     "classifier_reasoning": "Heuristic fallback used because OPENAI_API_KEY was not configured.",
@@ -22422,11 +22422,11 @@
     "source_url": "https://jobs.ashbyhq.com/modal/9fadb51f-ce11-41b1-84d5-470e66cc8ee9",
     "first_seen_at": "2026-05-17T12:47:54.047Z",
     "posted_at": "2026-02-23T19:17:06.760+00:00",
-    "expires_at": "2026-08-31T22:13:34.205Z",
+    "expires_at": null,
     "classifier_confidence": 0.86,
     "classifier_reasoning": "Heuristic fallback used because OPENAI_API_KEY was not configured.",
     "classifier_version": "fde-classifier-v4",
-    "status": "expired",
+    "status": "live",
     "is_featured": false
   },
   {
@@ -22452,11 +22452,11 @@
     "source_url": "https://jobs.ashbyhq.com/modal/0d9c249b-f305-4b0e-b325-3242ac7274e7",
     "first_seen_at": "2026-05-17T12:47:54.050Z",
     "posted_at": "2026-03-03T21:17:31.108+00:00",
-    "expires_at": "2026-08-31T22:13:34.205Z",
+    "expires_at": null,
     "classifier_confidence": 0.86,
     "classifier_reasoning": "Heuristic fallback used because OPENAI_API_KEY was not configured.",
     "classifier_version": "fde-classifier-v4",
-    "status": "expired",
+    "status": "live",
     "is_featured": false
   },
   {
@@ -22482,11 +22482,11 @@
     "source_url": "https://jobs.ashbyhq.com/modal/cbbbee50-3d3b-4873-8ae8-ff4b885b8e54",
     "first_seen_at": "2026-05-17T12:47:54.048Z",
     "posted_at": "2025-09-23T12:52:22.371+00:00",
-    "expires_at": "2026-08-31T22:13:34.205Z",
+    "expires_at": null,
     "classifier_confidence": 0.86,
     "classifier_reasoning": "Heuristic fallback used because OPENAI_API_KEY was not configured.",
     "classifier_version": "fde-classifier-v4",
-    "status": "expired",
+    "status": "live",
     "is_featured": false
   },
   {
@@ -22512,11 +22512,11 @@
     "source_url": "https://jobs.ashbyhq.com/modal/c85a3e3d-f1a5-479d-91e3-9e0b34279a82",
     "first_seen_at": "2026-05-17T12:47:54.049Z",
     "posted_at": "2026-01-12T17:28:31.740+00:00",
-    "expires_at": "2026-08-31T22:13:34.205Z",
+    "expires_at": null,
     "classifier_confidence": 0.86,
     "classifier_reasoning": "Heuristic fallback used because OPENAI_API_KEY was not configured.",
     "classifier_version": "fde-classifier-v4",
-    "status": "expired",
+    "status": "live",
     "is_featured": false
   },
   {

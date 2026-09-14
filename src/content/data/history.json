@@ -112,5 +112,11 @@
     "live_role_count": 391,
     "source": "site_live_jobs",
     "notes": "Weekly snapshot of current live FDE roles displayed on the site."
+  },
+  {
+    "date": "2026-09-14T00:00:00.000Z",
+    "live_role_count": 393,
+    "source": "site_live_jobs",
+    "notes": "Weekly snapshot of current live FDE roles displayed on the site."
   }
 ]

@@ -6672,11 +6672,11 @@
     "source_url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8585021002",
     "first_seen_at": "2026-06-12T23:02:51.164Z",
     "posted_at": "2026-08-31T19:59:48-04:00",
-    "expires_at": null,
+    "expires_at": "2026-09-15T05:32:21.895Z",
     "classifier_confidence": 0.86,
     "classifier_reasoning": "Heuristic fallback used because OPENAI_API_KEY was not configured.",
     "classifier_version": "fde-classifier-v4",
-    "status": "live",
+    "status": "expired",
     "is_featured": false
   },
   {

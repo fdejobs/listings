@@ -2254,7 +2254,7 @@
   {
     "slug": "cohere-forward-deployed-engineer-agentic-platform-uk-europe-2026-05",
     "company_slug": "cohere",
-    "title": "Forward Deployed Engineer, Agentic Platform (UK/Europe)",
+    "title": "Forward Deployed Engineer, Agentic Platform (Europe)",
     "role_family": "deployed_engineer",
     "location_type": "onsite",
     "locations": [
@@ -15007,7 +15007,7 @@
     "source_provider": "greenhouse",
     "source_url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8534142002",
     "first_seen_at": "2026-06-10T12:40:19.648Z",
-    "posted_at": "2026-09-02T00:25:53-04:00",
+    "posted_at": "2026-09-23T05:34:10-04:00",
     "expires_at": null,
     "classifier_confidence": 0.86,
     "classifier_reasoning": "Heuristic fallback used because OPENAI_API_KEY was not configured.",

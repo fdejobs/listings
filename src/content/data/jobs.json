@@ -30387,6 +30387,37 @@
     "is_featured": false
   },
   {
+    "slug": "palantir-forward-deployed-software-engineer-us-government-kitsap-2026-09",
+    "company_slug": "palantir",
+    "title": "Forward Deployed Software Engineer - US Government",
+    "role_family": "deployed_engineer",
+    "location_type": "onsite",
+    "locations": [
+      "Kitsap",
+      "WA"
+    ],
+    "travel_pct_band": "none",
+    "customer_facing_pct_band": "med_25_50",
+    "comp_base_min": 160000,
+    "comp_base_max": 245000,
+    "comp_currency": "USD",
+    "equity_offered": false,
+    "equity_note": null,
+    "benefits_tags": [],
+    "description_md": "No description provided by source.",
+    "apply_url": "https://jobs.lever.co/palantir/a2e9ab0f-4dd1-4744-92b9-edc7ae393c58",
+    "source_provider": "lever",
+    "source_url": "https://jobs.lever.co/palantir/a2e9ab0f-4dd1-4744-92b9-edc7ae393c58",
+    "first_seen_at": "2026-09-24T16:13:12.543Z",
+    "posted_at": "2026-09-24T14:50:21.850Z",
+    "expires_at": null,
+    "classifier_confidence": 0.8,
+    "classifier_reasoning": "Heuristic fallback used because OPENAI_API_KEY was not configured.",
+    "classifier_version": "fde-classifier-v4",
+    "status": "live",
+    "is_featured": false
+  },
+  {
     "slug": "palantir-forward-deployed-software-engineer-us-government-new-york-ny-2020-06",
     "company_slug": "palantir",
     "title": "Forward Deployed Software Engineer - US Government",

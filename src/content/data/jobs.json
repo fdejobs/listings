@@ -9810,7 +9810,7 @@
     "source_provider": "greenhouse",
     "source_url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8362737002",
     "first_seen_at": "2026-05-17T12:47:52.573Z",
-    "posted_at": "2026-09-21T13:22:12-04:00",
+    "posted_at": "2026-09-25T04:04:06-04:00",
     "expires_at": null,
     "classifier_confidence": 0.86,
     "classifier_reasoning": "Heuristic fallback used because OPENAI_API_KEY was not configured.",
@@ -28395,11 +28395,11 @@
     "source_url": "https://jobs.lever.co/palantir/cf5f44ff-1b0b-4752-bcd4-2dc88798f25b",
     "first_seen_at": "2026-07-11T01:54:19.914Z",
     "posted_at": "2026-07-10T22:42:44.034Z",
-    "expires_at": "2026-08-08T01:00:21.678Z",
+    "expires_at": null,
     "classifier_confidence": 0.8,
     "classifier_reasoning": "Heuristic fallback used because OPENAI_API_KEY was not configured.",
     "classifier_version": "fde-classifier-v4",
-    "status": "expired",
+    "status": "live",
     "is_featured": false
   },
   {
@@ -28426,11 +28426,11 @@
     "source_url": "https://jobs.lever.co/palantir/8f362a1f-1eff-4327-94c1-ff46e2101c69",
     "first_seen_at": "2026-07-11T01:54:19.914Z",
     "posted_at": "2026-07-10T22:43:13.762Z",
-    "expires_at": "2026-08-08T01:00:21.678Z",
+    "expires_at": null,
     "classifier_confidence": 0.8,
     "classifier_reasoning": "Heuristic fallback used because OPENAI_API_KEY was not configured.",
     "classifier_version": "fde-classifier-v4",
-    "status": "expired",
+    "status": "live",
     "is_featured": false
   },
   {
@@ -28457,11 +28457,11 @@
     "source_url": "https://jobs.lever.co/palantir/3db7e40a-28e0-4ad1-96c5-93de5bc96aa9",
     "first_seen_at": "2026-07-11T01:54:19.914Z",
     "posted_at": "2026-07-10T22:42:13.024Z",
-    "expires_at": "2026-08-08T01:00:21.678Z",
+    "expires_at": null,
     "classifier_confidence": 0.8,
     "classifier_reasoning": "Heuristic fallback used because OPENAI_API_KEY was not configured.",
     "classifier_version": "fde-classifier-v4",
-    "status": "expired",
+    "status": "live",
     "is_featured": false
   },
   {

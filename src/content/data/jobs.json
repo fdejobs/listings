@@ -10185,11 +10185,11 @@
     "source_url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8556371002",
     "first_seen_at": "2026-07-15T13:17:39.532Z",
     "posted_at": "2026-08-27T18:33:42-04:00",
-    "expires_at": null,
+    "expires_at": "2026-10-05T03:17:03.004Z",
     "classifier_confidence": 0.86,
     "classifier_reasoning": "Heuristic fallback used because OPENAI_API_KEY was not configured.",
     "classifier_version": "fde-classifier-v4",
-    "status": "live",
+    "status": "expired",
     "is_featured": false
   },
   {
@@ -19234,11 +19234,11 @@
     "source_url": "https://jobs.ashbyhq.com/elevenlabs/5459cb9d-5396-4729-9507-22729582781a",
     "first_seen_at": "2026-07-20T02:12:01.312Z",
     "posted_at": "2026-07-20T01:21:20.786+00:00",
-    "expires_at": null,
+    "expires_at": "2026-10-05T03:17:03.004Z",
     "classifier_confidence": 0.86,
     "classifier_reasoning": "Heuristic fallback used because OPENAI_API_KEY was not configured.",
     "classifier_version": "fde-classifier-v4",
-    "status": "live",
+    "status": "expired",
     "is_featured": false
   },
   {

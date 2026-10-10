@@ -19535,11 +19535,11 @@
     "source_url": "https://jobs.ashbyhq.com/elevenlabs/16ed3af9-e4a7-4b59-8767-7771604d9165",
     "first_seen_at": "2026-08-18T00:44:39.260Z",
     "posted_at": "2026-08-17T21:15:43.802+00:00",
-    "expires_at": null,
+    "expires_at": "2026-10-10T03:35:27.894Z",
     "classifier_confidence": 0.86,
     "classifier_reasoning": "Heuristic fallback used because OPENAI_API_KEY was not configured.",
     "classifier_version": "fde-classifier-v4",
-    "status": "live",
+    "status": "expired",
     "is_featured": false
   },
   {

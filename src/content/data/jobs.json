@@ -19837,7 +19837,7 @@
     "source_provider": "ashby",
     "source_url": "https://jobs.ashbyhq.com/elevenlabs/6c4c57c1-ec72-42ba-af3a-eb7aebbde2e6",
     "first_seen_at": "2026-05-30T14:30:00.000Z",
-    "posted_at": "2026-09-08T21:58:04.004+00:00",
+    "posted_at": "2026-10-14T01:20:28.144+00:00",
     "expires_at": null,
     "classifier_confidence": 0.86,
     "classifier_reasoning": "Heuristic fallback used because OPENAI_API_KEY was not configured.",

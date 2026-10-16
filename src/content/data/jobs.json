@@ -732,11 +732,11 @@
     "source_url": "https://job-boards.greenhouse.io/anthropic/jobs/5302966008",
     "first_seen_at": "2026-08-13T01:14:45.873Z",
     "posted_at": "2026-08-21T12:50:32-04:00",
-    "expires_at": null,
+    "expires_at": "2026-10-16T02:28:02.958Z",
     "classifier_confidence": 0.86,
     "classifier_reasoning": "Heuristic fallback used because OPENAI_API_KEY was not configured.",
     "classifier_version": "fde-classifier-v4",
-    "status": "live",
+    "status": "expired",
     "is_featured": false
   },
   {

@@ -19457,11 +19457,11 @@
     "source_url": "https://jobs.ashbyhq.com/elevenlabs/1f668ed5-49e9-4726-881f-7818733103b1",
     "first_seen_at": "2026-06-29T19:45:40.213Z",
     "posted_at": "2026-06-29T15:22:57.628+00:00",
-    "expires_at": null,
+    "expires_at": "2026-10-19T02:36:35.373Z",
     "classifier_confidence": 0.8,
     "classifier_reasoning": "Heuristic fallback used because OPENAI_API_KEY was not configured.",
     "classifier_version": "fde-classifier-v4",
-    "status": "live",
+    "status": "expired",
     "is_featured": false
   },
   {
@@ -23908,11 +23908,11 @@
     "source_url": "https://jobs.ashbyhq.com/modal/0d9c249b-f305-4b0e-b325-3242ac7274e7",
     "first_seen_at": "2026-05-17T12:47:54.050Z",
     "posted_at": "2026-03-03T21:17:31.108+00:00",
-    "expires_at": null,
+    "expires_at": "2026-10-19T02:36:35.373Z",
     "classifier_confidence": 0.86,
     "classifier_reasoning": "Heuristic fallback used because OPENAI_API_KEY was not configured.",
     "classifier_version": "fde-classifier-v4",
-    "status": "live",
+    "status": "expired",
     "is_featured": false
   },
   {
@@ -23968,11 +23968,11 @@
     "source_url": "https://jobs.ashbyhq.com/modal/c85a3e3d-f1a5-479d-91e3-9e0b34279a82",
     "first_seen_at": "2026-05-17T12:47:54.049Z",
     "posted_at": "2026-01-12T17:28:31.740+00:00",
-    "expires_at": null,
+    "expires_at": "2026-10-19T02:36:35.373Z",
     "classifier_confidence": 0.86,
     "classifier_reasoning": "Heuristic fallback used because OPENAI_API_KEY was not configured.",
     "classifier_version": "fde-classifier-v4",
-    "status": "live",
+    "status": "expired",
     "is_featured": false
   },
   {

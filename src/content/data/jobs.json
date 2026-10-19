@@ -4174,11 +4174,11 @@
     "source_url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8015848002",
     "first_seen_at": "2026-08-11T06:52:14.250Z",
     "posted_at": "2026-09-28T01:46:37-04:00",
-    "expires_at": null,
+    "expires_at": "2026-10-19T05:26:06.421Z",
     "classifier_confidence": 0.86,
     "classifier_reasoning": "Heuristic fallback used because OPENAI_API_KEY was not configured.",
     "classifier_version": "fde-classifier-v4",
-    "status": "live",
+    "status": "expired",
     "is_featured": false
   },
   {
@@ -4524,11 +4524,11 @@
     "source_url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8099751002",
     "first_seen_at": "2026-05-17T12:47:52.546Z",
     "posted_at": "2026-09-28T01:46:53-04:00",
-    "expires_at": null,
+    "expires_at": "2026-10-19T05:26:06.421Z",
     "classifier_confidence": 0.86,
     "classifier_reasoning": "Heuristic fallback used because OPENAI_API_KEY was not configured.",
     "classifier_version": "fde-classifier-v4",
-    "status": "live",
+    "status": "expired",
     "is_featured": false
   },
   {

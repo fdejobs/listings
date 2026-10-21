@@ -2876,11 +2876,11 @@
     "source_url": "https://jobs.ashbyhq.com/cohere/69a9ab2e-a7eb-4c4f-825a-5c25cf063900",
     "first_seen_at": "2026-06-03T20:00:13.419Z",
     "posted_at": "2025-12-10T00:32:26.898+00:00",
-    "expires_at": null,
+    "expires_at": "2026-10-21T05:28:43.213Z",
     "classifier_confidence": 0.86,
     "classifier_reasoning": "Heuristic fallback used because OPENAI_API_KEY was not configured.",
     "classifier_version": "fde-classifier-v4",
-    "status": "live",
+    "status": "expired",
     "is_featured": false
   },
   {

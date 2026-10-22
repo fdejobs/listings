@@ -2317,11 +2317,11 @@
     "source_url": "https://jobs.ashbyhq.com/cohere/9c18b199-cd1f-4ef3-9fab-ce05589348ae",
     "first_seen_at": "2026-06-22T17:56:21.015Z",
     "posted_at": "2026-01-15T14:54:31.233+00:00",
-    "expires_at": null,
+    "expires_at": "2026-10-22T05:33:01.167Z",
     "classifier_confidence": 0.86,
     "classifier_reasoning": "Heuristic fallback used because OPENAI_API_KEY was not configured.",
     "classifier_version": "fde-classifier-v4",
-    "status": "live",
+    "status": "expired",
     "is_featured": false
   },
   {
@@ -2445,11 +2445,11 @@
     "source_url": "https://jobs.ashbyhq.com/cohere/1fa01a03-9253-4f62-8f10-0fe368b38cb9",
     "first_seen_at": "2026-06-22T17:56:21.015Z",
     "posted_at": "2026-09-01T23:23:18.358+00:00",
-    "expires_at": null,
+    "expires_at": "2026-10-22T05:33:01.167Z",
     "classifier_confidence": 0.86,
     "classifier_reasoning": "Heuristic fallback used because OPENAI_API_KEY was not configured.",
     "classifier_version": "fde-classifier-v4",
-    "status": "live",
+    "status": "expired",
     "is_featured": false
   },
   {

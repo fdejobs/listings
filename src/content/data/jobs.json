@@ -29634,11 +29634,11 @@
     "source_url": "https://jobs.lever.co/palantir/cf5f44ff-1b0b-4752-bcd4-2dc88798f25b",
     "first_seen_at": "2026-07-11T01:54:19.914Z",
     "posted_at": "2026-07-10T22:42:44.034Z",
-    "expires_at": null,
+    "expires_at": "2026-10-30T03:44:40.072Z",
     "classifier_confidence": 0.8,
     "classifier_reasoning": "Heuristic fallback used because OPENAI_API_KEY was not configured.",
     "classifier_version": "fde-classifier-v4",
-    "status": "live",
+    "status": "expired",
     "is_featured": false
   },
   {

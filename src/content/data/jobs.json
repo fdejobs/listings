@@ -2971,11 +2971,11 @@
     "source_url": "https://jobs.ashbyhq.com/cohere/e88931c0-d3fa-4e81-accc-45db823ea616",
     "first_seen_at": "2026-08-11T01:04:56.148Z",
     "posted_at": "2026-08-12T12:43:25.539+00:00",
-    "expires_at": null,
+    "expires_at": "2026-11-05T04:28:53.394Z",
     "classifier_confidence": 0.86,
     "classifier_reasoning": "Heuristic fallback used because OPENAI_API_KEY was not configured.",
     "classifier_version": "fde-classifier-v4",
-    "status": "live",
+    "status": "expired",
     "is_featured": false
   },
   {
@@ -3003,11 +3003,11 @@
     "source_url": "https://jobs.ashbyhq.com/cohere/9c5e1ab3-883b-4d15-885c-76400da7ca11",
     "first_seen_at": "2026-08-11T01:04:56.148Z",
     "posted_at": "2026-08-11T00:16:31.157+00:00",
-    "expires_at": null,
+    "expires_at": "2026-11-05T04:28:53.394Z",
     "classifier_confidence": 0.86,
     "classifier_reasoning": "Heuristic fallback used because OPENAI_API_KEY was not configured.",
     "classifier_version": "fde-classifier-v4",
-    "status": "live",
+    "status": "expired",
     "is_featured": false
   },
   {
@@ -7311,11 +7311,11 @@
     "source_url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8860431002",
     "first_seen_at": "2026-10-08T12:32:46.889Z",
     "posted_at": "2026-10-13T14:20:12-04:00",
-    "expires_at": null,
+    "expires_at": "2026-11-05T04:28:53.394Z",
     "classifier_confidence": 0.86,
     "classifier_reasoning": "Heuristic fallback used because OPENAI_API_KEY was not configured.",
     "classifier_version": "fde-classifier-v4",
-    "status": "live",
+    "status": "expired",
     "is_featured": false
   },
   {
@@ -32763,11 +32763,11 @@
     "source_url": "https://jobs.ashbyhq.com/ramp/9916e9da-7491-4c99-afd1-e4b8158fa58b",
     "first_seen_at": "2026-09-09T02:21:19.776Z",
     "posted_at": "2026-09-08T21:55:39.097+00:00",
-    "expires_at": null,
+    "expires_at": "2026-11-05T04:28:53.394Z",
     "classifier_confidence": 0.8,
     "classifier_reasoning": "Heuristic fallback used because OPENAI_API_KEY was not configured.",
     "classifier_version": "fde-classifier-v4",
-    "status": "live",
+    "status": "expired",
     "is_featured": false
   },
   {

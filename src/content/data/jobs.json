@@ -1706,7 +1706,7 @@
     "role_family": "deployed_engineer",
     "location_type": "onsite",
     "locations": [
-      "San Francisco"
+      "London"
     ],
     "travel_pct_band": "none",
     "customer_facing_pct_band": "med_25_50",
@@ -1770,7 +1770,7 @@
     "role_family": "deployed_engineer",
     "location_type": "onsite",
     "locations": [
-      "San Francisco"
+      "London"
     ],
     "travel_pct_band": "none",
     "customer_facing_pct_band": "high_50_plus",

@@ -33783,11 +33783,11 @@
     "source_url": "https://jobs.ashbyhq.com/ramp/29a5da77-37f0-402a-92bc-072778e77ed8",
     "first_seen_at": "2026-10-22T21:01:58.550Z",
     "posted_at": "2026-10-22T19:20:16.077+00:00",
-    "expires_at": null,
+    "expires_at": "2026-11-22T04:18:58.199Z",
     "classifier_confidence": 0.8,
     "classifier_reasoning": "Heuristic fallback used because OPENAI_API_KEY was not configured.",
     "classifier_version": "fde-classifier-v4",
-    "status": "live",
+    "status": "expired",
     "is_featured": false
   },
   {

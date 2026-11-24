@@ -2084,7 +2084,7 @@
   {
     "slug": "cognition-deployed-engineer-emea-southern-europe-2026-07",
     "company_slug": "cognition",
-    "title": "Forward Deployed Engineer - Europe",
+    "title": "Forward Deployed Engineer - Spain",
     "role_family": "deployed_engineer",
     "location_type": "onsite",
     "locations": [
@@ -2114,7 +2114,7 @@
   {
     "slug": "cognition-deployed-engineer-europe-london-2025-09",
     "company_slug": "cognition",
-    "title": "Forward Deployed Engineer - Europe",
+    "title": "Forward Deployed Engineer - London",
     "role_family": "deployed_engineer",
     "location_type": "onsite",
     "locations": [
@@ -2128,12 +2128,12 @@
     "equity_offered": true,
     "equity_note": "Equity mentioned in source description",
     "benefits_tags": [],
-    "description_md": "We are an applied AI lab building end-to-end software agents.We're the makers of Devin, the first AI software engineer. \n\nOur team is extremely talent-dense. Among our founding team, we have world-class competitive programmers, former founders, and leaders from companies at the cutting edge of AI including Scale AI, Palantir, Cursor, Waymo, Tesla, Lunchclub, Modal, Google DeepMind, and Nuro.\n\nBuilding Devin is just the first step—our hardest challenges still lie ahead. If you’re excited to solve some of the world’s biggest problems and build AI that can reason on real-world tasks, apply to join us.\n\nAbout the RoleAt Cognition, customers are our highest priority. Deployed Engineers (DEs) are customer-facing technical experts who help our customers maximize the value they get out of Devin/Windsurf. \n\nYou’ll work directly with engineers to understand their workflows, identify high-impact use cases, and deploy Devin/Windsurf into real production environments. You’ll lead demos and pilots, support integrations, and drive adoption of the Cognition platform from the inside out.\n\nThis role combines hands-on technical work, customer partnership, and rapid execution. You'll serve a broad range of clients, switching context frequently and staying ahead of issues before they become blockers. You're expected to be proactive, make judgment calls, and take ownership of outcomes.\n\nIn this role, you will:\n\n- Own all technical aspects of the customer lifecycle—from deployment through activation, making sure our customers are successful using Devin\n\n- Work closely with customers to understand their technical challenges and identify the best use cases for Devin to be a productive contributor\n\n- Build deep relationships with our customers’ engineering teams to ensure smooth product integration and adoption, activating top users and driving product utilization\n\n- Build! Always listen to customer feedback, have a bias towards implementing requested features yourself, and advocate for the customers’ needs with the rest of the team\n\n- Be the customer oracle! Exercise your product instincts to help set the roadmap\n\nWhat We Value\n\n- Customer empathy — you care deeply about how engineers work and what helps them succeed\n\n- Ownership mindset — you take responsibility for results, not just tasks\n\n- Technical curiosity — you enjoy digging into unfamiliar systems and understanding how they really work\n\n- Bias toward execution — you move quickly from problem to solution\n\n- Grit — you’re comfortable operating in ambiguous, high-intensity environments\n\n- Exploratory rigor — You poke at edges, ask uncomfortable questions, and would rather find problems yourself than have them find you.\n\nRequirements\n\n- Strong engineering foundation from a rigorous technical environment\n\n- Demonstrated track record of exceptional performance in whatever you've pursued, whether academic, athletic, professional, or entrepreneurial\n\n- Self-directed by default. You don't need a manager to tell you what to do next or how to prioritize.\n\n- Strong communication skills. You can hold your own with senior engineers and executives alike.\n\n- Have a high tolerance for ambiguity, intensity, and sustained effort when the problem demands it.\n\n- Willingness to travel 25–50%\n\nYou might excel if you…\n\n- Advanced in at least one modern programming language (e.g., Python, TypeScript)\n\n- Experience writing and debugging real software systems\n\n- Want to work directly with real users on high-impact technical problems\n\n- Learn quickly by being embedded in challenging, real-world environments\n\n- Have worked at an early-stage startup or in a role where you operated well beyond your job description\n\nOur CommitmentEqual Opportunity. Cognition is an equal opportunity employer. We do not discriminate on the basis of any protected characteristic under applicable law. We are committed to providing reasonable accommodations for candidates with disabilities throughout the hiring process - please let us know if you need any. Cognition also considers applicants with criminal histories consistent with the SF Fair Chance Ordinance and similar local laws.\n\nData Privacy and Arbitration: By submitting your application, you agree to our Global Applicant and Job Candidate Privacy Notice. For US applicants, by submitting your application, you agree to the Applicant Arbitration Agreement.",
+    "description_md": "We are an applied AI lab building end-to-end software agents.We're the makers of Devin, the first AI software engineer. \n\nOur team is extremely talent-dense. Among our founding team, we have world-class competitive programmers, former founders, and leaders from companies at the cutting edge of AI including Scale AI, Palantir, Cursor, Waymo, Tesla, Lunchclub, Modal, Google DeepMind, and Nuro.\n\nBuilding Devin is just the first step—our hardest challenges still lie ahead. If you’re excited to solve some of the world’s biggest problems and build AI that can reason on real-world tasks, apply to join us.\n\nAbout the RoleAt Cognition, customers are our highest priority. Deployed Engineers (DEs) are customer-facing technical experts who help our customers maximize the value they get out of Devin/Windsurf. \n\nCognition is growing fast in London. You can read more about our team and new office here. As a Forward Deployed Engineer, you'll be joining a scaling team early, helping some of Europe's largest engineering organisations adopt Devin and Windsurf, and shaping how the London team grows.\n\nYou’ll work directly with engineers to understand their workflows, identify high-impact use cases, and deploy Devin/Windsurf into real production environments. You’ll lead demos and pilots, support integrations, and drive adoption of the Cognition platform from the inside out.\n\nThis role combines hands-on technical work, customer partnership, and rapid execution. You'll serve a broad range of clients, switching context frequently and staying ahead of issues before they become blockers. You're expected to be proactive, make judgment calls, and take ownership of outcomes.\n\nIn this role, you will:\n\n- Own all technical aspects of the customer lifecycle—from deployment through activation, making sure our customers are successful using Devin\n\n- Work closely with customers to understand their technical challenges and identify the best use cases for Devin to be a productive contributor\n\n- Build deep relationships with our customers’ engineering teams to ensure smooth product integration and adoption, activating top users and driving product utilization\n\n- Build! Always listen to customer feedback, have a bias towards implementing requested features yourself, and advocate for the customers’ needs with the rest of the team\n\n- Be the customer oracle! Exercise your product instincts to help set the roadmap\n\nWhat We Value\n\n- Customer empathy — you care deeply about how engineers work and what helps them succeed\n\n- Ownership mindset — you take responsibility for results, not just tasks\n\n- Technical curiosity — you enjoy digging into unfamiliar systems and understanding how they really work\n\n- Bias toward execution — you move quickly from problem to solution\n\n- Grit — you’re comfortable operating in ambiguous, high-intensity environments\n\n- Exploratory rigor — You poke at edges, ask uncomfortable questions, and would rather find problems yourself than have them find you.\n\nRequirements\n\n- Strong engineering foundation from a rigorous technical environment\n\n- Demonstrated track record of exceptional performance in whatever you've pursued, whether academic, athletic, professional, or entrepreneurial\n\n- Self-directed by default. You don't need a manager to tell you what to do next or how to prioritize.\n\n- Strong communication skills. You can hold your own with senior engineers and executives alike.\n\n- Willingness to travel 25–50%\n\n- On-site in the London office 5 days a week \n\nYou might excel if you…\n\n- Advanced in at least one modern programming language (e.g., Python, TypeScript)\n\n- Experience writing and debugging real software systems\n\n- Want to work directly with real users on high-impact technical problems\n\n- Learn quickly by being embedded in challenging, real-world environments\n\n- Have worked at an early-stage startup or in a role where you operated well beyond your job description\n\nOur CommitmentEqual Opportunity. Cognition is an equal opportunity employer. We do not discriminate on the basis of any protected characteristic under applicable law. We are committed to providing reasonable accommodations for candidates with disabilities throughout the hiring process - please let us know if you need any. Cognition also considers applicants with criminal histories consistent with the SF Fair Chance Ordinance and similar local laws.\n\nData Privacy and Arbitration: By submitting your application, you agree to our Global Applicant and Job Candidate Privacy Notice. For US applicants, by submitting your application, you agree to the Applicant Arbitration Agreement.",
     "apply_url": "https://jobs.ashbyhq.com/cognition/818e3c35-d25b-4aec-a9e1-23cc8328d19c",
     "source_provider": "ashby",
     "source_url": "https://jobs.ashbyhq.com/cognition/818e3c35-d25b-4aec-a9e1-23cc8328d19c",
     "first_seen_at": "2026-06-15T18:24:54.529Z",
-    "posted_at": "2025-09-23T15:07:10.180+00:00",
+    "posted_at": "2026-11-24T13:29:58.226+00:00",
     "expires_at": null,
     "classifier_confidence": 0.86,
     "classifier_reasoning": "Heuristic fallback used because OPENAI_API_KEY was not configured.",
@@ -2755,8 +2755,8 @@
     ],
     "travel_pct_band": "low_0_25",
     "customer_facing_pct_band": "high_50_plus",
-    "comp_base_min": 155000,
-    "comp_base_max": 240000,
+    "comp_base_min": 265000,
+    "comp_base_max": 325000,
     "comp_currency": "USD",
     "equity_offered": false,
     "equity_note": null,
@@ -34802,7 +34802,7 @@
   {
     "slug": "together-ai-forward-deployed-engineer-applied-ai-san-francisco-2026-11",
     "company_slug": "together-ai",
-    "title": "Forward Deployed Engineer (Applied AI)",
+    "title": "Forward Deployed Engineer, Applied AI",
     "role_family": "deployed_engineer",
     "location_type": "onsite",
     "locations": [
@@ -34821,7 +34821,7 @@
     "source_provider": "greenhouse",
     "source_url": "https://job-boards.greenhouse.io/togetherai/jobs/5302781007",
     "first_seen_at": "2026-11-24T03:39:24.293Z",
-    "posted_at": "2026-11-23T12:36:54-05:00",
+    "posted_at": "2026-11-23T23:32:11-05:00",
     "expires_at": null,
     "classifier_confidence": 0.86,
     "classifier_reasoning": "Heuristic fallback used because OPENAI_API_KEY was not configured.",
@@ -34862,7 +34862,7 @@
   {
     "slug": "together-ai-forward-deployed-engineer-inference-and-post-training-mandarin-speaking-singapore-2026-08",
     "company_slug": "together-ai",
-    "title": "Forward Deployed Engineer (Inference & Post-Training) - Mandarin Speaking",
+    "title": "Forward Deployed Engineer, Inference & Post-Training (Mandarin Speaking) ",
     "role_family": "deployed_engineer",
     "location_type": "onsite",
     "locations": [
@@ -34881,7 +34881,7 @@
     "source_provider": "greenhouse",
     "source_url": "https://job-boards.greenhouse.io/togetherai/jobs/5199993007",
     "first_seen_at": "2026-08-05T01:48:39.859Z",
-    "posted_at": "2026-11-02T18:50:26-05:00",
+    "posted_at": "2026-11-23T23:33:17-05:00",
     "expires_at": null,
     "classifier_confidence": 0.86,
     "classifier_reasoning": "Heuristic fallback used because OPENAI_API_KEY was not configured.",
